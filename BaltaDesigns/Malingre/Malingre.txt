@@ -1,0 +1,9 @@
+Longueur au pont : 15,05 m
+Largeur : 4,10 m
+Tirant d'eau : 1,20 - 3,72 m
+Déplacement moyen : 9,5 t
+Voilure :
+Grand'voile : 70 m²
+Foc : 47 m²
+Trinquette : 17 m²
+Total au près : 134 m²
