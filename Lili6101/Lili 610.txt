@@ -1,0 +1,44 @@
+Lili 6.10
+Architecte 
+
+Randonneur côtier.
+
+Les plans de LILI sont numérisés et donc à disposition pour une construction rapide en cousu/collé.
+
+ CARACTÉRISTIQUES :
+– Long. coque : 6m10 (6m)
+– Larg HT : 2m
+– Tirant d’eau : 0m24 / 1m D.Assym.
+– Poids :
+210kg + 110kg ballast
+– Voilure : Misaine 12m2
+– Tape-cul 5m2
+– HB 3,2 4t ou élect. 75kw
+– Cat C
+– Construction : cp/époxy
+
+Prix :
+plans : 600 euros
+barre en main : 24980 euros
+
+
+Lili 6.10	
+Chantier	MER	
+Pays	France	
+Architecte	Gilles Montaubin	
+Longueur de la coque	6.1 m	
+Longueur à la flottaison	6 m	
+Largeur	2 m	
+Tirant d'eau	0.24 / 1.00 m	
+Poids	320 kg	
+Lest	110 kg	
+Voilure	17 m2	
+Catégorie	C	
+Matériau	Contreplaqué époxy	
+Couchettes	2	
+Prix	24 000 €	
+Lancement	2007	
+Ratio V/P (voilure / poids)	53	
+Ratio L/V (lest / voilure)	6	
+Ratio LP (lest / poids)	0.34	
+Ratio ZV	10
