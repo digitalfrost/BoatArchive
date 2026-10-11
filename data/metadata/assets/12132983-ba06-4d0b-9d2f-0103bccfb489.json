@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "12132983-ba06-4d0b-9d2f-0103bccfb489",
+  "contentHash": "3a1c2cc6bb54d7119ec63f3d8cdb4ad2630bbd19f0a3df9162ca149765147883",
+  "currentPath": "Sailboats/Alpa11.50/Alpa 11.50 Genova/alpa-1150-genova-011.jpeg",
+  "originalFilename": "6535c19f0589a-m.jpeg",
+  "pathHistory": [
+    "Alpa11.50/Alpa 11.50 Genova/6535c19f0589a-m.jpeg",
+    "Alpa11.50/Alpa 11.50 Genova/alpa-1150-genova-011.jpeg",
+    "Sailboats/Alpa11.50/Alpa 11.50 Genova/alpa-1150-genova-011.jpeg"
+  ],
+  "status": "present",
+  "sizeBytes": 90451,
+  "modifiedAt": "2023-11-20T21:46:45.195Z",
+  "classId": "091f9707-0f57-4b1e-9f4d-ac17c95d4149",
+  "boatId": "eed88184-7063-4a6b-a80a-aaa7eef91fb0",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

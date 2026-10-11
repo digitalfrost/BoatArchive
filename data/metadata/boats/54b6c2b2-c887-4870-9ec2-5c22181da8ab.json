@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "entityId": "54b6c2b2-c887-4870-9ec2-5c22181da8ab",
+  "kind": "boats",
+  "currentPath": "Sailboats/Pinasses/Pinasse Legeotte",
+  "name": "Pinasse Legeotte",
+  "metadata": null,
+  "classId": null,
+  "sailNumber": null,
+  "pathHistory": [
+    "Pinasses/Pinasse Legeotte",
+    "Sailboats/Pinasses/Pinasse Legeotte"
+  ],
+  "status": "present",
+  "assetIds": [
+    "6e8b6aee-5fe9-48e0-a527-643141e28ca7"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "92318854-29c1-49d4-9f68-cccaec2372ae",
+  "contentHash": "f275b924a16a9f1f1b32c090520c514e85cc5960be608a5983289a98be89a835",
+  "currentPath": "Sailboats/Sharpies/Egrets/Parker Egret/Floret/floret-008.jpg",
+  "originalFilename": "floret_src_3-web.jpg",
+  "pathHistory": [
+    "Sharpies/Egrets/Parker Egret/Floret/floret_src_3-web.jpg",
+    "Sharpies/Egrets/Parker Egret/Floret/floret-008.jpg",
+    "Sailboats/Sharpies/Egrets/Parker Egret/Floret/floret-008.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 242693,
+  "modifiedAt": "2025-05-30T20:06:57.786Z",
+  "classId": "be155d78-af4e-49e4-83ff-8a86cf4a8a02",
+  "boatId": "dc76ca35-8a4a-4300-9e02-9ebd8561a574",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

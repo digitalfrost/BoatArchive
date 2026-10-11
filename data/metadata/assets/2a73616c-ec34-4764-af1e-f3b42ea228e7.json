@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "2a73616c-ec34-4764-af1e-f3b42ea228e7",
+  "contentHash": "d46c7eafb07dabd4a7459eba70874261971b2210b05eeb7dc24815c56b77cdcd",
+  "currentPath": "Sailboats/Drascombes/Peterboats/Flying Fish/flying-fish-002.jpg",
+  "originalFilename": "peterboat5.jpg",
+  "pathHistory": [
+    "Drascombes/Peterboats/Flying Fish/peterboat5.jpg",
+    "Drascombes/Peterboats/Flying Fish/flying-fish-002.jpg",
+    "Sailboats/Drascombes/Peterboats/Flying Fish/flying-fish-002.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 712357,
+  "modifiedAt": "2025-10-22T06:58:34.682Z",
+  "classId": "f4077dfe-14f9-4f3b-8dea-d0f492e5181c",
+  "boatId": "4d547a2f-ac4a-4e4c-b5cd-2e4c6e22df79",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

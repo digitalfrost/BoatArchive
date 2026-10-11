@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "e7037814-d953-4110-8a8a-8d187e6b91bc",
+  "contentHash": "803af8acd5874262988820257bceb0d06486954216ef23b639d6d03fd2adaa86",
+  "currentPath": "Sailboats/Aloes18/aloes18-001.webp",
+  "originalFilename": "aloes18-001.webp",
+  "pathHistory": [
+    "Aloes18/aloes18-001.webp",
+    "Sailboats/Aloes18/aloes18-001.webp"
+  ],
+  "status": "present",
+  "sizeBytes": 120882,
+  "modifiedAt": "2026-10-08T14:53:33.780Z",
+  "classId": "cf3fcd15-0778-4fa1-9a52-71dba91cc23e",
+  "boatId": null,
+  "metadata": "{\"format\":\"webp\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

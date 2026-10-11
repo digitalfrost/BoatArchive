@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "1d256281-54a8-4265-8f39-981d745470af",
+  "contentHash": "3daaa49ad46de8781a26c7d432075955766accc86de6810b5bb5de8ad8eccad6",
+  "currentPath": "Sailboats/Dories/_albums/Dory Racing New England/decked-dory.jpg",
+  "originalFilename": "decked-dory.jpg",
+  "pathHistory": [
+    "Dories/_albums/Dory Racing New England/decked-dory.jpg",
+    "Sailboats/Dories/_albums/Dory Racing New England/decked-dory.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 116151,
+  "modifiedAt": "2025-07-14T13:44:15.124Z",
+  "classId": null,
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "unclassified",
+  "associationOverride": false
+}

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "3e21007d-6a22-45f8-8a00-9f960c76e094",
+  "contentHash": "41ad7f47c1c36c872b088fe148a7b86af99231ea386a20582185dfedd5bac9b7",
+  "currentPath": "Sailboats/Drascombes/Devon Longboat/open-longboat-001.jpg",
+  "originalFilename": "open-longboat-001.jpg",
+  "pathHistory": [
+    "Drascombes/Devon Longboat/open-longboat-001.jpg",
+    "Sailboats/Drascombes/Devon Longboat/open-longboat-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 55443,
+  "modifiedAt": "2025-10-23T15:24:06.018Z",
+  "classId": "34eb5f9f-2b55-4826-abaa-6c1dbd26a74c",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "1713fff0-15d8-446c-bc75-2206f96eafc9",
+  "contentHash": "fc391432303b500c79f749efd773ba90a6d65c253a7a579cb1a70697dc24bd24",
+  "currentPath": "Sailboats/Bettes Marseillaises/Negachi/Negachi.pdf",
+  "originalFilename": "Negachi.pdf",
+  "pathHistory": [
+    "Bettes Marseillaises/Negachi/Negachi.pdf",
+    "Sailboats/Bettes Marseillaises/Negachi/Negachi.pdf"
+  ],
+  "status": "present",
+  "sizeBytes": 1506368,
+  "modifiedAt": "2026-04-30T13:22:31.831Z",
+  "classId": null,
+  "boatId": "fce83f61-319f-4753-aa4d-22672366f065",
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "entityId": "c3478625-d954-46c3-9294-a1efd8a6885a",
+  "kind": "boats",
+  "currentPath": "Sailboats/Dories/Swampscott Dory/Unknown Dory 2",
+  "name": "Unknown Dory 2",
+  "metadata": null,
+  "classId": "2a9b121e-79ee-492a-9087-2c4f0d6eee1e",
+  "sailNumber": null,
+  "pathHistory": [
+    "Dories/Swampscott Dory/Unknown Dory 2",
+    "Sailboats/Dories/Swampscott Dory/Unknown Dory 2"
+  ],
+  "status": "present",
+  "assetIds": [
+    "71a22478-2ba0-4cf6-9dc3-27749febd99f",
+    "7a52c8ef-c0ae-49df-866a-710902c58e45",
+    "ad0a9180-c205-4f43-b6b9-1ec9e176f14b",
+    "beb969fd-68e7-4901-981b-379df85f5fca",
+    "bf29898d-6d7e-46d4-a6af-ea198e412e47",
+    "c13f22a3-19fd-4f7a-a659-99499f3fadc7",
+    "e8537d52-905d-4247-9bde-cfaf7aaf1290",
+    "f9d7ccfa-1813-4f51-9043-af426a85e8c0"
+  ]
+}

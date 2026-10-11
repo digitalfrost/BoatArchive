@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "3eb675d1-72ca-409e-8aa0-5a072f964f0c",
+  "contentHash": "5afea4957bf8c6a40b016347a1064cafd7fcf39b6444a2696d5e76d37d9b5b2f",
+  "currentPath": "Sailboats/Bettes Marseillaises/betou-001.jpg",
+  "originalFilename": "betou-001.jpg",
+  "pathHistory": [
+    "Bettes Marseillaises/betou-001.jpg",
+    "Sailboats/Bettes Marseillaises/betou-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 11641,
+  "modifiedAt": "2026-04-27T13:25:20.415Z",
+  "classId": null,
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "unclassified",
+  "associationOverride": false
+}

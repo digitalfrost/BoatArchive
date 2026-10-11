@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "assetId": "e12a6132-cff4-4e72-84e0-adcb30ce321b",
+  "contentHash": "c5e6c46f8c211c276307d32cce7815f7b3e9f709046aec0e6fe5c315bae6bd71",
+  "currentPath": "Sailboats/Patrick Balta Designs/Gorfu/gorfu-021.gif",
+  "originalFilename": "gorfou-180m.gif",
+  "pathHistory": [
+    "Patrick Balta Designs/Gorfu/gorfou-180m.gif",
+    "Patrick Balta Designs/Gorfu/gorfou-180m-001.gif",
+    "Patrick Balta Designs/Gorfu/gorfu-021.gif",
+    "Sailboats/Patrick Balta Designs/Gorfu/gorfu-021.gif"
+  ],
+  "status": "present",
+  "sizeBytes": 945905,
+  "modifiedAt": "2026-04-30T09:13:16.854Z",
+  "classId": "647a0a37-01fa-4efb-ba7d-730f98f6b631",
+  "boatId": null,
+  "metadata": "{\"format\":\"gif\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "d6897a3b-625f-44bc-a7d5-066f7f7f88fc",
+  "contentHash": "3b9cf3e6923b2ed32a04f02116ecf5256b811a108298761cd084d68c8c25aa3a",
+  "currentPath": "Sailboats/Bettes Marseillaises/bette-003.jpg",
+  "originalFilename": "bette-003.jpg",
+  "pathHistory": [
+    "Bettes Marseillaises/bette-003.jpg",
+    "Sailboats/Bettes Marseillaises/bette-003.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 1272021,
+  "modifiedAt": "2026-04-24T22:03:42.310Z",
+  "classId": null,
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "unclassified",
+  "associationOverride": false
+}

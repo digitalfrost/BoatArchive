@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "2e5e8237-4e1e-4ffb-a7a6-a049d0974b64",
+  "contentHash": "b5be5bbaf24067daf004dd70b29bf6baad902a0fe212ba5b57f34e6ad23882a7",
+  "currentPath": "Sailboats/Dories/North Shore Dory/northshore-dory-001.jpg",
+  "originalFilename": "northshore-dory-001.jpg",
+  "pathHistory": [
+    "Dories/North Shore Dory/northshore-dory-001.jpg",
+    "Sailboats/Dories/North Shore Dory/northshore-dory-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 1136519,
+  "modifiedAt": "2024-07-17T17:06:33.790Z",
+  "classId": "fe531f8a-10aa-413b-bfff-824da00adfda",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "af8798a3-9e71-4055-9926-5c3999d2e251",
+  "contentHash": "994cfce4bbec5d02c2642995477f2a9f6dc395e29a505f7630ababcd680c540a",
+  "currentPath": "Sailboats/Peter Culler Otter/Sleulane/sleulane-001.jpg",
+  "originalFilename": "6227001413_88719f8c8b_o.jpg",
+  "pathHistory": [
+    "Peter Culler Otter/Sleulane/6227001413_88719f8c8b_o.jpg",
+    "Peter Culler Otter/Sleulane/sleulane-001.jpg",
+    "Sailboats/Peter Culler Otter/Sleulane/sleulane-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 906230,
+  "modifiedAt": "2025-06-13T21:10:07.210Z",
+  "classId": "2387e926-6032-46b8-a06f-ec36d147bbe8",
+  "boatId": "cfa1fdf5-3365-40cc-8f94-385028857a82",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

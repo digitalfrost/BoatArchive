@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "entityId": "ce48a433-0dee-41bc-926d-48c05d5ca216",
+  "kind": "classes",
+  "currentPath": "Sailboats/Quarter Tonners/Eygthene 24",
+  "name": "Eygthene 24",
+  "metadata": null,
+  "slug": "eygthene-24-10d8ca18f774",
+  "pathHistory": [
+    "Quarter Tonners/Eygthene 24",
+    "Sailboats/Quarter Tonners/Eygthene 24"
+  ],
+  "status": "present",
+  "assetIds": [
+    "008bb97f-2978-462c-87a8-33c831bf1bd5",
+    "1d488588-4ce9-4a12-b0dd-fdaf85d8b6eb",
+    "41ad2fbb-c4be-4deb-ae12-221a04722ec7",
+    "4781ca9a-fc15-4d45-8a22-80ac36af5262",
+    "5511b8e4-6b75-47c8-b2e1-6d2a21aaaff7",
+    "56be54b1-2872-4030-9cec-2e9e301f7738",
+    "5ffd180b-f8ff-46dd-a746-1f4f3ae24ab0",
+    "78534a69-7969-4574-b0ed-bdaacbcc8e8e",
+    "8217c627-d7ed-4265-ab4f-08e356607539",
+    "8e894bf4-8cc4-444d-bfb9-e6f3a3eed55e",
+    "90befd47-1b17-46b6-b0fa-79e69e44fa2e",
+    "9248d258-9388-4bb6-9264-b33dbd43b168",
+    "ac2f0c39-89d6-4ed3-b7d6-2cc16200bb14",
+    "efdb45fe-cb41-43f0-9575-e73743fa867e"
+  ]
+}

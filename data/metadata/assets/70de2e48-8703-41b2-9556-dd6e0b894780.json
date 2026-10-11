@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "70de2e48-8703-41b2-9556-dd6e0b894780",
+  "contentHash": "b68acc6e816600d30d4d3e1e4fea69e5b74798f497cea6f18d0e0879d58ba119",
+  "currentPath": "Sailboats/Sharpies/Chesapeake Bay Crabbing Skiff/Crab-Skiff-study-plan.pdf",
+  "originalFilename": "Crab-Skiff-study-plan.pdf",
+  "pathHistory": [
+    "Sharpies/Chesapeake Bay Crabbing Skiff/Crab-Skiff-study-plan.pdf",
+    "Sailboats/Sharpies/Chesapeake Bay Crabbing Skiff/Crab-Skiff-study-plan.pdf"
+  ],
+  "status": "present",
+  "sizeBytes": 246190,
+  "modifiedAt": "2024-12-31T14:32:00.172Z",
+  "classId": "a20ca267-7174-443a-a146-45010499bb51",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

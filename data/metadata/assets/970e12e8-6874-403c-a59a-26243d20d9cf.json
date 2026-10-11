@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "970e12e8-6874-403c-a59a-26243d20d9cf",
+  "contentHash": "780b164ced4b4eafcfcee477bf0bb6af2eaa5663c19dcd764e185b1fadf494a7",
+  "currentPath": "Sailboats/Dornas/Dorna-A-Meca-002.jpg",
+  "originalFilename": "Dorna-A-Meca-002.jpg",
+  "pathHistory": [
+    "Dornas/Dorna-A-Meca-002.jpg",
+    "Sailboats/Dornas/Dorna-A-Meca-002.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 94564,
+  "modifiedAt": "2025-07-17T17:14:02.885Z",
+  "classId": "daae6a51-7a1f-4cd4-a9ab-6bcc5106f895",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

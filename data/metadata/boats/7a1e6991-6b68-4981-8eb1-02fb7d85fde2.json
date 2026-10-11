@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "entityId": "7a1e6991-6b68-4981-8eb1-02fb7d85fde2",
+  "kind": "boats",
+  "currentPath": "Sailboats/Yole de Gironde/Baraka",
+  "name": "Baraka",
+  "metadata": null,
+  "classId": "41a9efb0-5574-459d-b503-39ab29fb04f3",
+  "sailNumber": null,
+  "pathHistory": [
+    "Yole de Gironde/Baraka",
+    "Sailboats/Yole de Gironde/Baraka"
+  ],
+  "status": "present",
+  "assetIds": [
+    "0f6362c7-8bde-496d-bf24-2c15b62d4eb1",
+    "2100ae2f-29e1-478e-922a-562f86f29104",
+    "502a6758-013f-4c4f-9a3c-58db3b3607d1",
+    "53771d2f-8f51-4126-977a-4b30ca367686",
+    "53b149e4-621c-4dc5-9e15-dc3a47d38513",
+    "54fde534-8215-45dd-a214-9841951af087",
+    "67e416a9-361b-4352-8207-bbaaf6d9f147",
+    "a2155f05-08dd-4577-a8bc-4722f4b19a97"
+  ]
+}

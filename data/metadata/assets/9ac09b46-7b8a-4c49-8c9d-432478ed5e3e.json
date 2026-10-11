@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "9ac09b46-7b8a-4c49-8c9d-432478ed5e3e",
+  "contentHash": "61770008f91717d672f494c353b19d56be43b434392a8ece6fd78d5a81ba8af2",
+  "currentPath": "Sailboats/Francois Vivier Designs/Meaban/meaban-002.jpg",
+  "originalFilename": "81a1a8de8c9087bf8dbb381c08c969c86304b6c0.jpg",
+  "pathHistory": [
+    "Francois Vivier Designs/Meaban/81a1a8de8c9087bf8dbb381c08c969c86304b6c0.jpg",
+    "Francois Vivier Designs/Meaban/meaban-002.jpg",
+    "Sailboats/Francois Vivier Designs/Meaban/meaban-002.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 100303,
+  "modifiedAt": "2024-04-22T20:23:48.903Z",
+  "classId": "0ba105ef-5f88-4f7e-87d9-f97fc845aa64",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

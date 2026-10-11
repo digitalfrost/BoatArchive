@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "8f580a79-dc00-47d2-bdfe-58a7c532f004",
+  "contentHash": "f104d056c1f3a4d9ff7767d592cf36ed1c461fc51d561c0bdca7530b5c79d819",
+  "currentPath": "Sailboats/Spira Designs/Carolina Dory/carolina-dory-020.jpg",
+  "originalFilename": "s_caro17.jpg",
+  "pathHistory": [
+    "Spira Designs/Carolina Dory/s_caro17.jpg",
+    "Spira Designs/Carolina Dory/carolina-dory-020.jpg",
+    "Sailboats/Spira Designs/Carolina Dory/carolina-dory-020.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 103053,
+  "modifiedAt": "2024-06-01T14:51:08.577Z",
+  "classId": "00b44719-7e75-4d2b-ad00-cd96fe78fbc1",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "c54ecda3-d2e6-423a-ba9b-31bc16262a2d",
+  "contentHash": "05b4352409b21b18ee3018cf5858e932959bd6bf8963d0da6749ec88c072c85a",
+  "currentPath": "Sailboats/Dories/Swampscott Dory/Unknown Dory/thisis-is-the-life-001.jpg",
+  "originalFilename": "thisis-is-the-life-001.jpg",
+  "pathHistory": [
+    "Dories/Swampscott Dory/Unknown Dory/thisis-is-the-life-001.jpg",
+    "Sailboats/Dories/Swampscott Dory/Unknown Dory/thisis-is-the-life-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 338035,
+  "modifiedAt": "2025-06-17T15:17:18.020Z",
+  "classId": "2a9b121e-79ee-492a-9087-2c4f0d6eee1e",
+  "boatId": "5b7bda2d-e314-4c49-80dd-27064bb75608",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

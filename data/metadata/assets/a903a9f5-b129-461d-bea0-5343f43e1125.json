@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "a903a9f5-b129-461d-bea0-5343f43e1125",
+  "contentHash": "01c4a826fcc6c2c85ee56ddb6b53b5200850dcb3a2837dbbbd1a47bea3176762",
+  "currentPath": "Sailboats/Dories/21’ Fishmaker Dory/21-fishmaker-dory-004.jpg",
+  "originalFilename": "6005808609_03c490c667_z.jpg",
+  "pathHistory": [
+    "Dories/21’ Fishmaker Dory/6005808609_03c490c667_z.jpg",
+    "Dories/21’ Fishmaker Dory/21-fishmaker-dory-004.jpg",
+    "Sailboats/Dories/21’ Fishmaker Dory/21-fishmaker-dory-004.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 41570,
+  "modifiedAt": "2025-06-08T20:36:37.113Z",
+  "classId": "ab56b77d-125a-4ad0-8378-83dfdad07536",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

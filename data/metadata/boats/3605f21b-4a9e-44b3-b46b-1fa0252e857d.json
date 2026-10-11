@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "entityId": "3605f21b-4a9e-44b3-b46b-1fa0252e857d",
+  "kind": "boats",
+  "currentPath": "Sailboats/Drascombes/Peterboats/Celtic Witch",
+  "name": "Celtic Witch",
+  "metadata": null,
+  "classId": "f4077dfe-14f9-4f3b-8dea-d0f492e5181c",
+  "sailNumber": null,
+  "pathHistory": [
+    "Drascombes/Peterboats/Celtic Witch",
+    "Sailboats/Drascombes/Peterboats/Celtic Witch"
+  ],
+  "status": "present",
+  "assetIds": [
+    "00887a6a-2553-463a-b264-1132f450ec6e",
+    "00a0bbb7-2115-4a3e-bf22-fca82e23c34c",
+    "227685c7-b1ba-4ee4-9049-6b965ba16cce",
+    "42c1fb87-f54f-44bb-982e-dc055d8a1136",
+    "479ccc5f-0ed6-4416-b9bd-eafb5f6c4e3b",
+    "55e49109-8126-4509-82cd-216c617e8434",
+    "591bc63a-cd8c-4169-8e4b-24b5d7b1d434",
+    "6edbb9ee-0215-4240-b3b9-6f445aa92d6a",
+    "728d60d5-3292-462f-8905-0637ac7f6e84",
+    "9bb8cdda-88bc-4bf4-be70-9056953e681a",
+    "a703613d-2a15-43e1-bb17-064af4eb62c0",
+    "b8cbaf7a-7087-43c8-aa87-87850bdfba16",
+    "c01ce123-f232-47a3-ab6c-1f7f0bdb26d5",
+    "e5c31334-da35-4785-a6d4-f9af0f007cd3"
+  ]
+}

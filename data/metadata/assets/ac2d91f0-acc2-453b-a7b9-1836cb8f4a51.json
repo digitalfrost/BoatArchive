@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "ac2d91f0-acc2-453b-a7b9-1836cb8f4a51",
+  "contentHash": "a920518e29b6cc78d07a406811b530351bea2d3d53f7654be1ff1617cb38760b",
+  "currentPath": "Sailboats/Block Island Cow Horn/Kestrel/Kestrel-004.jpg",
+  "originalFilename": "Kestrel-004.jpg",
+  "pathHistory": [
+    "Block Island Cow Horn/Kestrel/Kestrel-004.jpg",
+    "Sailboats/Block Island Cow Horn/Kestrel/Kestrel-004.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 335859,
+  "modifiedAt": "2025-06-27T13:31:02.284Z",
+  "classId": "249706e2-9898-48bc-8476-a3bfc1c7bcad",
+  "boatId": "e3c5d272-dceb-42ff-b17c-36dda628c98d",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

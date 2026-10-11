@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "494a9a2a-0dbe-4e9c-a47d-d231c2fc959c",
+  "contentHash": "522913e3e9b2075798361843ae3edfd3b6a9c6368aeb40015fe7986550e94bf2",
+  "currentPath": "Sailboats/Dories/John Dory/JohnDoryHullMaterials.pdf",
+  "originalFilename": "JohnDoryHullMaterials.pdf",
+  "pathHistory": [
+    "Dories/John Dory/JohnDoryHullMaterials.pdf",
+    "Sailboats/Dories/John Dory/JohnDoryHullMaterials.pdf"
+  ],
+  "status": "present",
+  "sizeBytes": 39558,
+  "modifiedAt": "2025-06-27T06:24:51.509Z",
+  "classId": "84cc0472-f9e0-423f-924f-52235c191ac3",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

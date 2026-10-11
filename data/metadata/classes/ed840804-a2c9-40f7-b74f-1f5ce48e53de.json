@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "entityId": "ed840804-a2c9-40f7-b74f-1f5ce48e53de",
+  "kind": "classes",
+  "currentPath": "Sailboats/Dories/Dion Dory",
+  "name": "Dion Dory",
+  "metadata": null,
+  "slug": "dion-dory-7215311bc0a6",
+  "pathHistory": [
+    "Dories/Dion Dory",
+    "Sailboats/Dories/Dion Dory"
+  ],
+  "status": "present",
+  "assetIds": [
+    "435b0f1b-f7e4-4d39-9da8-3d5d06b61c66",
+    "94c384fb-e236-41f7-a073-8e6bb041440d",
+    "aba74b02-868b-4529-a058-6b01e5e403a4",
+    "cf87e45e-2a50-42f5-a7c6-87db6f348b63",
+    "ddb10161-418c-4f40-9b2d-0a825962ce83",
+    "f3be30de-0c37-4908-8254-828f23c87015"
+  ]
+}

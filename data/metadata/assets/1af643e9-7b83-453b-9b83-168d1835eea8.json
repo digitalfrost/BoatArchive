@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "1af643e9-7b83-453b-9b83-168d1835eea8",
+  "contentHash": "c4cf4c6b69ee6c27e990025ac3ffe34c91f58d5414bc07928c02f905a98987a0",
+  "currentPath": "Sailboats/Bettes Marseillaises/Negachi/PresentationLANGLORE.pdf",
+  "originalFilename": "PresentationLANGLORE.pdf",
+  "pathHistory": [
+    "Bettes Marseillaises/Negachi/PresentationLANGLORE.pdf",
+    "Sailboats/Bettes Marseillaises/Negachi/PresentationLANGLORE.pdf"
+  ],
+  "status": "present",
+  "sizeBytes": 104091,
+  "modifiedAt": "2026-04-30T13:23:52.571Z",
+  "classId": null,
+  "boatId": "fce83f61-319f-4753-aa4d-22672366f065",
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

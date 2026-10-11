@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "c503ee50-b375-4410-bf1c-0445887cede3",
+  "contentHash": "c6107c6733b220d99e1ee397c7794849ba87273d0b04154edab043cc3ff8fad7",
+  "currentPath": "Sailboats/Sharpies/Egrets/Dandy Egret/dandy-egret-001.jpg",
+  "originalFilename": "DandyEgret.jpg",
+  "pathHistory": [
+    "Sharpies/Egrets/Dandy Egret/DandyEgret.jpg",
+    "Sharpies/Egrets/Dandy Egret/dandy-egret-001.jpg",
+    "Sailboats/Sharpies/Egrets/Dandy Egret/dandy-egret-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 156486,
+  "modifiedAt": "2025-05-30T15:11:39.866Z",
+  "classId": null,
+  "boatId": "bcc7c058-56ef-4e1d-9676-7d5dc1108e54",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

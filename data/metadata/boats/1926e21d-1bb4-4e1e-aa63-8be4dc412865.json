@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "entityId": "1926e21d-1bb4-4e1e-aa63-8be4dc412865",
+  "kind": "boats",
+  "currentPath": "Sailboats/Bettes Marseillaises/Bette Marseillaise 1936",
+  "name": "Bette Marseillaise 1936",
+  "metadata": null,
+  "classId": null,
+  "sailNumber": null,
+  "pathHistory": [
+    "Bettes Marseillaises/Bette Marseillaise 1936",
+    "Sailboats/Bettes Marseillaises/Bette Marseillaise 1936"
+  ],
+  "status": "present",
+  "assetIds": [
+    "36828ef9-e70f-469f-9d0b-554945d0a0e9",
+    "37961435-d2e5-4c2f-aedf-ba8cb7088467",
+    "89c1423c-8bd7-41ee-a412-5d134c1406a8",
+    "a6b56d92-5b20-4178-8619-dffb8f614634",
+    "db64208a-36e3-4c84-a36f-9efadc620ba0"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "b467e915-1485-487c-86d2-67661fc0f907",
+  "contentHash": "7c2442da2a4d8987b86bd29cbbc497932798150a1c83dddc2d88cc3dd40b7568",
+  "currentPath": "Sailboats/Dories/Unindentified Dory/dory-003.jpg",
+  "originalFilename": "dory4.jpg",
+  "pathHistory": [
+    "Dories/Unindentified Dory/dory4.jpg",
+    "Dories/Unindentified Dory/dory-003.jpg",
+    "Sailboats/Dories/Unindentified Dory/dory-003.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 48784,
+  "modifiedAt": "2025-06-03T08:42:54.768Z",
+  "classId": "fd17c10c-3041-4921-bcb1-67c6fc57f5a0",
+  "boatId": null,
+  "metadata": "{\"format\":\"webp\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

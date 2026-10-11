@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "entityId": "0c50a30b-467c-4d3d-bdf3-7caa737328a6",
+  "kind": "classes",
+  "currentPath": "Sailboats/Spira Designs/Hatteras",
+  "name": "Hatteras",
+  "metadata": null,
+  "slug": "hatteras-636597f3fcad",
+  "pathHistory": [
+    "Spira Designs/Hatteras",
+    "Sailboats/Spira Designs/Hatteras"
+  ],
+  "status": "present",
+  "assetIds": [
+    "726d76b5-3602-42ff-bcd0-76f5171b9d96",
+    "b47366e2-2b3f-4747-8b35-8a15af86834c"
+  ]
+}

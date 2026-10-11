@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "aa132316-b5be-4edd-a6c4-a23eb339aaea",
+  "contentHash": "fa83ae78a3893a3d8526cd332811f550ddf01424569c513d789afbe0139ed79b",
+  "currentPath": "Sailboats/Muscongus Bay 18/muscongus-bay-18-001.webp",
+  "originalFilename": "muscongus-bay-18-001.webp",
+  "pathHistory": [
+    "Muscongus Bay 18/muscongus-bay-18-001.webp",
+    "Sailboats/Muscongus Bay 18/muscongus-bay-18-001.webp"
+  ],
+  "status": "present",
+  "sizeBytes": 194710,
+  "modifiedAt": "2025-10-20T20:49:02.289Z",
+  "classId": "6cb48530-1781-4653-9fc5-1468e72ccf13",
+  "boatId": null,
+  "metadata": "{\"format\":\"webp\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "entityId": "cb42297e-62d9-4c35-8380-e25145edd623",
+  "kind": "boats",
+  "currentPath": "Sailboats/Bettes Marseillaises/Bette Ida",
+  "name": "Bette Ida",
+  "metadata": null,
+  "classId": null,
+  "sailNumber": null,
+  "pathHistory": [
+    "Bettes Marseillaises/Bette Ida",
+    "Sailboats/Bettes Marseillaises/Bette Ida"
+  ],
+  "status": "present",
+  "assetIds": [
+    "015c8676-ef11-4448-8a5f-336d6c0941dc",
+    "10370fb8-3939-4d9f-b8ed-ff574b7fc07e",
+    "1aae3fd0-1856-4a5d-a30d-fe4237ac8968",
+    "50833e98-b141-4eb4-99dc-66e6fb84b4a0",
+    "51eb2ef4-6399-4739-a93c-d29b17321c90",
+    "5c00a5d9-163d-488d-a575-a495f523d669",
+    "6856c7fb-5a3c-4766-a18c-3ef029cd0cb5",
+    "a87e600f-db27-4347-ad19-b3f61c25c66d",
+    "c36628b2-d804-43b8-846e-d99063c4a58b",
+    "cad62aea-0de6-48b1-8b17-fa8ad268250b",
+    "e8e7c509-aa64-43ba-b811-50086692c622",
+    "f8e60793-29fe-4aec-859e-6d8ca4aa83a6"
+  ]
+}

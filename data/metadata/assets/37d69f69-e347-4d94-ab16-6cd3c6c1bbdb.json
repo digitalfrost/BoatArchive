@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "37d69f69-e347-4d94-ab16-6cd3c6c1bbdb",
+  "contentHash": "9edef0533c33b019047cdbdbfbc3404f810e18dc09f124ac277539a42c95e6ea",
+  "currentPath": "Sailboats/Dories/Lunenburg Dory/dory-shop-lunenburg-april-2026-001.webp",
+  "originalFilename": "Dory+Shop+Lunenburg+April+2026+-2-16.webp",
+  "pathHistory": [
+    "Dories/Lunenburg Dory/Dory+Shop+Lunenburg+April+2026+-2-16.webp",
+    "Dories/Lunenburg Dory/dory-shop-lunenburg-april-2026-001.webp",
+    "Sailboats/Dories/Lunenburg Dory/dory-shop-lunenburg-april-2026-001.webp"
+  ],
+  "status": "present",
+  "sizeBytes": 100030,
+  "modifiedAt": "2026-10-07T13:48:30.369Z",
+  "classId": "1aa62562-c103-40e5-9780-654d1e4227a5",
+  "boatId": null,
+  "metadata": "{\"format\":\"webp\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

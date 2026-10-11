@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "d66a5a55-c4ca-4447-8de1-0b9f48477802",
+  "contentHash": "b263e34fd6e6401d62d994628ef615e13ff5e6fc83d7ca237958f77497b9d105",
+  "currentPath": "Sailboats/Bettes Marseillaises/_albums/Historical Photos/bettesregate-001.webp",
+  "originalFilename": "bettesregate-11.webp",
+  "pathHistory": [
+    "Bettes Marseillaises/_albums/Historical Photos/bettesregate-11.webp",
+    "Bettes Marseillaises/_albums/Historical Photos/bettesregate-001.webp",
+    "Sailboats/Bettes Marseillaises/_albums/Historical Photos/bettesregate-001.webp"
+  ],
+  "status": "present",
+  "sizeBytes": 8598,
+  "modifiedAt": "2026-04-24T23:21:22.447Z",
+  "classId": null,
+  "boatId": null,
+  "metadata": "{\"format\":\"webp\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "unclassified",
+  "associationOverride": false
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assetId": "28b906e0-0598-469a-a239-da987fc9d69d",
+  "assetRole": "boat-reference",
+  "associationOverride": false,
+  "contentHash": "f8bbdaf734ad8da6c8832534db2e5ce58ac8f6f0fe1ef975adedd3bea1b62d31",
+  "currentPath": "Sailboats/Gaffers/Douglas Stone 20ft Gaff Cutter/gaff-cutter-038.jpg",
+  "originalFilename": "gaff-cutter-038.jpg",
+  "pathHistory": [
+    "Sailboats/Gaffers/Douglas Stone 20ft Gaff Cutter/gaff-cutter-038.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 118419,
+  "modifiedAt": "2026-10-10T18:13:50.323Z",
+  "classId": null,
+  "boatId": "bcc1afee-0678-42df-8d25-cb31a8b9fc63",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": ""
+}

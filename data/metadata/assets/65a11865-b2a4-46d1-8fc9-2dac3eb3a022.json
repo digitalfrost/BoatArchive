@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "65a11865-b2a4-46d1-8fc9-2dac3eb3a022",
+  "contentHash": "363d73b19b02c0caf1e5bcaee80186996343e378cd18cc185c26b2f46e9ee0c8",
+  "currentPath": "Sailboats/Bettes Marseillaises/Attends moi j'arrive/Attends moi… J’arrive.md",
+  "originalFilename": "Attends moi… J’arrive.md",
+  "pathHistory": [
+    "Bettes Marseillaises/Attends moi j'arrive/Attends moi… J’arrive.md",
+    "Sailboats/Bettes Marseillaises/Attends moi j'arrive/Attends moi… J’arrive.md"
+  ],
+  "status": "present",
+  "sizeBytes": 874,
+  "modifiedAt": "2026-10-07T09:55:55.045Z",
+  "classId": null,
+  "boatId": "8bed4c8a-6d7f-4fe6-9e1c-87d4dce0abbd",
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

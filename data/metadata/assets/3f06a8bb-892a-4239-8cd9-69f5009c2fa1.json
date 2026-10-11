@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "3f06a8bb-892a-4239-8cd9-69f5009c2fa1",
+  "contentHash": "de9507a45fc38c45c561772fb38c2187df27d4e96ba4a7c7f8a7a634a1c85169",
+  "currentPath": "Sailboats/Patrick Balta Designs/Gorfu/courbe-001.jpg",
+  "originalFilename": "courbe.jpg",
+  "pathHistory": [
+    "Patrick Balta Designs/Gorfu/courbe.jpg",
+    "Patrick Balta Designs/Gorfu/courbe-001.jpg",
+    "Sailboats/Patrick Balta Designs/Gorfu/courbe-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 46554,
+  "modifiedAt": "2026-04-30T09:13:10.539Z",
+  "classId": "647a0a37-01fa-4efb-ba7d-730f98f6b631",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

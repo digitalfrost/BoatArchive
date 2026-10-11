@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "entityId": "1aa62562-c103-40e5-9780-654d1e4227a5",
+  "kind": "classes",
+  "currentPath": "Sailboats/Dories/Lunenburg Dory",
+  "name": "Lunenburg Dory",
+  "metadata": null,
+  "slug": "lunenburg-dory-b9b3763feca7",
+  "pathHistory": [
+    "Dories/Lunenburg Dory",
+    "Sailboats/Dories/Lunenburg Dory"
+  ],
+  "status": "present",
+  "assetIds": [
+    "241d0e92-d886-4da0-adce-f46b19024f1b",
+    "34f39151-256c-4813-96ba-147646c6aca1",
+    "37d69f69-e347-4d94-ab16-6cd3c6c1bbdb",
+    "5fa82da1-d88e-41c7-86c6-f7340e89ce4b",
+    "64679d18-5ad8-4179-ab93-c5614e82da04",
+    "65aa2e53-6c9a-45e5-98d2-2292349a93a9",
+    "6660098b-bd2c-46e8-a3e2-fa94f9d62113",
+    "75b04499-d82e-4981-afcc-4b3810db4439",
+    "886f65d9-fe19-41f9-a1e3-5a88bd753f07",
+    "8b8474d2-fa7e-4aaa-925d-7f095f15b944",
+    "9627ffcd-594e-47e5-8927-c11ddefe2164",
+    "9668cff5-c2e6-4aad-8be9-127733235872",
+    "a18fd622-0805-4812-a106-83b84a400433",
+    "b96a6ee8-9538-4bd2-b737-0029afa96d84",
+    "d026b656-d662-47ef-8407-6a5252995547",
+    "d9e0a85c-8944-4fcc-9c2e-fc6be58bf1d5",
+    "ea7e65db-2ac0-462d-b85c-0fe4f86fd7b1",
+    "f9d50fe3-f1e5-40a7-96db-d6fba7c68da4"
+  ]
+}

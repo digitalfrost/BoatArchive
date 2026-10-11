@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "assetId": "22d94ed1-9e69-4d9c-b36c-15649c650f0a",
+  "contentHash": "94762d34751613d618f01d22510c1def7e9ffe78e0739567b91f4804ae015cca",
+  "currentPath": "Powerboats/John Atkins 22' Ninigret/ninigret-072.jpg",
+  "originalFilename": "Ninigret-built-by-Duncan-Sclare.jpg",
+  "pathHistory": [
+    "Power Boats/John Atkins 22' Ninigret/Ninigret-built-by-Duncan-Sclare.jpg",
+    "Power Boats/John Atkins 22' Ninigret/ninigret-built-by-duncan-sclare-001.jpg",
+    "Power Boats/John Atkins 22' Ninigret/ninigret-072.jpg",
+    "Powerboats/John Atkins 22' Ninigret/ninigret-072.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 73142,
+  "modifiedAt": "2025-06-13T04:43:17.758Z",
+  "classId": "66f5eea1-5f5d-4450-959c-fcfa11b9b136",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

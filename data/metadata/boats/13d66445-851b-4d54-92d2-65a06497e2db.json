@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "entityId": "13d66445-851b-4d54-92d2-65a06497e2db",
+  "kind": "boats",
+  "currentPath": "Sailboats/Bettes Marseillaises/Nacelle Grachus",
+  "name": "Nacelle Grachus",
+  "metadata": null,
+  "classId": null,
+  "sailNumber": null,
+  "pathHistory": [
+    "Bettes Marseillaises/Nacelle Grachus",
+    "Sailboats/Bettes Marseillaises/Nacelle Grachus"
+  ],
+  "status": "present",
+  "assetIds": [
+    "2309f80f-9233-4d2f-8b9a-e82cb5854d52",
+    "90299748-604d-42ac-aa5d-94c019d30b50",
+    "fd8e75ac-b05b-4b7b-bece-520b8e9fa097"
+  ]
+}

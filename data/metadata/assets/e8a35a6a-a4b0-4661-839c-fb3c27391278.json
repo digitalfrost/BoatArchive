@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "e8a35a6a-a4b0-4661-839c-fb3c27391278",
+  "contentHash": "dc6f01cf4828daab81f13ebe314dab4bb038452dc7b76494bdb11adb3f4adbe3",
+  "currentPath": "Sailboats/Gaffers/Heard Tosher 18/Wild Goose/wild-goose-005.jpg",
+  "originalFilename": "wild-goose-005.jpg",
+  "pathHistory": [
+    "Heard Tosher 18/Wild Goose/wild-goose-005.jpg",
+    "Sailboats/Heard Tosher 18/Wild Goose/wild-goose-005.jpg",
+    "Sailboats/Gaffers/Heard Tosher 18/Wild Goose/wild-goose-005.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 107505,
+  "modifiedAt": "2026-10-09T09:32:24.100Z",
+  "classId": "965b330b-153d-428b-952b-233ce2b038bf",
+  "boatId": "032ce2da-9e01-4621-a971-325e40930a82",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

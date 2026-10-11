@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "72a97bdd-91ad-45d6-aa5a-e19dc7602cd7",
+  "contentHash": "72084ffd5ea8be30b3fa676ace51eed0b5b08bb96c2de388dfa3b2257d0dc5ed",
+  "currentPath": "Sailboats/Pointer 22/pointer22-009.jpg",
+  "originalFilename": "pointer22-009.jpg",
+  "pathHistory": [
+    "Pointer 22/pointer22-009.jpg",
+    "Sailboats/Pointer 22/pointer22-009.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 179638,
+  "modifiedAt": "2026-10-07T09:13:08.568Z",
+  "classId": "90e083f0-b692-4adf-ab29-eaf833e8e85e",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

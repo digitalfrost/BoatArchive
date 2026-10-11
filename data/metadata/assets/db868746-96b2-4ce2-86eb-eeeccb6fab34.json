@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "db868746-96b2-4ce2-86eb-eeeccb6fab34",
+  "contentHash": "d9709a62f543f2718408fe39208d77f2a2ff520c90a454eb652d20e4adc31a0f",
+  "currentPath": "Sailboats/Dories/Swampscott Dory/Unknown Dory/swampscott-dory-illustration.jpg",
+  "originalFilename": "swampscott-dory-illustration.jpg",
+  "pathHistory": [
+    "Dories/Swampscott Dory/Unknown Dory/swampscott-dory-illustration.jpg",
+    "Sailboats/Dories/Swampscott Dory/Unknown Dory/swampscott-dory-illustration.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 210173,
+  "modifiedAt": "2025-06-17T15:20:53.757Z",
+  "classId": "2a9b121e-79ee-492a-9087-2c4f0d6eee1e",
+  "boatId": "5b7bda2d-e314-4c49-80dd-27064bb75608",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "b07b1f2c-e6b7-4214-8ff5-22d17fa36390",
+  "contentHash": "0a2b93412c0b3fa393abb1e8d253afc75a93d61d04a841132fb3d830897ea5ed",
+  "currentPath": "Sailboats/Celtic Longboat/celtic-longboat-oarlock.jpg",
+  "originalFilename": "celtic-longboat-oarlock.jpg",
+  "pathHistory": [
+    "Celtic Longboat/celtic-longboat-oarlock.jpg",
+    "Sailboats/Celtic Longboat/celtic-longboat-oarlock.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 136056,
+  "modifiedAt": "2026-04-15T13:27:59.609Z",
+  "classId": "02661e32-1558-4e01-910f-fa33a30b84ec",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

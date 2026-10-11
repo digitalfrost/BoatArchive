@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "2dfe3542-007b-483f-bfd8-d94569e59f44",
+  "contentHash": "ac479f5986f38aa9a4989e92bd554e829c4f0595313aab169dea139b07159b2b",
+  "currentPath": "Sailboats/Dories/John Dory/johnt-dory-003.jpg",
+  "originalFilename": "JohnDory0019web.jpg",
+  "pathHistory": [
+    "Dories/John Dory/JohnDory0019web.jpg",
+    "Dories/John Dory/johnt-dory-003.jpg",
+    "Sailboats/Dories/John Dory/johnt-dory-003.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 1029050,
+  "modifiedAt": "2024-07-17T17:37:42.492Z",
+  "classId": "84cc0472-f9e0-423f-924f-52235c191ac3",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

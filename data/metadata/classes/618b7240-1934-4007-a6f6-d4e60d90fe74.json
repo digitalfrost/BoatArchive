@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "entityId": "618b7240-1934-4007-a6f6-d4e60d90fe74",
+  "kind": "classes",
+  "currentPath": "Sailboats/Dories/Alpha Beachcomber",
+  "name": "Alpha Beachcomber",
+  "metadata": null,
+  "slug": "alpha-beachcomber-3c7925620140",
+  "pathHistory": [
+    "Dories/Alpha Beachcomber",
+    "Sailboats/Dories/Alpha Beachcomber"
+  ],
+  "status": "present",
+  "assetIds": [
+    "1380be12-6cf2-43f4-9b70-9081267436f3",
+    "17ff8760-352a-4e81-ab3c-d2091cb816fa",
+    "25519df1-9f98-4292-ba40-f1eb81702969",
+    "332f5623-4ef0-4393-b184-92d236086dd7",
+    "34be4a60-4863-4212-881b-5c6ec770a412",
+    "5dd05070-564f-4983-903d-4ea5ef301305",
+    "614c2465-de91-46b9-9386-71b531045b39",
+    "644a9ca0-baad-4b1b-b7aa-197be01935f8",
+    "672d17ba-6bb7-4c87-aea6-ec7513448d01",
+    "7746fefe-4870-4304-9d8d-ac9711cbc138",
+    "801e849d-74c8-4dc8-a082-cc5471cff145",
+    "c465ddb5-c409-4a8a-82cb-3d4647025f22",
+    "c5012324-9670-433f-9784-7ff165b067ce",
+    "e111aeb1-f92e-498d-a22a-9315aa37c736",
+    "f3fed2af-404a-4ab6-b284-2f0135f92c9d"
+  ]
+}

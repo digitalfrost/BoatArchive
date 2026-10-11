@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "8cbcfee9-2286-42a1-b5a6-d6998b829508",
+  "contentHash": "649619eeb5cfd3e00a07feca93d41848cf4d9ebb93f28113972ffde3435e8157",
+  "currentPath": "Sailboats/Drascombes/Peterboats/Katie Mae/katie-mae-002.jpeg",
+  "originalFilename": "katie-mae-002.jpeg",
+  "pathHistory": [
+    "Drascombes/Peterboats/Katie Mae/katie-mae-002.jpeg",
+    "Sailboats/Drascombes/Peterboats/Katie Mae/katie-mae-002.jpeg"
+  ],
+  "status": "present",
+  "sizeBytes": 44187,
+  "modifiedAt": "2025-10-22T13:16:04.589Z",
+  "classId": "f4077dfe-14f9-4f3b-8dea-d0f492e5181c",
+  "boatId": "6650c51d-0f1a-4e5c-8e35-b5323336d2f4",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

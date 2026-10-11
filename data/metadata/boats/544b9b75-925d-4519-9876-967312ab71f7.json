@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "entityId": "544b9b75-925d-4519-9876-967312ab71f7",
+  "kind": "boats",
+  "currentPath": "Sailboats/Hereshoff/Hereshoff Flutterby",
+  "name": "Hereshoff Flutterby",
+  "metadata": null,
+  "classId": "d1ccd30c-a8eb-48b7-9374-1a9f8ef7b62a",
+  "sailNumber": null,
+  "pathHistory": [
+    "Hereshoff/Hereshoff Flutterby",
+    "Sailboats/Hereshoff/Hereshoff Flutterby"
+  ],
+  "status": "present",
+  "assetIds": [
+    "08092230-a159-4bb8-9a28-e0eb7dc937e8",
+    "472e6842-049b-4b5c-a19e-1315b1206e7e",
+    "4e54f712-518f-4235-9089-4d7ad6e4605b",
+    "5979dc7b-0edb-4491-9853-a08d7bd102bc",
+    "5cb76632-1d5d-41d4-8383-aafbe44ae66c",
+    "6eade7af-adec-46cc-b1f9-65d814400242",
+    "805eec93-8d07-4f23-a491-7cc67948daf0",
+    "8ce624e2-d9a6-43ca-a333-0b27cad60df9",
+    "8f2a7dae-4320-4de5-8d4c-94eb455efe6e",
+    "932bcf2e-6f84-49d4-bc26-ba67e2d1f6c3",
+    "a3fa8dd4-8840-4d1d-9e84-abc9e29465e5",
+    "cb32d4ef-be0d-4ebc-a6b7-b95f25831617",
+    "da0f53b5-9479-4d09-a344-b22c5a3e1505",
+    "e2a46837-bd67-4242-81e6-90e1c0058069",
+    "fe29ec90-6ccc-45d5-9e4e-d80f1dda599e"
+  ]
+}

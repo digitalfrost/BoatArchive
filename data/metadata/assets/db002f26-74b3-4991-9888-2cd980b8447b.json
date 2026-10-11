@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "db002f26-74b3-4991-9888-2cd980b8447b",
+  "contentHash": "469ecfb8aa1209534c366453afee510c3316b3de4d0897cfd8df54a3999f9f03",
+  "currentPath": "Sailboats/Drascombes/Peterboats/4.5m Peterboat/4_5m-peterboat-002.jpg",
+  "originalFilename": "4_5m-peterboat-002.jpg",
+  "pathHistory": [
+    "Drascombes/Peterboats/4.5m Peterboat/4_5m-peterboat-002.jpg",
+    "Sailboats/Drascombes/Peterboats/4.5m Peterboat/4_5m-peterboat-002.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 57192,
+  "modifiedAt": "2025-10-23T15:22:21.143Z",
+  "classId": "f4077dfe-14f9-4f3b-8dea-d0f492e5181c",
+  "boatId": "ff00f3db-eb7f-4fb6-bfde-51c461bed49d",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

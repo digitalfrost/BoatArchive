@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "entityId": "79be72f5-0741-4a84-a206-4481b80b79c0",
+  "kind": "classes",
+  "currentPath": "Sailboats/Drascombes/Drascombe Lugger",
+  "name": "Drascombe Lugger",
+  "metadata": null,
+  "slug": "drascombe-lugger-1dacc0cc3712",
+  "pathHistory": [
+    "Drascombes/Drascombe Lugger",
+    "Sailboats/Drascombes/Drascombe Lugger"
+  ],
+  "status": "present",
+  "assetIds": [
+    "3379f3b0-ebdf-44e7-9dda-830ca72a2317",
+    "57b81a94-5795-4f11-9bef-4303e18984da",
+    "5c561a79-1f3c-40cb-ae9e-227915a4f4d6",
+    "66adc7e3-fdf9-45db-a529-07d4d03ee4e8",
+    "7644bf73-3d06-4f4b-ab6c-c864ef879a54",
+    "a5599ae5-cd42-4290-913f-d9201824652b",
+    "c9869420-a3c1-446a-bd6d-e0ceb0050021",
+    "ed84e8cf-7042-4a8e-a32e-58425106b156",
+    "f7764561-aae5-4f54-a678-00d6b3bb6dfb"
+  ]
+}

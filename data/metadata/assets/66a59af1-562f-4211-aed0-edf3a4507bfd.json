@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "66a59af1-562f-4211-aed0-edf3a4507bfd",
+  "contentHash": "19306ee05e239f1aa2926c7c607d7a807ad6d5e893cb237077d63289c4cfa78c",
+  "currentPath": "Sailboats/Dories/IMG_09971.jpg",
+  "originalFilename": "IMG_09971.jpg",
+  "pathHistory": [
+    "Dories/IMG_09971.jpg",
+    "Sailboats/Dories/IMG_09971.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 683839,
+  "modifiedAt": "2024-04-08T07:57:40.462Z",
+  "classId": null,
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "unclassified",
+  "associationOverride": false
+}

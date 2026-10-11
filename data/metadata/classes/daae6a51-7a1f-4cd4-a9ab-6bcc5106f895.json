@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "entityId": "daae6a51-7a1f-4cd4-a9ab-6bcc5106f895",
+  "kind": "classes",
+  "currentPath": "Sailboats/Dornas",
+  "name": "Dornas",
+  "metadata": null,
+  "slug": "dornas-50ace723efc5",
+  "pathHistory": [
+    "Dornas",
+    "Sailboats/Dornas"
+  ],
+  "status": "present",
+  "assetIds": [
+    "533c2aff-6a9e-4957-98a0-2421c096e622",
+    "592e6b98-a422-4de3-a12e-b409203abb0f",
+    "5c3d1e29-ea70-4194-aa77-e05b2dcfbffe",
+    "5d189078-2d64-45f2-919c-e189e8ac96a0",
+    "671df620-8934-429f-9773-51885c70a985",
+    "6d435087-62c0-4e14-9947-fcd9bbc73790",
+    "7a307dda-d419-4ce7-b1ed-7124b319471d",
+    "970e12e8-6874-403c-a59a-26243d20d9cf",
+    "b00a340a-ba85-4b23-bcb5-3a43720b22eb",
+    "c4e4fa9d-3d2f-43b4-92de-6afe56ebc208",
+    "cca77abe-35cc-41be-a6cb-9601476ab688",
+    "ce8c2925-36e6-4072-9a58-7bf0f1fabc7e",
+    "da651539-2b32-40ae-997b-d1e8861c8a6d",
+    "e406fda9-e937-479e-bc4e-502d58368938"
+  ]
+}

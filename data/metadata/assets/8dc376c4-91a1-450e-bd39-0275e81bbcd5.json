@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "8dc376c4-91a1-450e-bd39-0275e81bbcd5",
+  "contentHash": "40f06f98ae0456024f0cb323e3bfedee842b0f3de1de4ad1f183cc015c13da17",
+  "currentPath": "Sailboats/KBane 710/Lou Galip/a-vendre-k-bane-710.docx",
+  "originalFilename": "a-vendre-k-bane-710.docx",
+  "pathHistory": [
+    "KBane 710/Lou Galip/a-vendre-k-bane-710.docx",
+    "Sailboats/KBane 710/Lou Galip/a-vendre-k-bane-710.docx"
+  ],
+  "status": "present",
+  "sizeBytes": 762708,
+  "modifiedAt": "2025-11-13T19:52:03.604Z",
+  "classId": "0dba06a2-72e4-47b5-ad4a-8a6d43a7a7e9",
+  "boatId": "ebda3268-43f8-424d-9273-cc29eda7d697",
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

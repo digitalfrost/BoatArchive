@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "76777c18-13a9-4fe6-9c4f-975f0f7abcab",
+  "contentHash": "fbf8cd62fd28f59da6535174147be3a990ba6bccd95b96212d2fe54b0631dd7a",
+  "currentPath": "Sailboats/Yole de Gironde/desktop.ini",
+  "originalFilename": "desktop.ini",
+  "pathHistory": [
+    "Yole de Gironde/desktop.ini",
+    "Sailboats/Yole de Gironde/desktop.ini"
+  ],
+  "status": "present",
+  "sizeBytes": 88,
+  "modifiedAt": "2026-10-09T21:58:39.513Z",
+  "classId": "41a9efb0-5574-459d-b503-39ab29fb04f3",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

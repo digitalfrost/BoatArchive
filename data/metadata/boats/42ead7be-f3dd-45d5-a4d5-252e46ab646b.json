@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "entityId": "42ead7be-f3dd-45d5-a4d5-252e46ab646b",
+  "kind": "boats",
+  "currentPath": "Sailboats/Bettes Marseillaises/Petite Bette",
+  "name": "Petite Bette",
+  "metadata": null,
+  "classId": null,
+  "sailNumber": null,
+  "pathHistory": [
+    "Bettes Marseillaises/Petite Bette",
+    "Sailboats/Bettes Marseillaises/Petite Bette"
+  ],
+  "status": "present",
+  "assetIds": [
+    "1c6f4d9d-b1ab-48ed-9a87-11bf8de3934e",
+    "42b4654c-86d7-44d6-b7f1-621cfa8acb17",
+    "6bf623ee-99f3-43da-b82c-dafe8b1f36c4",
+    "e8597781-4448-4e59-a9a9-497d181d375b",
+    "edfc12fd-1105-4967-8b6e-ab00703b436b",
+    "f1c189f3-f438-45bb-a62f-061dfcd7e39b",
+    "fec5a6a4-cba4-49d2-b3cc-41afbbe711cc"
+  ]
+}

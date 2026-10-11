@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "c19eab17-4373-48f6-8560-932a83074cea",
+  "contentHash": "a23866c645670c8dbba812893293c2d2aca6c38f2f9ef1a0621029f9da1a66b0",
+  "currentPath": "Sailboats/Lili 610/aloes-et-lili-comparatif-002.webp",
+  "originalFilename": "aloes-et-lili-comparatif-002.webp",
+  "pathHistory": [
+    "Lili 610/aloes-et-lili-comparatif-002.webp",
+    "Sailboats/Lili 610/aloes-et-lili-comparatif-002.webp"
+  ],
+  "status": "present",
+  "sizeBytes": 127036,
+  "modifiedAt": "2026-06-02T09:44:43.145Z",
+  "classId": "39123acd-2894-4959-8c91-712c9559a942",
+  "boatId": null,
+  "metadata": "{\"format\":\"webp\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "entityId": "6650c51d-0f1a-4e5c-8e35-b5323336d2f4",
+  "kind": "boats",
+  "currentPath": "Sailboats/Drascombes/Peterboats/Katie Mae",
+  "name": "Katie Mae",
+  "metadata": null,
+  "classId": "f4077dfe-14f9-4f3b-8dea-d0f492e5181c",
+  "sailNumber": null,
+  "pathHistory": [
+    "Drascombes/Peterboats/Katie Mae",
+    "Sailboats/Drascombes/Peterboats/Katie Mae"
+  ],
+  "status": "present",
+  "assetIds": [
+    "0029b67a-45c6-4e52-a4cb-8a7ff8d3466f",
+    "046dce78-09c7-4189-960b-f2f4ec38d7c7",
+    "2384fff8-9841-4473-b31b-81635f6311f6",
+    "4fcc426f-1be6-4efa-990a-6d3dfa64babf",
+    "7df56191-bf7f-43a2-bb8a-ee0b2d281f93",
+    "8cbcfee9-2286-42a1-b5a6-d6998b829508",
+    "a22035fc-614c-4b3b-84a6-9ea163e23677",
+    "ecf49c0d-8470-4e01-9c2a-d79b92eeb47a"
+  ]
+}

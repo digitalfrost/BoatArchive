@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "entityId": "e84c4467-cd68-4652-82ef-cff75a469690",
+  "kind": "boats",
+  "currentPath": "Sailboats/Baglietto 18/Annik",
+  "name": "Annik",
+  "metadata": null,
+  "classId": "c3a05d00-45f6-4676-9134-b184e1218fa2",
+  "sailNumber": null,
+  "pathHistory": [
+    "Baglietto 18/Annik",
+    "Sailboats/Baglietto 18/Annik"
+  ],
+  "status": "present",
+  "assetIds": [
+    "0dcf26b4-e9bd-45e8-915a-6e085e38ce8d",
+    "10515a78-d196-4014-9ee7-2d479c2cdb22",
+    "10b2cb62-b903-460d-83d2-067ceb676fe6",
+    "36c6472b-e7bc-41c9-9eff-0e064d2bb83f",
+    "38165f7f-bdc9-484e-a9b4-603b951499bf",
+    "55e417e5-1ad9-439f-af0c-80015c2e4a41",
+    "717220dd-ae11-447a-a15b-4ae47148ece5",
+    "7b18fe56-163d-46dd-a365-b875d8099ea4",
+    "85a48806-5bff-46e6-8232-387a2cff5b93",
+    "86344644-9f3f-4b45-9807-7c41e018dcde",
+    "8e96a7ff-0cb2-4ccd-be22-421b12cd2426",
+    "950e024f-3a58-4315-b450-9036844be872",
+    "9afb409e-a47c-4217-b6b7-03504b93e81b",
+    "9d73f56f-8939-4059-b7f1-b1455a857666",
+    "9f3e7f81-6b11-46fe-8192-507d35ddedb9",
+    "ade4e979-7a65-4a10-8bfd-3f33fc6c7ee8",
+    "ba174f58-d5ca-4ad2-929c-6905afadca63",
+    "bce04639-2fc3-4c27-af2f-22edcb1c9a9f",
+    "be356186-6366-48ab-8bf2-31ffeab0ef55",
+    "c9a583a6-dcd7-402b-bcd4-3f077a99b347",
+    "d9cc08ff-f12d-4031-a3ec-5ec813332180",
+    "eb64349e-011b-4db6-8711-9f19bef4206d",
+    "ed2434c6-2ad1-4588-bb20-ac6dc347ee1d",
+    "ed6a3e6d-b975-453d-87a0-0d3dab7a12e4",
+    "f461f54b-3887-4490-b2f8-17277f494558"
+  ]
+}

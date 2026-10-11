@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "4ca10f2f-f1de-43cb-9c37-c2efbac17b97",
+  "contentHash": "ee82e88e932f7ec0b76c687912f5ce74b4bcf1da8669916266e4cd36c2ced2ec",
+  "currentPath": "Sailboats/Dories/19’6” Modified Banks Dory/Twin-Dories-45.jpeg",
+  "originalFilename": "Twin-Dories-45.jpeg",
+  "pathHistory": [
+    "Dories/19’6” Modified Banks Dory/Twin-Dories-45.jpeg",
+    "Sailboats/Dories/19’6” Modified Banks Dory/Twin-Dories-45.jpeg"
+  ],
+  "status": "present",
+  "sizeBytes": 235650,
+  "modifiedAt": "2025-06-25T14:59:40.819Z",
+  "classId": "d9324885-e7d0-4765-910f-181d58fef2f0",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

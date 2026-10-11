@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "9e2305a1-267c-4cfe-b762-956fba27ef8b",
+  "contentHash": "6ddde32e35e311aaaa6fe1988dc80a21e5963ed30b63e3e09d1dfffe8bc38a0e",
+  "currentPath": "Sailboats/Bettes Marseillaises/pointu-antiquité.jpg",
+  "originalFilename": "pointu-antiquité.jpg",
+  "pathHistory": [
+    "Bettes Marseillaises/pointu-antiquité.jpg",
+    "Sailboats/Bettes Marseillaises/pointu-antiquité.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 212711,
+  "modifiedAt": "2026-04-27T13:26:56.009Z",
+  "classId": null,
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "unclassified",
+  "associationOverride": false
+}

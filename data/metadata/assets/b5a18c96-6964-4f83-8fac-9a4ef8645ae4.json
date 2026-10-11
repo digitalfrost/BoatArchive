@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "b5a18c96-6964-4f83-8fac-9a4ef8645ae4",
+  "contentHash": "c8e8601c195565cdb42f0533968d34115f19b2cd03d8c882cce838a75df22077",
+  "currentPath": "Sailboats/Ian Oughtred Designs/Sooty Tern/sooty-tern-003.jpg",
+  "originalFilename": "SootyTern3.jpg",
+  "pathHistory": [
+    "Ian Oughtred Designs/Sooty Tern/SootyTern3.jpg",
+    "Ian Oughtred Designs/Sooty Tern/sooty-tern-003.jpg",
+    "Sailboats/Ian Oughtred Designs/Sooty Tern/sooty-tern-003.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 78502,
+  "modifiedAt": "2025-10-29T21:44:25.787Z",
+  "classId": "473945a2-af07-4b35-932d-a17a4bec340e",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

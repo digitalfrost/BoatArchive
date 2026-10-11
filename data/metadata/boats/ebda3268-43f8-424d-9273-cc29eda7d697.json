@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "entityId": "ebda3268-43f8-424d-9273-cc29eda7d697",
+  "kind": "boats",
+  "currentPath": "Sailboats/KBane 710/Lou Galip",
+  "name": "Lou Galip",
+  "metadata": null,
+  "classId": "0dba06a2-72e4-47b5-ad4a-8a6d43a7a7e9",
+  "sailNumber": null,
+  "pathHistory": [
+    "KBane 710/Lou Galip",
+    "Sailboats/KBane 710/Lou Galip"
+  ],
+  "status": "present",
+  "assetIds": [
+    "10088d1d-eced-4dfc-b806-80e3862d8b25",
+    "2e96282e-e86d-405c-8946-66f9e5f328d9",
+    "33004310-4902-470f-b947-026f37ee8444",
+    "5b54a3c4-f9d0-4a74-8461-4db023052bb6",
+    "6b3fec6f-41a4-4c39-9e2d-53953a873f97",
+    "6e048e5a-7492-4eb5-aa1d-7e063d14a47c",
+    "716dddcd-5ddc-4f35-a4fc-0d16771f93c2",
+    "78798a0b-7a07-43e6-a80f-0f4e81a08ff6",
+    "7bf0b158-877c-47f3-bbd6-6a74fd5c9382",
+    "85dbf077-6177-4b48-b8b8-59f3a299167f",
+    "8b501880-2fcd-47a1-9526-33b739ebe300",
+    "8dc376c4-91a1-450e-bd39-0275e81bbcd5",
+    "98ee0d92-2f40-480b-8266-ab16892a4c6d",
+    "9e379c83-b9c9-4ebb-93d4-2f6a75fe3a5a",
+    "aad5b23f-e22d-4ebf-a3ec-a7eaeb8ef192",
+    "b6a52767-293f-4789-b62c-1e17bc5747a1",
+    "b7bea910-f32a-4ce1-9438-88912887646c",
+    "ba6391d0-9088-4abd-9f3b-75deae63a8dc",
+    "cba4972d-51b4-401c-8142-50217e61be3b",
+    "dc08d7f0-16c4-4d32-9032-a1a66106b3cc",
+    "dc5c78c3-f870-41ec-956f-80440c39f2a4",
+    "eaac1bc7-a799-48f5-830d-98fbed7a6ae9"
+  ]
+}

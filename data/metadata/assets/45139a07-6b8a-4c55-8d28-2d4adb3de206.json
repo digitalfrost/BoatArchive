@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "45139a07-6b8a-4c55-8d28-2d4adb3de206",
+  "contentHash": "7ff7c6ec1aa5c9bebe6ba686254fbfbd7f37fef3dc36bbd5c6e73e78bb1f9b16",
+  "currentPath": "Sailboats/Bettes Marseillaises/Magaluno/maguluno-037.jpg",
+  "originalFilename": "0809719001371847360.jpg",
+  "pathHistory": [
+    "Bettes Marseillaises/Magaluno/0809719001371847360.jpg",
+    "Bettes Marseillaises/Magaluno/maguluno-037.jpg",
+    "Sailboats/Bettes Marseillaises/Magaluno/maguluno-037.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 388890,
+  "modifiedAt": "2026-05-03T12:22:38.650Z",
+  "classId": null,
+  "boatId": "96772105-507b-4bcc-9454-24066421fe57",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

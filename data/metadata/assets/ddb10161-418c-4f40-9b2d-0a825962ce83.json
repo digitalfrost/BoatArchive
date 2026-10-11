@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "ddb10161-418c-4f40-9b2d-0a825962ce83",
+  "contentHash": "15478270c65fa410057d6a431439de3c367a4098b76b30314a21f22a4165e1b4",
+  "currentPath": "Sailboats/Dories/Dion Dory/dion-dory-003.jpg",
+  "originalFilename": "DionDory3.jpg",
+  "pathHistory": [
+    "Dories/Dion Dory/DionDory3.jpg",
+    "Dories/Dion Dory/dion-dory-003.jpg",
+    "Sailboats/Dories/Dion Dory/dion-dory-003.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 1049852,
+  "modifiedAt": "2025-10-18T21:56:00.384Z",
+  "classId": "ed840804-a2c9-40f7-b74f-1f5ce48e53de",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

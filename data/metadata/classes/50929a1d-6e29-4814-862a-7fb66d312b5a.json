@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "entityId": "50929a1d-6e29-4814-862a-7fb66d312b5a",
+  "kind": "classes",
+  "currentPath": "Sailboats/Spira Designs/Marsh Rat Duck Hunting Boat",
+  "name": "Marsh Rat Duck Hunting Boat",
+  "metadata": null,
+  "slug": "marsh-rat-duck-hunting-boat-508dd246a80a",
+  "pathHistory": [
+    "Spira Designs/Marsh Rat Duck Hunting Boat",
+    "Sailboats/Spira Designs/Marsh Rat Duck Hunting Boat"
+  ],
+  "status": "present",
+  "assetIds": [
+    "14f02cb1-64fb-4a71-bdd2-11b44ec4895e",
+    "6e96e3f2-4722-4dd8-8306-d33dc6a574e7",
+    "bba89d9d-553a-4681-8f4f-7230113d128a",
+    "da276e74-1100-4cd4-9e1d-b743f7face67"
+  ]
+}

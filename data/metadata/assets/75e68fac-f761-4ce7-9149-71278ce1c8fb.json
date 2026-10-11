@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "75e68fac-f761-4ce7-9149-71278ce1c8fb",
+  "contentHash": "e1e78173029a9fe322d15143d45b01dd1a55e77df201dec74b6adfa3537478a4",
+  "currentPath": "Sailboats/Phoenix 3/PH3_Study_Metric.pdf",
+  "originalFilename": "PH3_Study_Metric.pdf",
+  "pathHistory": [
+    "Phoenix 3/PH3_Study_Metric.pdf",
+    "Sailboats/Phoenix 3/PH3_Study_Metric.pdf"
+  ],
+  "status": "present",
+  "sizeBytes": 888898,
+  "modifiedAt": "2026-04-03T07:47:57.881Z",
+  "classId": "a0929fb8-01c6-4c0e-9d6d-47d395b93eb8",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

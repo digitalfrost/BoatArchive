@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "entityId": "c60243d2-c570-4241-99e5-709a5a8a6369",
+  "kind": "boats",
+  "currentPath": "Sailboats/Sharpies/Sharp End 900",
+  "name": "Sharp End 900",
+  "metadata": null,
+  "classId": "fef4abd1-397d-468e-9a56-f53797182d36",
+  "sailNumber": null,
+  "pathHistory": [
+    "Sharpies/Sharp End 900",
+    "Sailboats/Sharpies/Sharp End 900"
+  ],
+  "status": "missing",
+  "assetIds": []
+}

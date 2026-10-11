@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "f7764561-aae5-4f54-a678-00d6b3bb6dfb",
+  "contentHash": "5d1c4651656f037aaaab010b6cbc6f6afc444512409d320a3dba14d03c7bc8b8",
+  "currentPath": "Sailboats/Drascombes/Drascombe Lugger/drascombe-lugger-outboar-well-004.jpg",
+  "originalFilename": "drascombe-lugger-outboar-well-004.jpg",
+  "pathHistory": [
+    "Drascombes/Drascombe Lugger/drascombe-lugger-outboar-well-004.jpg",
+    "Sailboats/Drascombes/Drascombe Lugger/drascombe-lugger-outboar-well-004.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 276079,
+  "modifiedAt": "2025-10-22T06:42:41.201Z",
+  "classId": "79be72f5-0741-4a84-a206-4481b80b79c0",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

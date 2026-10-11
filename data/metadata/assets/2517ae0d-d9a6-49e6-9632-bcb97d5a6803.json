@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "2517ae0d-d9a6-49e6-9632-bcb97d5a6803",
+  "contentHash": "803bbac07c1ecb20819e51159c5a6d7b04aef9f44f4d70bf1306b9e2d18e41d1",
+  "currentPath": "Sailboats/Dories/Mower Dory/mower-dory.JPG",
+  "originalFilename": "mower-dory.JPG",
+  "pathHistory": [
+    "Dories/Mower Dory/mower-dory.JPG",
+    "Sailboats/Dories/Mower Dory/mower-dory.JPG"
+  ],
+  "status": "present",
+  "sizeBytes": 39675,
+  "modifiedAt": "2024-08-26T17:55:43.481Z",
+  "classId": "690bf02a-0c36-444b-bed1-60878c880c4f",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

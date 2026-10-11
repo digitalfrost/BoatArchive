@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "f3d1a52f-3742-41d9-bcfb-722656ec1ab9",
+  "contentHash": "5850a820834ecb3e4efb08ded06afcfc74b6b3f433dff17d493157e1e4df3c11",
+  "currentPath": "Sailboats/Dories/_albums/Dory Racing New England/dory-race.jpg",
+  "originalFilename": "dory-race.jpg",
+  "pathHistory": [
+    "Dories/_albums/Dory Racing New England/dory-race.jpg",
+    "Sailboats/Dories/_albums/Dory Racing New England/dory-race.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 107857,
+  "modifiedAt": "2025-07-14T13:43:37.817Z",
+  "classId": null,
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "unclassified",
+  "associationOverride": false
+}

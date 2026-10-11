@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "entityId": "6fa2f7fa-00b4-4860-abb6-afce76ea32d6",
+  "kind": "boats",
+  "currentPath": "Sailboats/Bettes Marseillaises/Bette Alexandre",
+  "name": "Bette Alexandre",
+  "metadata": null,
+  "classId": null,
+  "sailNumber": null,
+  "pathHistory": [
+    "Bettes Marseillaises/Bette Alexandre",
+    "Sailboats/Bettes Marseillaises/Bette Alexandre"
+  ],
+  "status": "present",
+  "assetIds": [
+    "ddf165d3-5b4a-4b6a-af8f-afb08f3f0273"
+  ]
+}

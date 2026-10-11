@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "b88b8ad7-f3e5-4765-a895-2d8f83d4ed9f",
+  "contentHash": "00d956ea922717df5bdb4341624f4654b6da39773dc3f45ee72e4703ffb0d87b",
+  "currentPath": "Sailboats/Sharpies/Milford 20/Milford 20 - 2S Schooner Sail Plan.pdf",
+  "originalFilename": "Milford 20 - 2S Schooner Sail Plan.pdf",
+  "pathHistory": [
+    "Sharpies/Milford 20/Milford 20 - 2S Schooner Sail Plan.pdf",
+    "Sailboats/Sharpies/Milford 20/Milford 20 - 2S Schooner Sail Plan.pdf"
+  ],
+  "status": "present",
+  "sizeBytes": 82943,
+  "modifiedAt": "2026-03-05T19:36:54.824Z",
+  "classId": "8b8d533d-c524-484d-acfc-027374e6f200",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

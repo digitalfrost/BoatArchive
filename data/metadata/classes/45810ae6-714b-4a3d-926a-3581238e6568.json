@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "entityId": "45810ae6-714b-4a3d-926a-3581238e6568",
+  "kind": "classes",
+  "currentPath": "Sailboats/Nola Darling 770",
+  "name": "Nola Darling 770",
+  "metadata": null,
+  "slug": "nola-darling-770-9c227e1de314",
+  "pathHistory": [
+    "Nola Darling 770",
+    "Sailboats/Nola Darling 770"
+  ],
+  "status": "present",
+  "assetIds": [
+    "05303bac-8d20-4760-b200-2435e08ce40f",
+    "06da1c94-640e-4fdf-b7f2-ca19a189ad1e",
+    "46be20ad-2d81-4229-b850-662c42b87567",
+    "4e179f8c-4f86-45f8-b1a1-a01bb41782dd",
+    "5b098adb-0ff6-4237-84f8-b53814d4d8a0",
+    "65d0374e-2b56-4844-aa88-8aac885054dd",
+    "68d657d1-57a3-45bf-a188-fec7102ea863",
+    "8ae63b51-81f5-4ba4-8fcb-a46e5c24493f",
+    "9b0115fa-87dd-4742-9725-300567ac6021",
+    "e24e4228-ba6e-42e1-a161-52e3f24daeaf",
+    "efd2573e-1767-4509-9307-5dbd99782178"
+  ]
+}

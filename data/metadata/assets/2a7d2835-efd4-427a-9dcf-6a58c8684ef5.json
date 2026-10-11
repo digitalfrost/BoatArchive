@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "2a7d2835-efd4-427a-9dcf-6a58c8684ef5",
+  "contentHash": "9cebae3818501e850789571a6f56b86ec984c0a2a2337b72b716f7557e472533",
+  "currentPath": "Sailboats/Yole de Gironde/yoles-de-gironde.md",
+  "originalFilename": "yoles-de-gironde.md",
+  "pathHistory": [
+    "Yole de Gironde/yoles-de-gironde.md",
+    "Sailboats/Yole de Gironde/yoles-de-gironde.md"
+  ],
+  "status": "present",
+  "sizeBytes": 12966,
+  "modifiedAt": "2026-10-09T22:03:20.828Z",
+  "classId": "41a9efb0-5574-459d-b503-39ab29fb04f3",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

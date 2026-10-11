@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "66adc7e3-fdf9-45db-a529-07d4d03ee4e8",
+  "contentHash": "9aece579069f631c61fea0eb9e840f291429e09a75a86c5f962308deeb34d907",
+  "currentPath": "Sailboats/Drascombes/Drascombe Lugger/drascombe-lugger-bronze stem piece-002.jpg",
+  "originalFilename": "drascombe-lugger-bronze stem piece-002.jpg",
+  "pathHistory": [
+    "Drascombes/Drascombe Lugger/drascombe-lugger-bronze stem piece-002.jpg",
+    "Sailboats/Drascombes/Drascombe Lugger/drascombe-lugger-bronze stem piece-002.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 1463633,
+  "modifiedAt": "2025-10-22T06:39:12.007Z",
+  "classId": "79be72f5-0741-4a84-a206-4481b80b79c0",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

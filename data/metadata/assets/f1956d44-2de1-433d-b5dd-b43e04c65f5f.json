@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "f1956d44-2de1-433d-b5dd-b43e04c65f5f",
+  "contentHash": "f066bcf7b036230a4b119cc553b19213112f771187767945792ad3f1d2b9695c",
+  "currentPath": "Sailboats/Crotch Island Pinky/graceb-001.jpg",
+  "originalFilename": "graceb-1_1.jpg",
+  "pathHistory": [
+    "Crotch Island Pinky/graceb-1_1.jpg",
+    "Crotch Island Pinky/graceb-001.jpg",
+    "Sailboats/Crotch Island Pinky/graceb-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 129916,
+  "modifiedAt": "2025-06-08T16:49:26.557Z",
+  "classId": "18cad3c5-a479-43c6-9209-05b44d84da23",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "entityId": "6b12a384-46ba-41f6-a0e3-a488769417f6",
+  "kind": "boats",
+  "currentPath": "Sailboats/Dories/Chamberlain Gunning Dory/Red Pond Boatworks Marbelhead Gunning Dory",
+  "name": "Red Pond Boatworks Marbelhead Gunning Dory",
+  "metadata": null,
+  "classId": "8dbf86a0-53fe-40c0-a5f0-f2636b835b17",
+  "sailNumber": null,
+  "pathHistory": [
+    "Dories/Chamberlain Gunning Dory/Red Pond Boatworks Marbelhead Gunning Dory",
+    "Sailboats/Dories/Chamberlain Gunning Dory/Red Pond Boatworks Marbelhead Gunning Dory"
+  ],
+  "status": "present",
+  "assetIds": [
+    "1208d5db-3874-462a-b6be-7168887c5163"
+  ]
+}

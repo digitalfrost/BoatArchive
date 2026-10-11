@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "cad62aea-0de6-48b1-8b17-fa8ad268250b",
+  "contentHash": "c72f297889c8fd0e1ef2ef102f2ce0b19907468f28e87b662f61f66e1953bcbf",
+  "currentPath": "Sailboats/Bettes Marseillaises/Bette Ida/betteida3-g-001.jpg",
+  "originalFilename": "betteida3_G.jpg",
+  "pathHistory": [
+    "Bettes Marseillaises/Bette Ida/betteida3_G.jpg",
+    "Bettes Marseillaises/Bette Ida/betteida3-g-001.jpg",
+    "Sailboats/Bettes Marseillaises/Bette Ida/betteida3-g-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 153178,
+  "modifiedAt": "2026-04-24T23:05:56.387Z",
+  "classId": null,
+  "boatId": "cb42297e-62d9-4c35-8380-e25145edd623",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

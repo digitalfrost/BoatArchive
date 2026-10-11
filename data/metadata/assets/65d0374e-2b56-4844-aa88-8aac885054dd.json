@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "65d0374e-2b56-4844-aa88-8aac885054dd",
+  "contentHash": "e3a0b93ea2943f91e467afa5f5010a240e5bc358b5646a123dec281d8f6c3829",
+  "currentPath": "Sailboats/Nola Darling 770/nola-darling-004.jpeg",
+  "originalFilename": "01564EEA-6032-4D6A-AA7F-A262B1FE984D-1024x597.jpeg",
+  "pathHistory": [
+    "Nola Darling 770/01564EEA-6032-4D6A-AA7F-A262B1FE984D-1024x597.jpeg",
+    "Nola Darling 770/nola-darling-004.jpeg",
+    "Sailboats/Nola Darling 770/nola-darling-004.jpeg"
+  ],
+  "status": "present",
+  "sizeBytes": 76685,
+  "modifiedAt": "2025-11-26T11:04:16.613Z",
+  "classId": "45810ae6-714b-4a3d-926a-3581238e6568",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

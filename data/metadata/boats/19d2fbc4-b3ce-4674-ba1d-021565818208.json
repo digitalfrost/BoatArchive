@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "entityId": "19d2fbc4-b3ce-4674-ba1d-021565818208",
+  "kind": "boats",
+  "currentPath": "Sailboats/Bettes Marseillaises/Bella Latina",
+  "name": "Bella Latina",
+  "metadata": null,
+  "classId": null,
+  "sailNumber": null,
+  "pathHistory": [
+    "Bettes Marseillaises/Bella Latina",
+    "Sailboats/Bettes Marseillaises/Bella Latina"
+  ],
+  "status": "present",
+  "assetIds": [
+    "02afaab5-4de0-4176-932d-6c1deebd0205",
+    "2874fe1e-fbfd-4e32-82c2-a85bd889558d",
+    "4c3e1a06-af9d-4c43-b8d3-90d2789929b6",
+    "56dd7373-0c18-429c-a65c-5f72a931e19a",
+    "5eeff9fb-f90c-442d-a104-3157a785a219",
+    "75963242-5b64-4d76-a1c5-163f97d5db48",
+    "9876c2f9-6f6c-4f08-a4b7-a8d0bdb5d2e3",
+    "9e40f54f-ff81-41be-851d-9fc419e4b10b",
+    "f564ebbc-6838-46c9-a57e-5175250222bf"
+  ]
+}

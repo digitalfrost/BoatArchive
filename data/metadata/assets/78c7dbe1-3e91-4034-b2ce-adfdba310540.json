@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "78c7dbe1-3e91-4034-b2ce-adfdba310540",
+  "contentHash": "73251fc621c069169d322fc8914466a56a692c9161c14363b2bd25eb21ba75c9",
+  "currentPath": "Sailboats/Yole de Gironde/creac-001.ashx",
+  "originalFilename": "creac-001.ashx",
+  "pathHistory": [
+    "Yole de Gironde/creac-001.ashx",
+    "Sailboats/Yole de Gironde/creac-001.ashx"
+  ],
+  "status": "present",
+  "sizeBytes": 61267,
+  "modifiedAt": "2026-10-09T22:17:19.344Z",
+  "classId": "41a9efb0-5574-459d-b503-39ab29fb04f3",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

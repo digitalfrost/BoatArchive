@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "82c0192d-9c09-4e88-bfab-4a342998a8f1",
+  "contentHash": "efbac718b8e11b403da8033e3a43be5bf66fb4c59bdd62645e596ae1d9aa7ce9",
+  "currentPath": "Sailboats/Dories/John Dory/john-dory-sail-plans.jpg",
+  "originalFilename": "john-dory-sail-plans.jpg",
+  "pathHistory": [
+    "Dories/John Dory/john-dory-sail-plans.jpg",
+    "Sailboats/Dories/John Dory/john-dory-sail-plans.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 450991,
+  "modifiedAt": "2024-07-17T17:44:07.547Z",
+  "classId": "84cc0472-f9e0-423f-924f-52235c191ac3",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

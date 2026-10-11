@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "entityId": "249706e2-9898-48bc-8476-a3bfc1c7bcad",
+  "kind": "classes",
+  "currentPath": "Sailboats/Block Island Cow Horn",
+  "name": "Block Island Cow Horn",
+  "metadata": null,
+  "slug": "block-island-cow-horn-13da4a9515fc",
+  "pathHistory": [
+    "Block Island Cow Horn",
+    "Sailboats/Block Island Cow Horn"
+  ],
+  "status": "present",
+  "assetIds": [
+    "0a2e3b78-a61f-4f72-b094-78b81615f37e",
+    "0ec409bb-a6e5-43a4-97a5-cf6773e9425a",
+    "149fd0c2-0663-4d5c-9cc7-6cfd7d690c45",
+    "511740cb-efe5-4e4b-a3a0-cc06d5a25c66",
+    "5f901f93-43a9-481c-97c3-59f68ac43ba0",
+    "7bf14166-ea0d-4010-b973-9fe4379bad0c",
+    "ac2d91f0-acc2-453b-a7b9-1836cb8f4a51",
+    "b5a3034b-cd56-4663-8833-24a1bb706bd7",
+    "cbdb9087-421e-4889-9817-d91b9f3796f9",
+    "e0d1a41e-cbe6-4fda-863f-5ee4d47b69d7",
+    "e83494a7-0ce4-469a-bf21-fcbd2506a1d9"
+  ]
+}

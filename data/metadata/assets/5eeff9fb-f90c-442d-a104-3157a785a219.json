@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "5eeff9fb-f90c-442d-a104-3157a785a219",
+  "contentHash": "a8145590d93eb6a16abf5dd5b1d0eeb7f3f366ad0bdbea09a2bb08afe8de293a",
+  "currentPath": "Sailboats/Bettes Marseillaises/Bella Latina/bela-latina-carre-001.jpg",
+  "originalFilename": "Bela-Latina-Carre-copie.jpg",
+  "pathHistory": [
+    "Bettes Marseillaises/Bella Latina/Bela-Latina-Carre-copie.jpg",
+    "Bettes Marseillaises/Bella Latina/bela-latina-carre-001.jpg",
+    "Sailboats/Bettes Marseillaises/Bella Latina/bela-latina-carre-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 208912,
+  "modifiedAt": "2026-10-07T09:50:39.440Z",
+  "classId": null,
+  "boatId": "19d2fbc4-b3ce-4674-ba1d-021565818208",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

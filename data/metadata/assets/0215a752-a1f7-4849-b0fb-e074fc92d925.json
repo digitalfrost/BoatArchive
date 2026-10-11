@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "0215a752-a1f7-4849-b0fb-e074fc92d925",
+  "contentHash": "2c3fdb017af88fdab3b7e97fae35985932a0dfe6e09ad0e2c942172f3f8434cd",
+  "currentPath": "Sailboats/Pointer 22/pointer22-deck-003.jpg",
+  "originalFilename": "pointer22-deck-003.jpg",
+  "pathHistory": [
+    "Pointer 22/pointer22-deck-003.jpg",
+    "Sailboats/Pointer 22/pointer22-deck-003.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 1304130,
+  "modifiedAt": "2026-10-07T09:11:57.961Z",
+  "classId": "90e083f0-b692-4adf-ab29-eaf833e8e85e",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

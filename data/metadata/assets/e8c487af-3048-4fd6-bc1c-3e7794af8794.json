@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "e8c487af-3048-4fd6-bc1c-3e7794af8794",
+  "contentHash": "08d647c11fc2ab7f714c0ebac41a94b79f1824d01ad7680af9aace954bbec4fc",
+  "currentPath": "Sailboats/Bettes Marseillaises/Bette Fine/bette-fine-benediction-2010-001.webp",
+  "originalFilename": "Bette_Fine_Benediction-2010.webp",
+  "pathHistory": [
+    "Bettes Marseillaises/Bette Fine/Bette_Fine_Benediction-2010.webp",
+    "Bettes Marseillaises/Bette Fine/bette-fine-benediction-2010-001.webp",
+    "Sailboats/Bettes Marseillaises/Bette Fine/bette-fine-benediction-2010-001.webp"
+  ],
+  "status": "present",
+  "sizeBytes": 184562,
+  "modifiedAt": "2026-05-04T07:45:17.496Z",
+  "classId": null,
+  "boatId": "6b05e11c-cb44-4774-a009-720da72c3e93",
+  "metadata": "{\"format\":\"webp\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

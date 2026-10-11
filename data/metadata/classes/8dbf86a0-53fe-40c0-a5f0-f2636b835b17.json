@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "entityId": "8dbf86a0-53fe-40c0-a5f0-f2636b835b17",
+  "kind": "classes",
+  "currentPath": "Sailboats/Dories/Chamberlain Gunning Dory",
+  "name": "Chamberlain Gunning Dory",
+  "metadata": null,
+  "slug": "chamberlain-gunning-dory-2a9d8b2af5d1",
+  "pathHistory": [
+    "Dories/Chamberlain Gunning Dory",
+    "Sailboats/Dories/Chamberlain Gunning Dory"
+  ],
+  "status": "present",
+  "assetIds": [
+    "05a95087-718e-481f-bf32-7e9d115ae3bf",
+    "1208d5db-3874-462a-b6be-7168887c5163",
+    "3a090eca-5c49-42a8-ad7a-54671126fc7d",
+    "a82dfe49-dfcd-4f4e-99a5-3ec1708d9f24",
+    "ad65b2a9-fe2f-494d-adfb-04f55ff416a6",
+    "dbad6b6d-f69e-4c45-a603-adf8a60e56f5",
+    "ec359c6a-5895-4ad4-b782-26cb99280441"
+  ]
+}

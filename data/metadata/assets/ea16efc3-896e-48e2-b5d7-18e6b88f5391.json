@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "ea16efc3-896e-48e2-b5d7-18e6b88f5391",
+  "contentHash": "9d748df78382ad8fd612b04ea775ec0a61b67676aa85b381bb101ec5149b3708",
+  "currentPath": "Sailboats/Dories/Youkoulili/youkoulili.pdf",
+  "originalFilename": "youkoulili.pdf",
+  "pathHistory": [
+    "Dories/Youkoulili/youkoulili.pdf",
+    "Sailboats/Dories/Youkoulili/youkoulili.pdf"
+  ],
+  "status": "present",
+  "sizeBytes": 162899,
+  "modifiedAt": "2025-01-26T11:31:59.710Z",
+  "classId": "a4423276-94a8-4520-ae98-b37911f93f7c",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

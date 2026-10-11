@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "5c8049db-6e80-4a50-b204-5afa4fe429a5",
+  "contentHash": "d395cfafdf7a1fa7809084c8e35d8dc2954dc6abe9c6c732ea99e6c0f640e169",
+  "currentPath": "Sailboats/Dories/Deblois Street Dory/deblois-street-dory-kit-price.pdf",
+  "originalFilename": "deblois-street-dory-kit-price.pdf",
+  "pathHistory": [
+    "Dories/Deblois Street Dory/deblois-street-dory-kit-price.pdf",
+    "Sailboats/Dories/Deblois Street Dory/deblois-street-dory-kit-price.pdf"
+  ],
+  "status": "present",
+  "sizeBytes": 183399,
+  "modifiedAt": "2024-07-22T22:43:19.697Z",
+  "classId": "74c1a37b-2232-4af9-8b7c-4a15124ca51f",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "7fbf8b59-bb93-4072-80e9-08b7f6a7acbb",
+  "contentHash": "655d695281317bec02f39cdc3b34c83456552657168d7e89e29cd8faf0904528",
+  "currentPath": "Sailboats/Dories/Crawford Dory/Dory Restauration/dory-restauration-004.jpg",
+  "originalFilename": "IMG_1877.JPG",
+  "pathHistory": [
+    "Dories/Crawford Dory/Dory Restauration/IMG_1877.JPG",
+    "Dories/Crawford Dory/Dory Restauration/dory-restauration-004.jpg",
+    "Sailboats/Dories/Crawford Dory/Dory Restauration/dory-restauration-004.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 116556,
+  "modifiedAt": "2024-07-17T17:21:05.619Z",
+  "classId": "7d393214-4e0a-4760-a5f8-94781d582ae0",
+  "boatId": "b73eb67e-2b7f-41d7-99ab-070efe7a0228",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "entityId": "c6b03e32-3ec2-4872-a6a1-ab5f99666ef4",
+  "kind": "boats",
+  "currentPath": "Sailboats/Sharpies/Egrets",
+  "name": "Egrets",
+  "metadata": null,
+  "classId": "fef4abd1-397d-468e-9a56-f53797182d36",
+  "sailNumber": null,
+  "pathHistory": [
+    "Sharpies/Egrets",
+    "Sailboats/Sharpies/Egrets"
+  ],
+  "status": "reconciliation-required",
+  "assetIds": [],
+  "pendingPaths": [
+    "Sailboats/Sharpies/Egrets/Woodenboat Egret"
+  ]
+}

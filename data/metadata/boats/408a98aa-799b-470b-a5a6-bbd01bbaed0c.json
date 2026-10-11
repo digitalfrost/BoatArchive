@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "entityId": "408a98aa-799b-470b-a5a6-bbd01bbaed0c",
+  "kind": "boats",
+  "currentPath": "Sailboats/Sharpies/Egrets/Parker Egret/John Merrit",
+  "name": "John Merrit",
+  "metadata": null,
+  "classId": "be155d78-af4e-49e4-83ff-8a86cf4a8a02",
+  "sailNumber": null,
+  "pathHistory": [
+    "Sailboats/Sharpies/Egrets/Parker Egret/John Merrit"
+  ],
+  "status": "present",
+  "assetIds": [
+    "c82e05ac-a0e9-455e-a741-20eb2daf1fa2"
+  ]
+}

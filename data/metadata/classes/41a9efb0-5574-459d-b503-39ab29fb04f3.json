@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "entityId": "41a9efb0-5574-459d-b503-39ab29fb04f3",
+  "kind": "classes",
+  "currentPath": "Sailboats/Yole de Gironde",
+  "name": "Yole de Gironde",
+  "metadata": null,
+  "slug": "046a748c-1478-4e4d-9d09-c77304c5c615",
+  "pathHistory": [
+    "Yole de Gironde",
+    "Sailboats/Yole de Gironde"
+  ],
+  "status": "present",
+  "assetIds": [
+    "0f6362c7-8bde-496d-bf24-2c15b62d4eb1",
+    "1b9bb916-2c46-43f5-9da9-dce797fa2316",
+    "1fc55084-1ffa-4562-83c6-837ae8a62b13",
+    "2100ae2f-29e1-478e-922a-562f86f29104",
+    "2a7d2835-efd4-427a-9dcf-6a58c8684ef5",
+    "502a6758-013f-4c4f-9a3c-58db3b3607d1",
+    "53771d2f-8f51-4126-977a-4b30ca367686",
+    "53b149e4-621c-4dc5-9e15-dc3a47d38513",
+    "54fde534-8215-45dd-a214-9841951af087",
+    "58923a8f-3bb4-45a4-9c5c-6d4a6359f0ab",
+    "6019a001-ae89-4dec-8a42-76a68ac05103",
+    "67e416a9-361b-4352-8207-bbaaf6d9f147",
+    "69fa4796-ad90-4a70-be16-6c02e90b97e8",
+    "76777c18-13a9-4fe6-9c4f-975f0f7abcab",
+    "78c7dbe1-3e91-4034-b2ce-adfdba310540",
+    "a0586be5-f9db-43a2-9315-d4e88de85f90",
+    "a2155f05-08dd-4577-a8bc-4722f4b19a97",
+    "a5716275-be25-47c9-8f0c-c44a32028b7a",
+    "c6b3f945-d166-4374-b3cf-86b0b8a0f38e"
+  ]
+}

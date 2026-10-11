@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "f3c77875-7244-484f-a9c2-e37e3772bfcc",
+  "contentHash": "61c172e7162667c94ab1312e3fcc6b0de6cb2e1c4c24e8d0f48c9218e9d403b7",
+  "currentPath": "Sailboats/Bettes Marseillaises/_albums/Historical Photos/historical-photos-010.jpg",
+  "originalFilename": "27340869601_637e21062d_c.jpg",
+  "pathHistory": [
+    "Bettes Marseillaises/_albums/Historical Photos/27340869601_637e21062d_c.jpg",
+    "Bettes Marseillaises/_albums/Historical Photos/historical-photos-010.jpg",
+    "Sailboats/Bettes Marseillaises/_albums/Historical Photos/historical-photos-010.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 139500,
+  "modifiedAt": "2026-04-23T22:27:52.360Z",
+  "classId": null,
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "unclassified",
+  "associationOverride": false
+}

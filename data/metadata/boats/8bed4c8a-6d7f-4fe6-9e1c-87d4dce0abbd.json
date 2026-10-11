@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "entityId": "8bed4c8a-6d7f-4fe6-9e1c-87d4dce0abbd",
+  "kind": "boats",
+  "currentPath": "Sailboats/Bettes Marseillaises/Attends moi j'arrive",
+  "name": "Attends moi j'arrive",
+  "metadata": null,
+  "classId": null,
+  "sailNumber": null,
+  "pathHistory": [
+    "Bettes Marseillaises/Attends moi j'arrive",
+    "Sailboats/Bettes Marseillaises/Attends moi j'arrive"
+  ],
+  "status": "present",
+  "assetIds": [
+    "2a3ed8f8-32c2-4659-9b2b-27b69a205368",
+    "33668e9b-76f8-41f3-a894-4824e2881f5b",
+    "65a11865-b2a4-46d1-8fc9-2dac3eb3a022"
+  ]
+}

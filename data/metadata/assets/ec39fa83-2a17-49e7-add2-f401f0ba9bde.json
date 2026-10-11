@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "ec39fa83-2a17-49e7-add2-f401f0ba9bde",
+  "contentHash": "0fa3d9109182ca114c24d779b73970b3526d8309dc38dc4728c8e3a2c15a587e",
+  "currentPath": "Sailboats/Dories/_albums/Dory Racing New England/start-of-dory-class.jpg",
+  "originalFilename": "start-of-dory-class.jpg",
+  "pathHistory": [
+    "Dories/_albums/Dory Racing New England/start-of-dory-class.jpg",
+    "Sailboats/Dories/_albums/Dory Racing New England/start-of-dory-class.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 106878,
+  "modifiedAt": "2025-07-14T13:42:22.643Z",
+  "classId": null,
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "unclassified",
+  "associationOverride": false
+}

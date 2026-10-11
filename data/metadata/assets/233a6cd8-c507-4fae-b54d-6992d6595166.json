@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "233a6cd8-c507-4fae-b54d-6992d6595166",
+  "contentHash": "8c8cdfc7e2b4cee18c866785e65d1357760c213299f27ef0a0c2ed9661dcfc6a",
+  "currentPath": "Powerboats/Redwing 18/redwing-18-004.jpg",
+  "originalFilename": "65071_2127_1775_lg_03.jpg",
+  "pathHistory": [
+    "Power Boats/Redwing 18/65071_2127_1775_lg_03.jpg",
+    "Power Boats/Redwing 18/redwing-18-004.jpg",
+    "Powerboats/Redwing 18/redwing-18-004.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 75551,
+  "modifiedAt": "2025-06-13T13:53:15.517Z",
+  "classId": "c80f09fa-9705-4a42-a8ce-4e3bc6eba62f",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

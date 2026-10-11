@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "2a90b803-0098-45e7-8908-6e753029cbbf",
+  "contentHash": "0af45dffee42a70238829366c3a9e546f1019f141f606b65d094ee856a727be5",
+  "currentPath": "Sailboats/Dories/John Dory/johnt-dory-006.jpg",
+  "originalFilename": "JohnDory-400-081_500x.jpg",
+  "pathHistory": [
+    "Dories/John Dory/JohnDory-400-081_500x.jpg",
+    "Dories/John Dory/johnt-dory-006.jpg",
+    "Sailboats/Dories/John Dory/johnt-dory-006.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 61460,
+  "modifiedAt": "2025-06-27T06:29:51.294Z",
+  "classId": "84cc0472-f9e0-423f-924f-52235c191ac3",
+  "boatId": null,
+  "metadata": "{\"format\":\"png\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

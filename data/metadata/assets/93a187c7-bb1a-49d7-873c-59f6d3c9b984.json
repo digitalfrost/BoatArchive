@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "93a187c7-bb1a-49d7-873c-59f6d3c9b984",
+  "contentHash": "1d3fbad5736f7d3128ccbdd2baf8d8e400a8f19e97c29f3b9ebfa530dc52919f",
+  "currentPath": "Sailboats/Alpa 9.50/1977 Alpa 9.50 Lelystad, Netherlands/alpa-950-lelystad-nl-007.jpg",
+  "originalFilename": "8927968_20230628123435298_1_XLARGE.jpg",
+  "pathHistory": [
+    "Alpa 9.50/1977 Alpa 9.50 Lelystad, Netherlands/8927968_20230628123435298_1_XLARGE.jpg",
+    "Alpa 9.50/1977 Alpa 9.50 Lelystad, Netherlands/alpa-950-lelystad-nl-007.jpg",
+    "Sailboats/Alpa 9.50/1977 Alpa 9.50 Lelystad, Netherlands/alpa-950-lelystad-nl-007.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 329982,
+  "modifiedAt": "2023-11-20T21:38:35.366Z",
+  "classId": "4c23c888-9601-4d47-8667-a222dfa4d7b8",
+  "boatId": "d4fc09c5-1f1b-4021-9359-ee6c4b6ad649",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

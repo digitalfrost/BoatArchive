@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "entityId": "091f9707-0f57-4b1e-9f4d-ac17c95d4149",
+  "kind": "classes",
+  "currentPath": "Sailboats/Alpa11.50",
+  "name": "Alpa11.50",
+  "metadata": null,
+  "slug": "alpa11-50-cc327de59277",
+  "pathHistory": [
+    "Alpa11.50",
+    "Sailboats/Alpa11.50"
+  ],
+  "status": "present",
+  "assetIds": [
+    "12132983-ba06-4d0b-9d2f-0103bccfb489",
+    "1aeb5140-9c83-49b3-a4eb-5df1700ea4ca",
+    "2d2d5a9e-27dd-48dd-82e4-b68c1b0ae046",
+    "33b206e7-ded7-479d-857d-0f9b318023b0",
+    "40198369-7eb6-47e4-965c-704a5226b640",
+    "41782f5a-0aaf-4245-97e2-dfe205a10cfa",
+    "43ec6022-9418-4334-a9c2-cd6e24dcaec7",
+    "4c0378f4-82eb-4992-8460-482ae77b1e90",
+    "69daffcd-fc23-46ee-9eaa-1f66edf11250",
+    "6fd978e8-c778-451e-a7e1-d8f9a706b5db",
+    "72efee31-82ed-4c0a-9a5f-eb1559778541",
+    "a0b5d77d-e718-408f-8068-dcdcc6cf705a",
+    "a5719b59-b8a5-4753-a24a-fe288bad15b9",
+    "aba98282-5962-43e8-8cc3-ede177257e72",
+    "af56b3bf-98b0-441c-9b90-2e38b382beab",
+    "c01f0632-6c01-40b1-bd05-0a35ba482ce4",
+    "d16dc79e-3d96-4f36-b537-5ec0ffe5adb9",
+    "de37591a-7da1-4f9d-984f-4c72d8f66ef3",
+    "e1221ebf-b381-4c88-b887-2882c97157e9",
+    "e27c22b1-711f-4f50-8951-08b6f7a5971f",
+    "e56d29fa-c3a3-48b3-bee3-fbf4757365fb",
+    "fa7bd4d6-e643-44eb-8a0a-e9b11d429e7a"
+  ]
+}

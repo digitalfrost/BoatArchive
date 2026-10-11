@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "entityId": "fe531f8a-10aa-413b-bfff-824da00adfda",
+  "kind": "classes",
+  "currentPath": "Sailboats/Dories/North Shore Dory",
+  "name": "North Shore Dory",
+  "metadata": null,
+  "slug": "north-shore-dory-281909f55b01",
+  "pathHistory": [
+    "Dories/North Shore Dory",
+    "Sailboats/Dories/North Shore Dory"
+  ],
+  "status": "present",
+  "assetIds": [
+    "2e5e8237-4e1e-4ffb-a7a6-a049d0974b64",
+    "f8f46e4d-177d-4845-8680-f57cf19020f0"
+  ]
+}

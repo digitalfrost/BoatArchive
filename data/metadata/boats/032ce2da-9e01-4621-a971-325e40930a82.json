@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "entityId": "032ce2da-9e01-4621-a971-325e40930a82",
+  "kind": "boats",
+  "currentPath": "Sailboats/Gaffers/Heard Tosher 18/Wild Goose",
+  "name": "Wild Goose",
+  "metadata": null,
+  "classId": "965b330b-153d-428b-952b-233ce2b038bf",
+  "sailNumber": null,
+  "pathHistory": [
+    "Heard Tosher 18/Wild Goose",
+    "Sailboats/Heard Tosher 18/Wild Goose",
+    "Sailboats/Gaffers/Heard Tosher 18/Wild Goose"
+  ],
+  "status": "present",
+  "assetIds": [
+    "01db5b07-7e41-4120-909d-f243727d7c58",
+    "10f59846-c392-4174-a3fb-9d073cf8fa52",
+    "23806393-beb6-407d-9710-b1c3203a497a",
+    "2c66e3cf-99ae-49f4-bbef-8f6cebc35062",
+    "32f5290b-c470-406e-9755-f700da4d305b",
+    "4608ee20-f97f-46af-b883-0eda990ca278",
+    "4e63f7be-353f-4d3b-9cc4-319adc244a28",
+    "54c18196-1ab0-4e5c-9c8a-bfe235040cb2",
+    "64b7cb92-0f27-4b1a-9830-24628a9467cd",
+    "6586cdd3-5f75-484b-a092-7b3b6cc19d5d",
+    "7dd54989-acda-4cb2-97aa-fd3848a3e4f4",
+    "9e7976a5-da34-46eb-84c3-ad943977590b",
+    "a6a8b3f3-dbc4-41dd-aad9-88bf992609e8",
+    "da35b455-1ca4-4995-9070-d80f5f1c58a3",
+    "dc0a4f43-8dc5-4036-8ea7-a7a9c204e444",
+    "e06d2932-6847-400c-b946-d9b77259db96",
+    "e1d6adb8-48e5-4dd6-9b82-0d6afbcfaa17",
+    "e1e4e25c-c7b0-4f89-83ef-f12cfcc5b7b5",
+    "e8a35a6a-a4b0-4661-839c-fb3c27391278",
+    "edb5bfe4-6ceb-4ad0-98de-a358ca9b5cd2",
+    "eef0eea3-8d23-4287-9215-06a930140336",
+    "fa19ecda-308e-4447-8dad-aea1581ff9d4"
+  ]
+}

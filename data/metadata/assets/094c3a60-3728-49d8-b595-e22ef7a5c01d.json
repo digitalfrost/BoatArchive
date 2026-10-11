@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "094c3a60-3728-49d8-b595-e22ef7a5c01d",
+  "contentHash": "197c953a7a486267e79210e938053737d4841ea8e3a032051c3033b7d0398294",
+  "currentPath": "Sailboats/Sharpies/Egrets/Haiku Egret/Luelly/luelly-001.jpg",
+  "originalFilename": "luelly-001.jpg",
+  "pathHistory": [
+    "Sharpies/Egrets/Haiku Egret/Luelly/luelly-001.jpg",
+    "Sailboats/Sharpies/Egrets/Haiku Egret/Luelly/luelly-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 552118,
+  "modifiedAt": "2025-07-14T12:09:56.968Z",
+  "classId": "c32233f8-a01a-49e2-9e5f-ef7c3e77d5cf",
+  "boatId": "a79f2fa7-090b-4e4f-a8b0-d9ca5aa4e74b",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

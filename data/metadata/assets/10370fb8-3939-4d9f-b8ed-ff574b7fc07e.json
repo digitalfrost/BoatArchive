@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "10370fb8-3939-4d9f-b8ed-ff574b7fc07e",
+  "contentHash": "b91996e59022656715a690ded6aa032e7dff0e12c5907458447ea3504b5d6549",
+  "currentPath": "Sailboats/Bettes Marseillaises/Bette Ida/008-travaux-en-cours-001.jpg",
+  "originalFilename": "008-travaux-en-cours-redimensionner-1024x683.jpg",
+  "pathHistory": [
+    "Bettes Marseillaises/Bette Ida/008-travaux-en-cours-redimensionner-1024x683.jpg",
+    "Bettes Marseillaises/Bette Ida/008-travaux-en-cours-001.jpg",
+    "Sailboats/Bettes Marseillaises/Bette Ida/008-travaux-en-cours-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 152682,
+  "modifiedAt": "2026-04-24T23:07:09.421Z",
+  "classId": null,
+  "boatId": "cb42297e-62d9-4c35-8380-e25145edd623",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

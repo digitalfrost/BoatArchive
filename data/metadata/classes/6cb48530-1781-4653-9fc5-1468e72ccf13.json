@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "entityId": "6cb48530-1781-4653-9fc5-1468e72ccf13",
+  "kind": "classes",
+  "currentPath": "Sailboats/Muscongus Bay 18",
+  "name": "Muscongus Bay 18",
+  "metadata": null,
+  "slug": "muscongus-bay-18-135414441732",
+  "pathHistory": [
+    "Muscongus Bay 18",
+    "Sailboats/Muscongus Bay 18"
+  ],
+  "status": "present",
+  "assetIds": [
+    "2638b544-7935-45e5-9263-a636d57bd214",
+    "aa132316-b5be-4edd-a6c4-a23eb339aaea",
+    "b74aa56f-93c9-4307-bb35-d0efe2e96336"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "entityId": "dc76ca35-8a4a-4300-9e02-9ebd8561a574",
+  "kind": "boats",
+  "currentPath": "Sailboats/Sharpies/Egrets/Parker Egret/Floret",
+  "name": "Floret",
+  "metadata": null,
+  "classId": "be155d78-af4e-49e4-83ff-8a86cf4a8a02",
+  "sailNumber": null,
+  "pathHistory": [
+    "Sailboats/Sharpies/Egrets/Parker Egret/Floret"
+  ],
+  "status": "present",
+  "assetIds": [
+    "0016b7c5-0a4c-4d34-bf98-ccc7882c5cf3",
+    "11f0bbbc-6e8d-4d71-b23b-6b58fc827a94",
+    "5bd9ea21-d81a-4853-a609-03dc48dabbd6",
+    "5fdfb720-12d3-487e-8d9f-0cee4e4fb537",
+    "808e4d8e-edfb-4f71-b685-bcf18c049626",
+    "92318854-29c1-49d4-9f68-cccaec2372ae",
+    "95110f30-276d-49bd-9dcb-cac432970c1c",
+    "b46ae36b-9ed2-43c5-b1e7-6646393e7cbb",
+    "b61ee0d1-1936-4039-bad7-81f837c2422e",
+    "c18b0904-2cbf-47d4-9a06-95339076f64c",
+    "c7596408-e7e2-4f9c-b81e-3d9285f424cd",
+    "ceb70d6c-b27b-4eb1-b3a8-381cb5bb5100",
+    "d3472586-f1b1-4fd2-b550-6bbf0543dedf",
+    "db0be385-6ccd-470b-9e25-f23b7925b345",
+    "e77fac7b-80f8-49ea-9126-9e94bed938ce"
+  ]
+}

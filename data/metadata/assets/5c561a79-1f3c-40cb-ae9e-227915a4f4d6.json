@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "5c561a79-1f3c-40cb-ae9e-227915a4f4d6",
+  "contentHash": "735c357862fc7943cf73c61116de9975772553d5c5bb10d7f04a0429931a62d9",
+  "currentPath": "Sailboats/Drascombes/Drascombe Lugger/DrascombeLugger_Project-Paltus.pdf",
+  "originalFilename": "DrascombeLugger_Project-Paltus.pdf",
+  "pathHistory": [
+    "Drascombes/Drascombe Lugger/DrascombeLugger_Project-Paltus.pdf",
+    "Sailboats/Drascombes/Drascombe Lugger/DrascombeLugger_Project-Paltus.pdf"
+  ],
+  "status": "present",
+  "sizeBytes": 3896928,
+  "modifiedAt": "2026-04-11T23:35:40.880Z",
+  "classId": "79be72f5-0741-4a84-a206-4481b80b79c0",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

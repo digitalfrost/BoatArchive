@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "f31a6899-bde5-4a85-a7d4-356304d24104",
+  "contentHash": "d1389843815a8ed00f7f33796d5b2349038efaceb6dca6554edcc7caad3e24c8",
+  "currentPath": "Sailboats/Gaffers/William Frazier 18ft Gaff Sloop/william-frazier-18ft-gaff-sloop-017.jpg",
+  "originalFilename": "william-frazier-18ft-gaff-sloop-017.jpg",
+  "pathHistory": [
+    "William Frazier 18ft Gaff Sloop/william-frazier-18ft-gaff-sloop-017.jpg",
+    "Sailboats/William Frazier 18ft Gaff Sloop/william-frazier-18ft-gaff-sloop-017.jpg",
+    "Sailboats/Gaffers/William Frazier 18ft Gaff Sloop/william-frazier-18ft-gaff-sloop-017.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 72145,
+  "modifiedAt": "2026-10-10T09:34:12.372Z",
+  "classId": null,
+  "boatId": "3e116c1c-2f2e-4774-9cab-a78338c06b56",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

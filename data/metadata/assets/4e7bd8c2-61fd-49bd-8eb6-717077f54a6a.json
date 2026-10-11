@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "4e7bd8c2-61fd-49bd-8eb6-717077f54a6a",
+  "contentHash": "aef4a453f5cacd1bb7680aeca9f23ceaa194deb41fb497749aa0f7be41972776",
+  "currentPath": "Sailboats/Paul Gartside 16ft Open Water Skiff/paul-gartside16ft-open-water-skiff-001.jpg",
+  "originalFilename": "PaulGartside16ftOpenWaterSkiff.jpg",
+  "pathHistory": [
+    "Paul Gartside 16ft Open Water Skiff/PaulGartside16ftOpenWaterSkiff.jpg",
+    "Paul Gartside 16ft Open Water Skiff/paul-gartside16ft-open-water-skiff-001.jpg",
+    "Sailboats/Paul Gartside 16ft Open Water Skiff/paul-gartside16ft-open-water-skiff-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 141871,
+  "modifiedAt": "2025-06-25T15:02:08.204Z",
+  "classId": "605ee124-d09b-47c9-9026-facfd89e7e79",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

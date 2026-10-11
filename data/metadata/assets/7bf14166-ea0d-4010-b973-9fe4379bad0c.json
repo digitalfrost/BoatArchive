@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "7bf14166-ea0d-4010-b973-9fe4379bad0c",
+  "contentHash": "7b50c20344de018d472e96132efd8c62da7b94160dc5e91a1e6eb7de09aaadf1",
+  "currentPath": "Sailboats/Block Island Cow Horn/Curlew/CURLEW.txt",
+  "originalFilename": "CURLEW.txt",
+  "pathHistory": [
+    "Block Island Cow Horn/Curlew/CURLEW.txt",
+    "Sailboats/Block Island Cow Horn/Curlew/CURLEW.txt"
+  ],
+  "status": "present",
+  "sizeBytes": 973,
+  "modifiedAt": "2025-06-27T13:36:03.710Z",
+  "classId": "249706e2-9898-48bc-8476-a3bfc1c7bcad",
+  "boatId": "060b6818-2a1a-4210-abac-a9ff9df380a6",
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

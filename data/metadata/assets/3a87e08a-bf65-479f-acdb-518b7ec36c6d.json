@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "3a87e08a-bf65-479f-acdb-518b7ec36c6d",
+  "contentHash": "d0c6c3c310a4bf36506e764dd103936ded5e4d69a7108951b799794d1c8d7916",
+  "currentPath": "Sailboats/110/110-construction-manual.pdf",
+  "originalFilename": "110-construction-manual.pdf",
+  "pathHistory": [
+    "110/110-construction-manual.pdf",
+    "Sailboats/110/110-construction-manual.pdf"
+  ],
+  "status": "present",
+  "sizeBytes": 248001,
+  "modifiedAt": "2025-07-04T17:08:28.470Z",
+  "classId": "5e6965d8-604c-4482-80bb-292827f07094",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

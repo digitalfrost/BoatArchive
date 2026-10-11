@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "463b2698-baec-4db7-9a90-7551d6860684",
+  "contentHash": "d0fca73e00c931c27694164da5234f68518d1f490238148733a42114f615bd2c",
+  "currentPath": "Sailboats/Francois Vivier Designs/Beniguet/beniguet-interior-001.jpg",
+  "originalFilename": "beniguet-interior-001.jpg",
+  "pathHistory": [
+    "Francois Vivier Designs/Beniguet/beniguet-interior-001.jpg",
+    "Sailboats/Francois Vivier Designs/Beniguet/beniguet-interior-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 140432,
+  "modifiedAt": "2024-04-04T17:49:47.438Z",
+  "classId": "55864e75-c577-44f2-936b-f95a46ba637f",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

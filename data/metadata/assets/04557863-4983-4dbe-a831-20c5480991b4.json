@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "04557863-4983-4dbe-a831-20c5480991b4",
+  "contentHash": "3ce15b1d5bcb7c766cf563834db514d2bf3b76b52b28b6b33f1478840a5a708b",
+  "currentPath": "Sailboats/Bettes Marseillaises/_albums/Historical Photos/bette-sette1914-001.jpg",
+  "originalFilename": "bette-sette1914.jpg",
+  "pathHistory": [
+    "Bettes Marseillaises/_albums/Historical Photos/bette-sette1914.jpg",
+    "Bettes Marseillaises/_albums/Historical Photos/bette-sette1914-001.jpg",
+    "Sailboats/Bettes Marseillaises/_albums/Historical Photos/bette-sette1914-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 1201944,
+  "modifiedAt": "2026-04-23T22:21:56.142Z",
+  "classId": null,
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "unclassified",
+  "associationOverride": false
+}

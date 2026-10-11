@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "entityId": "52d16049-aacc-48f9-a537-5e6601711ef9",
+  "kind": "classes",
+  "currentPath": "Sailboats/Dories/Gloucester Sailing Dory",
+  "name": "Gloucester Sailing Dory",
+  "metadata": null,
+  "slug": "gloucester-sailing-dory-c720516a97e5",
+  "pathHistory": [
+    "Dories/Gloucester Sailing Dory",
+    "Sailboats/Dories/Gloucester Sailing Dory"
+  ],
+  "status": "present",
+  "assetIds": [
+    "1e66adab-95ba-41b5-9919-1f7885762228",
+    "1ff80955-a114-43e1-a6cd-232493470fe7",
+    "2192b569-6364-4780-8b82-c41482428e57",
+    "703645b4-23fb-448e-80a1-a8016196891b"
+  ]
+}

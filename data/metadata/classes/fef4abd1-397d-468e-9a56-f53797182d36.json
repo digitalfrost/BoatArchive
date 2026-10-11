@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "entityId": "fef4abd1-397d-468e-9a56-f53797182d36",
+  "kind": "classes",
+  "currentPath": "Sailboats/Sharpies",
+  "name": "Sharpies",
+  "metadata": null,
+  "slug": "sharpies-f4130ba67474",
+  "pathHistory": [
+    "Sharpies",
+    "Sailboats/Sharpies"
+  ],
+  "status": "reconciliation-required",
+  "assetIds": [
+    "229c9d90-bcc2-485d-858c-4e70af28c092",
+    "2ba6d5d0-4079-4ff7-8c6c-fd6c0cd736ed",
+    "3c5552aa-97b5-49fe-b95f-82d5c94bb29d",
+    "564e8d23-120c-45e2-bc76-dedf2967e337",
+    "7008c8bd-f421-44f7-85e8-070d2b7acfa8",
+    "76428b3e-5ff4-485a-a2a3-6ed2e972f9fe",
+    "aaa3e4de-8781-4989-bc08-a218593d186f",
+    "bc9ad71c-59b8-4f14-818b-5a98740319e0",
+    "c8d029f1-5988-446f-b39d-681b136cb8cc",
+    "d283646d-55a3-44c4-89e5-a227859d1a00",
+    "db516a33-bfd0-46eb-825f-6fbd1bf2d431",
+    "db65c536-0d61-4dac-956a-5f60eb60a901",
+    "f63cf796-db24-4cb2-8b34-52671e0af349"
+  ],
+  "pendingPaths": [
+    "Sailboats/Sharpies/Sharp End 900"
+  ]
+}

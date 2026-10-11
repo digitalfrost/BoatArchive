@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "0113d9b2-952e-4007-b74b-27df2b2b2b26",
+  "contentHash": "d9600dd26965a65dcce933abb61a49fc7c2b19f231792304e975ba102cb362e2",
+  "currentPath": "Sailboats/Bettes Marseillaises/Magaluno/maguluno-064.gif",
+  "originalFilename": "LE-QUART-SUR-LA-PENNE.gif",
+  "pathHistory": [
+    "Bettes Marseillaises/Magaluno/LE-QUART-SUR-LA-PENNE.gif",
+    "Bettes Marseillaises/Magaluno/maguluno-064.gif",
+    "Sailboats/Bettes Marseillaises/Magaluno/maguluno-064.gif"
+  ],
+  "status": "present",
+  "sizeBytes": 24978,
+  "modifiedAt": "2026-05-03T12:37:20.361Z",
+  "classId": null,
+  "boatId": "96772105-507b-4bcc-9454-24066421fe57",
+  "metadata": "{\"format\":\"gif\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

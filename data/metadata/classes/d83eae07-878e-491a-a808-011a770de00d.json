@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "entityId": "d83eae07-878e-491a-a808-011a770de00d",
+  "kind": "classes",
+  "currentPath": "Sailboats/Barquette Marseillaise",
+  "name": "Barquette Marseillaise",
+  "metadata": null,
+  "slug": "barquette-marseillaise-deb31f711a6c",
+  "pathHistory": [
+    "Barquette Marseillaise",
+    "Sailboats/Barquette Marseillaise"
+  ],
+  "status": "present",
+  "assetIds": [
+    "b88d3193-8643-49a9-bd06-198e84f1be84",
+    "f9465256-e556-4347-9714-f64f3b3ca5e9"
+  ]
+}

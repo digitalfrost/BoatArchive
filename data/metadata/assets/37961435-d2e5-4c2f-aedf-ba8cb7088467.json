@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "37961435-d2e5-4c2f-aedf-ba8cb7088467",
+  "contentHash": "1309fe34343de3842ead2f557564010c57ccc3f91facbbde16a03101d4b4d82d",
+  "currentPath": "Sailboats/Bettes Marseillaises/Bette Marseillaise 1936/bette-marseillaise-1936-004.jpg",
+  "originalFilename": "ca76e1c54e462226cf71c8efafd2e845fee4fcf8.jpg",
+  "pathHistory": [
+    "Bettes Marseillaises/Bette Marseillaise 1936/ca76e1c54e462226cf71c8efafd2e845fee4fcf8.jpg",
+    "Bettes Marseillaises/Bette Marseillaise 1936/bette-marseillaise-1936-004.jpg",
+    "Sailboats/Bettes Marseillaises/Bette Marseillaise 1936/bette-marseillaise-1936-004.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 101415,
+  "modifiedAt": "2026-04-24T23:15:42.863Z",
+  "classId": null,
+  "boatId": "1926e21d-1bb4-4e1e-aa63-8be4dc412865",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

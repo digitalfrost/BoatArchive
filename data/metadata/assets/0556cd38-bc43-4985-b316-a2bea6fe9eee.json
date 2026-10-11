@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "0556cd38-bc43-4985-b316-a2bea6fe9eee",
+  "contentHash": "aadd2f071e3b00aa4b11fd02507613acbe2f88a87bfbd6356f0ef1c11d123468",
+  "currentPath": "Sailboats/Tiknot/tiKnot_planches.pdf",
+  "originalFilename": "tiKnot_planches.pdf",
+  "pathHistory": [
+    "Tiknot/tiKnot_planches.pdf",
+    "Sailboats/Tiknot/tiKnot_planches.pdf"
+  ],
+  "status": "present",
+  "sizeBytes": 502414,
+  "modifiedAt": "2026-04-09T08:50:45.108Z",
+  "classId": "41fa13e4-49d4-4f28-ac2d-cd1457b51a81",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

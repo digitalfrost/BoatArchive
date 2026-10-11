@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "4d6b2877-039b-4e4c-b80d-fe279aed65b4",
+  "contentHash": "89d9b3ab8fdc8667f218ce701e5492746a827f539c626f2e0962b8fd91545f33",
+  "currentPath": "Sailboats/110/110-003.jpg",
+  "originalFilename": "110-003.jpg",
+  "pathHistory": [
+    "110/110-003.jpg",
+    "Sailboats/110/110-003.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 124001,
+  "modifiedAt": "2026-10-06T21:28:30.619Z",
+  "classId": "5e6965d8-604c-4482-80bb-292827f07094",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

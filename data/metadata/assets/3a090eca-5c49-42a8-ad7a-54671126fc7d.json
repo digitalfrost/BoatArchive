@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "3a090eca-5c49-42a8-ad7a-54671126fc7d",
+  "contentHash": "612cd05f2bd0634ae5896fd9ab57d0a602ab374a91ae7b3497269f62366d2537",
+  "currentPath": "Sailboats/Dories/Chamberlain Gunning Dory/Gunning Dory 1/2-9-2024-croped.jpg",
+  "originalFilename": "2-9-2024-croped.jpg",
+  "pathHistory": [
+    "Dories/Chamberlain Gunning Dory/Gunning Dory 1/2-9-2024-croped.jpg",
+    "Sailboats/Dories/Chamberlain Gunning Dory/Gunning Dory 1/2-9-2024-croped.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 429216,
+  "modifiedAt": "2024-07-17T17:57:23.648Z",
+  "classId": "8dbf86a0-53fe-40c0-a5f0-f2636b835b17",
+  "boatId": "d0c37c1b-fde4-492c-8444-008e7a1ebe58",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

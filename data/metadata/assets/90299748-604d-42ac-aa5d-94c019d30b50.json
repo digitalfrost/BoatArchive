@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "90299748-604d-42ac-aa5d-94c019d30b50",
+  "contentHash": "9a3f6436556614c94a0e2f6423296592dba10d1f17383d96a277d8abe139e71b",
+  "currentPath": "Sailboats/Bettes Marseillaises/Nacelle Grachus/nacelle-grachus-003.jpg",
+  "originalFilename": "nacelle-grachus-003.jpg",
+  "pathHistory": [
+    "Bettes Marseillaises/Nacelle Grachus/nacelle-grachus-003.jpg",
+    "Sailboats/Bettes Marseillaises/Nacelle Grachus/nacelle-grachus-003.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 148670,
+  "modifiedAt": "2026-04-24T22:21:10.661Z",
+  "classId": null,
+  "boatId": "13d66445-851b-4d54-92d2-65a06497e2db",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

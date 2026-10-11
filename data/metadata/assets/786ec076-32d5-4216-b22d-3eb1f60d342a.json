@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "786ec076-32d5-4216-b22d-3eb1f60d342a",
+  "contentHash": "4f0b74231b2a1e66562b2ad320646d0dd8897f70d2419ea34b92d759afb815ed",
+  "currentPath": "Sailboats/Sharpies/Egrets/Unknown Egret/egret-006.jpg",
+  "originalFilename": "picegret28102f.jpg",
+  "pathHistory": [
+    "Sharpies/Egrets/Unknown Egret/picegret28102f.jpg",
+    "Sharpies/Egrets/Unknown Egret/egret-006.jpg",
+    "Sailboats/Sharpies/Egrets/Unknown Egret/egret-006.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 62120,
+  "modifiedAt": "2026-04-08T18:28:46.477Z",
+  "classId": "a7b08899-b265-43be-b8a3-1c28b4f412b2",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

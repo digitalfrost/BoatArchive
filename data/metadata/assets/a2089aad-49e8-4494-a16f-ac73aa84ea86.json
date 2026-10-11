@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "a2089aad-49e8-4494-a16f-ac73aa84ea86",
+  "contentHash": "24d3ace1ddbcb62b1b4faf4373ebfce9d1577974890b534f6c66b8c41c6feeca",
+  "currentPath": "Sailboats/Dories/Deblois Street Dory/Deblois Street Dory 2/deblois-street-dory-2-002.jpg",
+  "originalFilename": "556160565_24937569135883276_5022878211890438578_n.jpg",
+  "pathHistory": [
+    "Dories/Deblois Street Dory/Deblois Street Dory 2/556160565_24937569135883276_5022878211890438578_n.jpg",
+    "Dories/Deblois Street Dory/Deblois Street Dory 2/deblois-street-dory-2-002.jpg",
+    "Sailboats/Dories/Deblois Street Dory/Deblois Street Dory 2/deblois-street-dory-2-002.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 220172,
+  "modifiedAt": "2026-03-26T08:55:51.526Z",
+  "classId": "74c1a37b-2232-4af9-8b7c-4a15124ca51f",
+  "boatId": "1bb7079c-ba74-4908-bc53-d95c6620fdbd",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

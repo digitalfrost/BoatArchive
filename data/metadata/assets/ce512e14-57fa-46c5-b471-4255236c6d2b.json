@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "ce512e14-57fa-46c5-b471-4255236c6d2b",
+  "contentHash": "d965d5facd146036d2b627f5307de4871910987879d749934a9e59d86d369854",
+  "currentPath": "Sailboats/Patrick Balta Designs/Convention/convention-003.jpg",
+  "originalFilename": "convention005.jpg",
+  "pathHistory": [
+    "Patrick Balta Designs/Convention/convention005.jpg",
+    "Patrick Balta Designs/Convention/convention-003.jpg",
+    "Sailboats/Patrick Balta Designs/Convention/convention-003.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 60436,
+  "modifiedAt": "2026-04-30T09:29:36.306Z",
+  "classId": "df4f43dd-067f-4115-ada9-29465319f369",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

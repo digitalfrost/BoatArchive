@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "2031982d-4d34-41b0-885f-d07dc9bdcbb1",
+  "contentHash": "edee8c94035b769f05c0b1f67f8900d910313753a7a884c101cc005300576e22",
+  "currentPath": "Sailboats/KBane 710/kbane-710-010.jpg",
+  "originalFilename": "a94b4cae9b23f41dd6dd900715e77cb2a8a2fc7a.jpg",
+  "pathHistory": [
+    "KBane 710/a94b4cae9b23f41dd6dd900715e77cb2a8a2fc7a.jpg",
+    "KBane 710/kbane-710-010.jpg",
+    "Sailboats/KBane 710/kbane-710-010.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 80470,
+  "modifiedAt": "2026-05-17T16:42:53.163Z",
+  "classId": "0dba06a2-72e4-47b5-ad4a-8a6d43a7a7e9",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

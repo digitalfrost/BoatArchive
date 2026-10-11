@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "ddc68397-25d5-4dc3-84bd-61775e52c2a7",
+  "contentHash": "c4db57dadd03fa91ac4660ad260ff91827f8ced1e56cbfb435f930b9d017315c",
+  "currentPath": "Powerboats/Redwing 18/Redwing 18.txt",
+  "originalFilename": "Redwing 18.txt",
+  "pathHistory": [
+    "Power Boats/Redwing 18/Redwing 18.txt",
+    "Powerboats/Redwing 18/Redwing 18.txt"
+  ],
+  "status": "present",
+  "sizeBytes": 445,
+  "modifiedAt": "2025-06-13T13:46:48.269Z",
+  "classId": "c80f09fa-9705-4a42-a8ce-4e3bc6eba62f",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

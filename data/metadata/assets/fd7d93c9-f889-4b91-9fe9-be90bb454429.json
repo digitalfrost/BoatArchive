@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "fd7d93c9-f889-4b91-9fe9-be90bb454429",
+  "contentHash": "8630f3818a23d6c6c07a82a9ba4c8048d2a6138968b30f32ec272d4af5b25b4c",
+  "currentPath": "Sailboats/Ian Oughtred Designs/Artic Tern/artic-tern-001.jpg",
+  "originalFilename": "Artic Tern.jpg",
+  "pathHistory": [
+    "Ian Oughtred Designs/Artic Tern/Artic Tern.jpg",
+    "Ian Oughtred Designs/Artic Tern/artic-tern-001.jpg",
+    "Sailboats/Ian Oughtred Designs/Artic Tern/artic-tern-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 485172,
+  "modifiedAt": "2025-06-25T13:43:21.912Z",
+  "classId": "bf296196-d4c4-4be3-959b-8cf2ed84e601",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

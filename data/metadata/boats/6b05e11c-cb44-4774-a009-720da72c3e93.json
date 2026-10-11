@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "entityId": "6b05e11c-cb44-4774-a009-720da72c3e93",
+  "kind": "boats",
+  "currentPath": "Sailboats/Bettes Marseillaises/Bette Fine",
+  "name": "Bette Fine",
+  "metadata": null,
+  "classId": null,
+  "sailNumber": null,
+  "pathHistory": [
+    "Bettes Marseillaises/Bette Fine",
+    "Sailboats/Bettes Marseillaises/Bette Fine"
+  ],
+  "status": "present",
+  "assetIds": [
+    "e8c487af-3048-4fd6-bc1c-3e7794af8794"
+  ]
+}

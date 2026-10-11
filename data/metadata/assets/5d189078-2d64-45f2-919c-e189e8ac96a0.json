@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "5d189078-2d64-45f2-919c-e189e8ac96a0",
+  "contentHash": "872ae219623054a9c76fb2cf32343eea52c5e5bd4b6af93c32e36211f97e31d4",
+  "currentPath": "Sailboats/Dornas/gamela-001.webp",
+  "originalFilename": "gamela-001.webp",
+  "pathHistory": [
+    "Dornas/gamela-001.webp",
+    "Sailboats/Dornas/gamela-001.webp"
+  ],
+  "status": "present",
+  "sizeBytes": 25220,
+  "modifiedAt": "2025-07-17T17:11:17.898Z",
+  "classId": "daae6a51-7a1f-4cd4-a9ab-6bcc5106f895",
+  "boatId": null,
+  "metadata": "{\"format\":\"webp\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

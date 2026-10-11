@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "entityId": "7839d66b-62bc-4cf0-be5d-01c77ae9317b",
+  "kind": "classes",
+  "currentPath": "Sailboats/Dories/Atlantic Dory",
+  "name": "Atlantic Dory",
+  "metadata": null,
+  "slug": "atlantic-dory-330705ac5b7b",
+  "pathHistory": [
+    "Dories/Atlantic Dory",
+    "Sailboats/Dories/Atlantic Dory"
+  ],
+  "status": "present",
+  "assetIds": [
+    "7d684e4a-9b41-4ab1-91ff-968e45d4c29f"
+  ]
+}

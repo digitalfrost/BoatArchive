@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "05fdd7ec-2bd9-4989-838b-a5a710eaae3c",
+  "contentHash": "0f86e43b3e4b3ec86a1966e45eebe835d090072dbf0fdde9a162b23b682163b5",
+  "currentPath": "Sailboats/Sharpies/Chapelle Sharpie/chapelle-sharpie-001.jpg",
+  "originalFilename": "chapelle-sharpie-001.jpg",
+  "pathHistory": [
+    "Sharpies/Chapelle Sharpie/chapelle-sharpie-001.jpg",
+    "Sailboats/Sharpies/Chapelle Sharpie/chapelle-sharpie-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 409896,
+  "modifiedAt": "2025-07-06T19:09:58.343Z",
+  "classId": "5edb00a5-7393-4b55-b1ce-4570d6d1a89f",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

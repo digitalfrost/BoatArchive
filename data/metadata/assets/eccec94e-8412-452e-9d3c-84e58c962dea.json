@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "eccec94e-8412-452e-9d3c-84e58c962dea",
+  "contentHash": "1b44b56369fcfd763663306d7ee3671e6970ac6b1f303b57e85601ebea79989b",
+  "currentPath": "Sailboats/Phoenix 3/Phoenix+15+Instructions.pdf",
+  "originalFilename": "Phoenix+15+Instructions.pdf",
+  "pathHistory": [
+    "Phoenix 3/Phoenix+15+Instructions.pdf",
+    "Sailboats/Phoenix 3/Phoenix+15+Instructions.pdf"
+  ],
+  "status": "present",
+  "sizeBytes": 10518532,
+  "modifiedAt": "2026-04-03T08:04:32.303Z",
+  "classId": "a0929fb8-01c6-4c0e-9d6d-47d395b93eb8",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

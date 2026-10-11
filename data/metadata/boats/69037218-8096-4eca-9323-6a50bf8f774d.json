@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "entityId": "69037218-8096-4eca-9323-6a50bf8f774d",
+  "kind": "boats",
+  "currentPath": "Sailboats/Hereshoff/Little M",
+  "name": "Little M",
+  "metadata": null,
+  "classId": "d1ccd30c-a8eb-48b7-9374-1a9f8ef7b62a",
+  "sailNumber": null,
+  "pathHistory": [
+    "Hereshoff/Little M",
+    "Sailboats/Hereshoff/Little M"
+  ],
+  "status": "present",
+  "assetIds": [
+    "4ae7a12c-9ceb-4c22-aec2-399acd19fb95"
+  ]
+}

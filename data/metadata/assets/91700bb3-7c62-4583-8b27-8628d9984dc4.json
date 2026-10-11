@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "91700bb3-7c62-4583-8b27-8628d9984dc4",
+  "contentHash": "3a3434ef0220caa09929a42752d285cf10549fe15e6eb77041ea7349e1f30563",
+  "currentPath": "Sailboats/Dories/Thomson Swampscott Dory/thomson-swampscott-dory-001.jpg",
+  "originalFilename": "38514(1).jpg",
+  "pathHistory": [
+    "Dories/Thomson Swampscott Dory/38514(1).jpg",
+    "Dories/Thomson Swampscott Dory/thomson-swampscott-dory-001.jpg",
+    "Sailboats/Dories/Thomson Swampscott Dory/thomson-swampscott-dory-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 129479,
+  "modifiedAt": "2026-10-07T15:28:12.503Z",
+  "classId": "298e8285-9054-44e0-aacc-3d3dc5117218",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

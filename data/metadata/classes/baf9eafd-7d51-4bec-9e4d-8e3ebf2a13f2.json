@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "entityId": "baf9eafd-7d51-4bec-9e4d-8e3ebf2a13f2",
+  "kind": "classes",
+  "currentPath": "Sailboats/Dories/Unidentified Dory 4",
+  "name": "Unidentified Dory 4",
+  "metadata": null,
+  "slug": "unidentified-dory-4-0fd6824fd1ee",
+  "pathHistory": [
+    "Dories/Unidentified Dory 4",
+    "Sailboats/Dories/Unidentified Dory 4"
+  ],
+  "status": "present",
+  "assetIds": [
+    "33851178-21b2-4359-85de-2087d684b805",
+    "e289d5ba-faf7-4555-aa86-4eba326addd9"
+  ]
+}

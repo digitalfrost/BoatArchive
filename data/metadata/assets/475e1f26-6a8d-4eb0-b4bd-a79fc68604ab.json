@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "475e1f26-6a8d-4eb0-b4bd-a79fc68604ab",
+  "contentHash": "26b709e68983d888c5d974f5a711d3629a5d83224c276ad241d1b4045bcc5b83",
+  "currentPath": "Sailboats/Crotch Island Pinky/wbms-s4e8-001.jpg",
+  "originalFilename": "wbms-s4e8.jpg",
+  "pathHistory": [
+    "Crotch Island Pinky/wbms-s4e8.jpg",
+    "Crotch Island Pinky/wbms-s4e8-001.jpg",
+    "Sailboats/Crotch Island Pinky/wbms-s4e8-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 119584,
+  "modifiedAt": "2025-06-08T16:38:28.383Z",
+  "classId": "18cad3c5-a479-43c6-9209-05b44d84da23",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

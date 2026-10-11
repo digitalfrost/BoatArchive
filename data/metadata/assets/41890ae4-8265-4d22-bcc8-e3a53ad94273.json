@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "assetId": "41890ae4-8265-4d22-bcc8-e3a53ad94273",
+  "contentHash": "4f6515b98536f8b56fb00c4d8b84eb98a568aad7a8f1f36df7a3ba934d568518",
+  "currentPath": "Sailboats/Gaffers/Heard Tosher 18/heard-tosher-18-aft-thwarts-001.jpeg",
+  "originalFilename": "Heard-Tosher-18-aft-thwarts.jpeg",
+  "pathHistory": [
+    "Heard Tosher 18/Heard-Tosher-18-aft-thwarts.jpeg",
+    "Heard Tosher 18/heard-tosher-18-aft-thwarts-001.jpeg",
+    "Sailboats/Heard Tosher 18/heard-tosher-18-aft-thwarts-001.jpeg",
+    "Sailboats/Gaffers/Heard Tosher 18/heard-tosher-18-aft-thwarts-001.jpeg"
+  ],
+  "status": "present",
+  "sizeBytes": 793641,
+  "modifiedAt": "2025-06-02T18:49:51.742Z",
+  "classId": "965b330b-153d-428b-952b-233ce2b038bf",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

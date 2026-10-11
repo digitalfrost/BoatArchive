@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "c906965f-9fac-4729-af5b-3450cdc71a06",
+  "contentHash": "ea87b5f90cf300bcddd6bff39d718837d5d6ae413940015a34310faa6b794c50",
+  "currentPath": "Sailboats/Pointer 22/pointer22-on-trailer-003.jpg",
+  "originalFilename": "pointer22-on-trailer-003.jpg",
+  "pathHistory": [
+    "Pointer 22/pointer22-on-trailer-003.jpg",
+    "Sailboats/Pointer 22/pointer22-on-trailer-003.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 528468,
+  "modifiedAt": "2026-10-07T09:16:34.276Z",
+  "classId": "90e083f0-b692-4adf-ab29-eaf833e8e85e",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

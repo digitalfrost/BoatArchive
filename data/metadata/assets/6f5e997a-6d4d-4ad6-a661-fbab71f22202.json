@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "6f5e997a-6d4d-4ad6-a661-fbab71f22202",
+  "contentHash": "f217a7bb1e43d6c7d01c8b52e9fc7ddae7f4cd6f4421531bc8ed66241e5e997e",
+  "currentPath": "Sailboats/Tiknot/tiknot_The book- Ch1-2.pdf",
+  "originalFilename": "tiknot_The book- Ch1-2.pdf",
+  "pathHistory": [
+    "Tiknot/tiknot_The book- Ch1-2.pdf",
+    "Sailboats/Tiknot/tiknot_The book- Ch1-2.pdf"
+  ],
+  "status": "present",
+  "sizeBytes": 449888,
+  "modifiedAt": "2026-04-09T08:51:09.830Z",
+  "classId": "41fa13e4-49d4-4f28-ac2d-cd1457b51a81",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

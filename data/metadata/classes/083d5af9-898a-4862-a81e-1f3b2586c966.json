@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "entityId": "083d5af9-898a-4862-a81e-1f3b2586c966",
+  "kind": "classes",
+  "currentPath": "Powerboats/20ft John Atkins skiff",
+  "name": "20ft John Atkins skiff",
+  "metadata": null,
+  "slug": "20ft-john-atkins-skiff-34d94bc358ac",
+  "pathHistory": [
+    "Power Boats/20ft John Atkins skiff",
+    "Powerboats/20ft John Atkins skiff"
+  ],
+  "status": "present",
+  "assetIds": [
+    "1b34bf25-3c43-460f-aab8-b4a9ae685fc7",
+    "675a03a2-b6b3-4009-83a8-9fadcf032809",
+    "994ad3d1-a915-4a6e-ba02-fbcd94f7cdd9",
+    "b2c1376d-d40b-443e-85e2-e82914968003",
+    "dbe406d7-7c47-4b5e-acab-1dca55ba3e22",
+    "f7dc398c-f05e-4b13-9537-191956cf448f",
+    "ff8a8bd1-3857-4391-814d-e081fbd7a5c2"
+  ]
+}

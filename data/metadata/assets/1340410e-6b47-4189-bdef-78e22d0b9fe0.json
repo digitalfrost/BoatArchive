@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "1340410e-6b47-4189-bdef-78e22d0b9fe0",
+  "contentHash": "dc1d21f1ae1ba0e93c3fb18dd1de085c60ec15b200706b174ec0250ccc9118e7",
+  "currentPath": "Sailboats/Flow 19/flow19-interior-002.webp",
+  "originalFilename": "flow19-interior-002.webp",
+  "pathHistory": [
+    "Flow 19/flow19-interior-002.webp",
+    "Sailboats/Flow 19/flow19-interior-002.webp"
+  ],
+  "status": "present",
+  "sizeBytes": 60034,
+  "modifiedAt": "2026-10-08T15:44:18.952Z",
+  "classId": "03b979a3-9e62-48e3-b4ce-8a4a9855d91c",
+  "boatId": null,
+  "metadata": "{\"format\":\"webp\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "96d65d1a-20de-4d35-bea1-7840cc09a504",
+  "contentHash": "d449ee2cea1d5eb132aba39a63bfdf3a20a7a26827c642fe21ffffe0d5d128ca",
+  "currentPath": "Sailboats/Peter Culler Otter/Otter 1/otter-1-002.jpg",
+  "originalFilename": "47482252381_c61c63e831_o.jpg",
+  "pathHistory": [
+    "Peter Culler Otter/Otter 1/47482252381_c61c63e831_o.jpg",
+    "Peter Culler Otter/Otter 1/otter-1-002.jpg",
+    "Sailboats/Peter Culler Otter/Otter 1/otter-1-002.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 1303606,
+  "modifiedAt": "2025-06-16T14:46:08.870Z",
+  "classId": "2387e926-6032-46b8-a06f-ec36d147bbe8",
+  "boatId": "16d490a0-d4e2-49fd-81af-1d8cd1dfd98c",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

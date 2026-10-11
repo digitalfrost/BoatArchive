@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "entityId": "2387e926-6032-46b8-a06f-ec36d147bbe8",
+  "kind": "classes",
+  "currentPath": "Sailboats/Peter Culler Otter",
+  "name": "Peter Culler Otter",
+  "metadata": null,
+  "slug": "peter-culler-otter-afd811b959e7",
+  "pathHistory": [
+    "Peter Culler Otter",
+    "Sailboats/Peter Culler Otter"
+  ],
+  "status": "present",
+  "assetIds": [
+    "3ce6fcb6-4a67-4ec8-81ea-c8abafcd04cf",
+    "747ad49a-b725-46bd-a51a-26accfa44184",
+    "96d65d1a-20de-4d35-bea1-7840cc09a504",
+    "af8798a3-9e71-4055-9926-5c3999d2e251",
+    "d12031fa-1d9f-4100-982c-9010469b16f5",
+    "e21679f1-b252-443e-8080-c5c5d06de371",
+    "fa0d42e7-3130-405d-a5e4-21afdb7d0a51"
+  ]
+}

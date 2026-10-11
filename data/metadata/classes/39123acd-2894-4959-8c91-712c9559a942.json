@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "entityId": "39123acd-2894-4959-8c91-712c9559a942",
+  "kind": "classes",
+  "currentPath": "Sailboats/Lili 610",
+  "name": "Lili 610",
+  "metadata": null,
+  "slug": "lili-610-a3d9bb32d7c9",
+  "pathHistory": [
+    "Lili 610",
+    "Sailboats/Lili 610"
+  ],
+  "status": "present",
+  "assetIds": [
+    "023c2da3-e084-4f14-8bad-d79768fc4e9c",
+    "13d1695a-4676-4888-b79d-4da057305099",
+    "1b85e540-f339-4a2b-b3c0-f611986f3caf",
+    "1e5228de-1565-4156-82a9-1f6be2edf270",
+    "2437c02d-0d84-423a-9b1c-bb979e268496",
+    "29dc6290-a37b-4f49-bea8-7602e288eb7f",
+    "33caeebe-a6f4-4fb2-bd18-4f382ba1d3bc",
+    "43146e50-503a-4323-9251-2e6120248733",
+    "46ea5a03-1a00-4120-b91d-4584c7dffc6a",
+    "4caf7ed3-8c54-49d5-a229-51afd4346fd4",
+    "70e3ea7d-05ac-44a6-86a0-c1f458a121d4",
+    "712231ef-49a0-4dad-8c99-e131ba57ee6e",
+    "86c91a76-b517-431f-9580-84a3041889e8",
+    "c11c80e9-f9c5-4613-a649-d1354135c615",
+    "c14481a1-8a86-4f52-bc3e-c5122c16aa40",
+    "c19eab17-4373-48f6-8560-932a83074cea",
+    "c4a42fa1-2ace-4268-9843-4a95c7e8c955",
+    "cc3cabce-0e36-4315-b752-26d72a267527",
+    "d5f7a858-5992-4fdd-a1d4-ca92823378b7",
+    "d8bf6763-8342-4dea-8bd6-2365481aed32",
+    "d9055fa4-336e-4886-8dc2-f14bebfdc724",
+    "e72d6efa-ed43-43ef-a3c6-4636e148b403",
+    "eba25a7c-478b-4515-b7c5-014a2d08bdec",
+    "edb788b2-1ae4-4de3-a57b-f491915f4ba6",
+    "f2545d94-3dd7-4e1c-9c20-1a4d2cfa5e6a",
+    "f971b0b5-c8c9-4fd4-9f32-8dd80d646be6"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "46920603-1bb9-4dc9-9ff0-582d978c3a39",
+  "contentHash": "84bf49a7c24253bafcbffc4bb2213bd04ea0164bb53897de825c8e14becf031c",
+  "currentPath": "Sailboats/Secret 33/secret_yawl_160508.pdf",
+  "originalFilename": "secret_yawl_160508.pdf",
+  "pathHistory": [
+    "Secret 33/secret_yawl_160508.pdf",
+    "Sailboats/Secret 33/secret_yawl_160508.pdf"
+  ],
+  "status": "present",
+  "sizeBytes": 216084,
+  "modifiedAt": "2025-01-29T00:27:14.130Z",
+  "classId": "a82cd572-e2e9-437b-a0df-1d22b9662966",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

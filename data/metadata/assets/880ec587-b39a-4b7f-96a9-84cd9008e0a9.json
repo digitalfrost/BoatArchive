@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "880ec587-b39a-4b7f-96a9-84cd9008e0a9",
+  "contentHash": "59f00f433ba186e1eedee0e8118de8cc0a1bcf42b3dca9b3cae1066451c0c1d2",
+  "currentPath": "Sailboats/Dories/Crawford Dory/Unidentified Dory 2/unidentified-dory-2-007.jpg",
+  "originalFilename": "img_3644.jpg",
+  "pathHistory": [
+    "Dories/Crawford Dory/Unidentified Dory 2/img_3644.jpg",
+    "Dories/Crawford Dory/Unidentified Dory 2/unidentified-dory-2-007.jpg",
+    "Sailboats/Dories/Crawford Dory/Unidentified Dory 2/unidentified-dory-2-007.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 6192367,
+  "modifiedAt": "2025-06-03T09:30:47.107Z",
+  "classId": "7d393214-4e0a-4760-a5f8-94781d582ae0",
+  "boatId": "016ae418-8251-43de-bb62-78e6f15f324a",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

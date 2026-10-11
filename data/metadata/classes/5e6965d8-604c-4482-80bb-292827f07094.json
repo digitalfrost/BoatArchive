@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "entityId": "5e6965d8-604c-4482-80bb-292827f07094",
+  "kind": "classes",
+  "currentPath": "Sailboats/110",
+  "name": "110",
+  "metadata": null,
+  "slug": "110-9bdb2af67992",
+  "pathHistory": [
+    "110",
+    "Sailboats/110"
+  ],
+  "status": "present",
+  "assetIds": [
+    "33e19b6f-7c7d-4f9c-a258-d4a310523191",
+    "3a87e08a-bf65-479f-acdb-518b7ec36c6d",
+    "4d6b2877-039b-4e4c-b80d-fe279aed65b4",
+    "4df85185-46ed-40b5-92b9-eee39f5d8f5e",
+    "9b969af5-cd6e-469b-a4e1-82cc4fc96e2c",
+    "a0e97045-5f7d-46c3-b04f-6d86c4ee88e4",
+    "f7ba2470-cc58-42a7-abda-1662d31918e1"
+  ]
+}

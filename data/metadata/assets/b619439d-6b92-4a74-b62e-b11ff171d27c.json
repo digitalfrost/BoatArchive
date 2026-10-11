@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "assetId": "b619439d-6b92-4a74-b62e-b11ff171d27c",
+  "contentHash": "7212f1c9faea7be2dce7af781126b7cb4ff21cdb2e2219f4041aaefa4f700b00",
+  "currentPath": "Sailboats/Patrick Balta Designs/Convention/convention-048.jpg",
+  "originalFilename": "sous grue.jpg",
+  "pathHistory": [
+    "Patrick Balta Designs/Convention/sous grue.jpg",
+    "Patrick Balta Designs/Convention/sous-grue-001.jpg",
+    "Patrick Balta Designs/Convention/convention-048.jpg",
+    "Sailboats/Patrick Balta Designs/Convention/convention-048.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 66856,
+  "modifiedAt": "2026-04-30T09:25:32.008Z",
+  "classId": "df4f43dd-067f-4115-ada9-29465319f369",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

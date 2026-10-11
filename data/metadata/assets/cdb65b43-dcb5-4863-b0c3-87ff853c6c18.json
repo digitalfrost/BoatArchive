@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "cdb65b43-dcb5-4863-b0c3-87ff853c6c18",
+  "contentHash": "724f9a869e5b7d28ae8e4a8f1974ceb71ed33cc8a5e7adaa6a514feb56475176",
+  "currentPath": "Sailboats/Patrick Balta Designs/Malingre/malingre-002.jpg",
+  "originalFilename": "m32.jpg",
+  "pathHistory": [
+    "Patrick Balta Designs/Malingre/m32.jpg",
+    "Patrick Balta Designs/Malingre/malingre-002.jpg",
+    "Sailboats/Patrick Balta Designs/Malingre/malingre-002.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 71848,
+  "modifiedAt": "2026-04-30T09:39:23.203Z",
+  "classId": "45c53d66-b288-4ff6-bdbe-0d2a51103be1",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

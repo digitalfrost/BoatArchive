@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "4d8001b3-060b-482d-a2fa-5d12221e6d7c",
+  "contentHash": "d9482182e64469a656f5c19b6a77bb6634e35432980d4503f92ee4fd04cfc3c7",
+  "currentPath": "Sailboats/Tiknot/tiKnot voile.pdf",
+  "originalFilename": "tiKnot voile.pdf",
+  "pathHistory": [
+    "Tiknot/tiKnot voile.pdf",
+    "Sailboats/Tiknot/tiKnot voile.pdf"
+  ],
+  "status": "present",
+  "sizeBytes": 75489,
+  "modifiedAt": "2026-04-09T08:51:03.941Z",
+  "classId": "41fa13e4-49d4-4f28-ac2d-cd1457b51a81",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

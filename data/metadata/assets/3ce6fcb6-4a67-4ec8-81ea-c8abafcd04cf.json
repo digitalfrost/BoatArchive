@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "3ce6fcb6-4a67-4ec8-81ea-c8abafcd04cf",
+  "contentHash": "0f60cd834d53c1d388cf0fe1b970e31ea574a43292f728fc7628d2b37b4d93a4",
+  "currentPath": "Sailboats/Peter Culler Otter/Otter 2/otter-2-002.webp",
+  "originalFilename": "otter-2-002.webp",
+  "pathHistory": [
+    "Peter Culler Otter/Otter 2/otter-2-002.webp",
+    "Sailboats/Peter Culler Otter/Otter 2/otter-2-002.webp"
+  ],
+  "status": "present",
+  "sizeBytes": 9632,
+  "modifiedAt": "2026-10-06T21:13:40.768Z",
+  "classId": "2387e926-6032-46b8-a06f-ec36d147bbe8",
+  "boatId": "8bcc62b5-609f-4e87-85e8-eb7980700a02",
+  "metadata": "{\"format\":\"webp\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

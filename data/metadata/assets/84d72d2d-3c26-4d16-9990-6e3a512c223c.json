@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "84d72d2d-3c26-4d16-9990-6e3a512c223c",
+  "contentHash": "8520db594c7da79f0de5eacd8a460743c72ca65705e0a1a3b831d1a7e5960629",
+  "currentPath": "Sailboats/Prams/ClinkerPram/clinker-pram-003.jpg",
+  "originalFilename": "IMG-20240926-WA0012.jpg",
+  "pathHistory": [
+    "Prams/ClinkerPram/IMG-20240926-WA0012.jpg",
+    "Prams/ClinkerPram/clinker-pram-003.jpg",
+    "Sailboats/Prams/ClinkerPram/clinker-pram-003.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 154706,
+  "modifiedAt": "2026-05-02T21:18:08.324Z",
+  "classId": "66bbbb46-71bd-4bf2-af9a-0ec484a104c6",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

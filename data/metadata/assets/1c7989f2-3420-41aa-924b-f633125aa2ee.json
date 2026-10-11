@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "1c7989f2-3420-41aa-924b-f633125aa2ee",
+  "contentHash": "f8f834baa081eba9d64d213e0fa9ab0d5580e30664a2b752d4816838e50dccb3",
+  "currentPath": "Sailboats/Patrick Balta Designs/Tocade/tocade-001.jpg",
+  "originalFilename": "006.jpg",
+  "pathHistory": [
+    "Patrick Balta Designs/Tocade/006.jpg",
+    "Patrick Balta Designs/Tocade/tocade-001.jpg",
+    "Sailboats/Patrick Balta Designs/Tocade/tocade-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 25102,
+  "modifiedAt": "2026-04-30T09:37:37.191Z",
+  "classId": "f0ee4d13-10d2-4662-9731-bbff02b5db7b",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

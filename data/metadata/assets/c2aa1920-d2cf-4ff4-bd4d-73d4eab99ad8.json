@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "assetId": "c2aa1920-d2cf-4ff4-bd4d-73d4eab99ad8",
+  "contentHash": "faf22cb1aaa01fe55d842a0962c802bb16c87e94e5118dee6e08e461c2ab2712",
+  "currentPath": "Sailboats/Gaffers/Heard Tosher 18/heard-tosher-18-002.jpg",
+  "originalFilename": "Heard-Tosher-18-scaled.jpg",
+  "pathHistory": [
+    "Heard Tosher 18/Heard-Tosher-18-scaled.jpg",
+    "Heard Tosher 18/heard-tosher-18-002.jpg",
+    "Sailboats/Heard Tosher 18/heard-tosher-18-002.jpg",
+    "Sailboats/Gaffers/Heard Tosher 18/heard-tosher-18-002.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 630847,
+  "modifiedAt": "2025-06-02T18:47:38.703Z",
+  "classId": "965b330b-153d-428b-952b-233ce2b038bf",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "dc57bea7-3072-4109-9f34-a951cbb7b252",
+  "contentHash": "eb7205107429b3bf6baad3e5883ac499e96eea8a49366c070b2587e8de560448",
+  "currentPath": "Sailboats/Blue Moon Yawl/blue-moon-yawl-001.jpeg",
+  "originalFilename": "23-Gilmer-Blue-Moon-Yawl-2008-Good-Boats-for-Sale-1-1200x750.jpeg",
+  "pathHistory": [
+    "Blue Moon Yawl/23-Gilmer-Blue-Moon-Yawl-2008-Good-Boats-for-Sale-1-1200x750.jpeg",
+    "Blue Moon Yawl/blue-moon-yawl-001.jpeg",
+    "Sailboats/Blue Moon Yawl/blue-moon-yawl-001.jpeg"
+  ],
+  "status": "present",
+  "sizeBytes": 99972,
+  "modifiedAt": "2025-07-14T11:56:15.316Z",
+  "classId": "266737d4-b98b-47c0-8340-2db878c02333",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

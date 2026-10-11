@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "8548fbc0-3b71-45e6-b13b-3988be735eee",
+  "contentHash": "b604dbe5225dee8c7318b8ae27e4a32315141f8fe2775df69c6a2c3d30b266c7",
+  "currentPath": "Sailboats/Dories/Lowell 19ft Dory/lowell-19ft-dory-006.jpeg",
+  "originalFilename": "IMG_3946-2-768x1024.jpeg",
+  "pathHistory": [
+    "Dories/Lowell 19ft Dory/IMG_3946-2-768x1024.jpeg",
+    "Dories/Lowell 19ft Dory/lowell-19ft-dory-006.jpeg",
+    "Sailboats/Dories/Lowell 19ft Dory/lowell-19ft-dory-006.jpeg"
+  ],
+  "status": "present",
+  "sizeBytes": 63123,
+  "modifiedAt": "2025-10-18T22:06:49.033Z",
+  "classId": "8f4f9f91-9eb0-4a79-983c-064b85b365ee",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

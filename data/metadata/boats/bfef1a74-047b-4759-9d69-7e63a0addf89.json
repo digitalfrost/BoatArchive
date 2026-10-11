@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "entityId": "bfef1a74-047b-4759-9d69-7e63a0addf89",
+  "kind": "boats",
+  "currentPath": "Sailboats/Yole de Gironde/Rubis",
+  "name": "Rubis",
+  "metadata": null,
+  "classId": "41a9efb0-5574-459d-b503-39ab29fb04f3",
+  "sailNumber": null,
+  "pathHistory": [
+    "Yole de Gironde/Rubis",
+    "Sailboats/Yole de Gironde/Rubis"
+  ],
+  "status": "present",
+  "assetIds": [
+    "1fc55084-1ffa-4562-83c6-837ae8a62b13"
+  ]
+}

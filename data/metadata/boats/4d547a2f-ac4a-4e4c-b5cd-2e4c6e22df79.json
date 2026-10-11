@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "entityId": "4d547a2f-ac4a-4e4c-b5cd-2e4c6e22df79",
+  "kind": "boats",
+  "currentPath": "Sailboats/Drascombes/Peterboats/Flying Fish",
+  "name": "Flying Fish",
+  "metadata": null,
+  "classId": "f4077dfe-14f9-4f3b-8dea-d0f492e5181c",
+  "sailNumber": null,
+  "pathHistory": [
+    "Drascombes/Peterboats/Flying Fish",
+    "Sailboats/Drascombes/Peterboats/Flying Fish"
+  ],
+  "status": "present",
+  "assetIds": [
+    "2a73616c-ec34-4764-af1e-f3b42ea228e7",
+    "4ca0fb76-ad99-41f4-8481-5c9b5e060645",
+    "55d23c2e-602f-4a90-8458-ed88043c6488",
+    "6d50187b-ffb6-4757-9a97-949f4a4ee07c",
+    "d1bf35f1-560b-43ad-8bed-bbcc24fb18af"
+  ]
+}

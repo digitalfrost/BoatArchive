@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "b39e7c7c-ce9b-426b-bbc2-62552dc43bc6",
+  "contentHash": "e6281f27fa8fdb263ff9883f4d2e07478c9c1c0b954fd9b6e6ea8ae4bc4a75d0",
+  "currentPath": "Sailboats/Drascombes/Peterboats/6m Peterboat/6m-peterboat-under-construction.jpg",
+  "originalFilename": "6m-peterboat-under-construction.jpg",
+  "pathHistory": [
+    "Drascombes/Peterboats/6m Peterboat/6m-peterboat-under-construction.jpg",
+    "Sailboats/Drascombes/Peterboats/6m Peterboat/6m-peterboat-under-construction.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 57366,
+  "modifiedAt": "2025-10-23T15:22:50.047Z",
+  "classId": "f4077dfe-14f9-4f3b-8dea-d0f492e5181c",
+  "boatId": "fa371c28-12ec-4116-9633-bbe017603d36",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

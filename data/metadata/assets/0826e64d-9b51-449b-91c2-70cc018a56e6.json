@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "0826e64d-9b51-449b-91c2-70cc018a56e6",
+  "contentHash": "a28cb6643df2fac7de9581e49d9835adbd2a4dc94b6fe6fc16cf3ea08821c534",
+  "currentPath": "Sailboats/Battelku/LA PECHE TRADITIONNELLE BASQUE VUE DU BATEAU.pdf",
+  "originalFilename": "LA PECHE TRADITIONNELLE BASQUE VUE DU BATEAU.pdf",
+  "pathHistory": [
+    "Battelku/LA PECHE TRADITIONNELLE BASQUE VUE DU BATEAU.pdf",
+    "Sailboats/Battelku/LA PECHE TRADITIONNELLE BASQUE VUE DU BATEAU.pdf"
+  ],
+  "status": "present",
+  "sizeBytes": 641138,
+  "modifiedAt": "2025-07-16T06:17:13.818Z",
+  "classId": "e375f9e2-2c16-4443-bc1c-1b98605c2153",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

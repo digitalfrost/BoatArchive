@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "f3fed2af-404a-4ab6-b284-2f0135f92c9d",
+  "contentHash": "c34ecb9618f0cb7c9fe18d36931253e03fb37dc56f08193dd507d26a4cdf21dd",
+  "currentPath": "Sailboats/Dories/Alpha Beachcomber/alphabeachcomber-sailing-001.jpg",
+  "originalFilename": "alphabeachcomberSailing.jpg",
+  "pathHistory": [
+    "Dories/Alpha Beachcomber/alphabeachcomberSailing.jpg",
+    "Dories/Alpha Beachcomber/alphabeachcomber-sailing-001.jpg",
+    "Sailboats/Dories/Alpha Beachcomber/alphabeachcomber-sailing-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 42588,
+  "modifiedAt": "2025-06-27T13:44:54.059Z",
+  "classId": "618b7240-1934-4007-a6f6-d4e60d90fe74",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "cca77abe-35cc-41be-a6cb-9601476ab688",
+  "contentHash": "94f6b685b5e457d809e101b5162dd6291d1e214f8cd24f71a62f1a22ce5d5ea7",
+  "currentPath": "Sailboats/Dornas/dorna-004.webp",
+  "originalFilename": "dorna-004.webp",
+  "pathHistory": [
+    "Dornas/dorna-004.webp",
+    "Sailboats/Dornas/dorna-004.webp"
+  ],
+  "status": "present",
+  "sizeBytes": 77968,
+  "modifiedAt": "2025-07-17T17:08:19.536Z",
+  "classId": "daae6a51-7a1f-4cd4-a9ab-6bcc5106f895",
+  "boatId": null,
+  "metadata": "{\"format\":\"webp\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

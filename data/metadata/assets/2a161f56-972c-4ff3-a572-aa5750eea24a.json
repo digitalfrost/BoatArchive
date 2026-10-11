@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "assetId": "2a161f56-972c-4ff3-a572-aa5750eea24a",
+  "contentHash": "605f8f14b9e2063ab89050240c674c4bdf043f69b0d2e1268b0ef850b0ebc64d",
+  "currentPath": "Powerboats/John Atkins 22' Ninigret/ninigret-010.jpg",
+  "originalFilename": "gav150aftstbd.jpg",
+  "pathHistory": [
+    "Power Boats/John Atkins 22' Ninigret/gav150aftstbd.jpg",
+    "Power Boats/John Atkins 22' Ninigret/gav150aftstbd-001.jpg",
+    "Power Boats/John Atkins 22' Ninigret/ninigret-010.jpg",
+    "Powerboats/John Atkins 22' Ninigret/ninigret-010.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 1475952,
+  "modifiedAt": "2025-06-13T04:42:32.300Z",
+  "classId": "66f5eea1-5f5d-4450-959c-fcfa11b9b136",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

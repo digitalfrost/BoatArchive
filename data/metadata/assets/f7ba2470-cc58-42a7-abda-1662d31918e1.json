@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "f7ba2470-cc58-42a7-abda-1662d31918e1",
+  "contentHash": "6a44e9d68846bce41f04c09a7bc82c5023cb1db79610b7f059a7aaa412754fd9",
+  "currentPath": "Sailboats/110/110-plans.pdf",
+  "originalFilename": "110-plans.pdf",
+  "pathHistory": [
+    "110/110-plans.pdf",
+    "Sailboats/110/110-plans.pdf"
+  ],
+  "status": "present",
+  "sizeBytes": 7122465,
+  "modifiedAt": "2025-07-04T17:00:51.517Z",
+  "classId": "5e6965d8-604c-4482-80bb-292827f07094",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "assetId": "0a6aeeaa-cb4b-48f6-afb7-eecdfe4b57a3",
+  "contentHash": "a97adb9d133a475a671988652c0a5309f3ca87d6260d75eb0b9228e34e9a8834",
+  "currentPath": "Sailboats/Patrick Balta Designs/Tangara/tangara-016.jpg",
+  "originalFilename": "Moldes_Topo-Proa_10_X.jpg",
+  "pathHistory": [
+    "Patrick Balta Designs/Tangara/Moldes_Topo-Proa_10_X.jpg",
+    "Patrick Balta Designs/Tangara/moldes-topo-proa-10-x-001.jpg",
+    "Patrick Balta Designs/Tangara/tangara-016.jpg",
+    "Sailboats/Patrick Balta Designs/Tangara/tangara-016.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 131985,
+  "modifiedAt": "2026-04-30T09:22:00.062Z",
+  "classId": "5b5ac7f4-df93-4665-a918-d088b6b127a0",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

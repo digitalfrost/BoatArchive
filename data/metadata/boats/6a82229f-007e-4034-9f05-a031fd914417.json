@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "entityId": "6a82229f-007e-4034-9f05-a031fd914417",
+  "kind": "boats",
+  "currentPath": "Sailboats/Barquette Marseillaise/Hebe",
+  "name": "Hebe",
+  "metadata": null,
+  "classId": "d83eae07-878e-491a-a808-011a770de00d",
+  "sailNumber": null,
+  "pathHistory": [
+    "Barquette Marseillaise/Hebe",
+    "Sailboats/Barquette Marseillaise/Hebe"
+  ],
+  "status": "present",
+  "assetIds": [
+    "b88d3193-8643-49a9-bd06-198e84f1be84",
+    "f9465256-e556-4347-9714-f64f3b3ca5e9"
+  ]
+}

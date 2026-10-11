@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "05bfdedd-c8b1-4cbc-b513-e1f1b068246c",
+  "contentHash": "f5162e6ee2b687b68f08f9ce90081291a0e35fccdf508cf4985469e7106ddf49",
+  "currentPath": "Sailboats/Sharpies/Egrets/egret-001.jpg",
+  "originalFilename": "egret-003 (1).jpg",
+  "pathHistory": [
+    "Sharpies/Egrets/egret-003 (1).jpg",
+    "Sharpies/Egrets/egret-001.jpg",
+    "Sailboats/Sharpies/Egrets/egret-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 714241,
+  "modifiedAt": "2025-06-21T17:11:22.586Z",
+  "classId": null,
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "unclassified",
+  "associationOverride": false
+}

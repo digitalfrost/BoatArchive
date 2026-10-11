@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "570dfd7e-1b67-4b6e-b395-39fcc1c03cee",
+  "contentHash": "422b758957584cb26e7da1b9aef9741e35b5d96bd111e695b9de48a637b8f5aa",
+  "currentPath": "Sailboats/Sharpies/Sandy Sharpie/SandySharpie.pdf",
+  "originalFilename": "SandySharpie.pdf",
+  "pathHistory": [
+    "Sharpies/Sandy Sharpie/SandySharpie.pdf",
+    "Sailboats/Sharpies/Sandy Sharpie/SandySharpie.pdf"
+  ],
+  "status": "present",
+  "sizeBytes": 1233595,
+  "modifiedAt": "2026-04-11T23:33:08.065Z",
+  "classId": "c3dbbb23-53de-44c0-b61c-285801734d71",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

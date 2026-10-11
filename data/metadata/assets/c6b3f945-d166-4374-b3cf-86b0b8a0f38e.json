@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "c6b3f945-d166-4374-b3cf-86b0b8a0f38e",
+  "contentHash": "3181da2f847fdfd10ff9f4a3105e3a3ff6eeb8e29dbd6e3f6fa1dcb321ab923b",
+  "currentPath": "Sailboats/Yole de Gironde/cabriole-001.avif",
+  "originalFilename": "cabriole-001.avif",
+  "pathHistory": [
+    "Yole de Gironde/cabriole-001.avif",
+    "Sailboats/Yole de Gironde/cabriole-001.avif"
+  ],
+  "status": "present",
+  "sizeBytes": 53756,
+  "modifiedAt": "2026-10-09T22:20:08.819Z",
+  "classId": "41a9efb0-5574-459d-b503-39ab29fb04f3",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

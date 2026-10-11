@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "d1db0e67-9374-40f8-b81a-1db2b961d6b0",
+  "contentHash": "201193106377331046100039bb7ba670dd6ce922c2012d594554cf12c2f30b93",
+  "currentPath": "Sailboats/Spira Designs/Capybara/CapybaraStudy.pdf",
+  "originalFilename": "CapybaraStudy.pdf",
+  "pathHistory": [
+    "Spira Designs/Capybara/CapybaraStudy.pdf",
+    "Sailboats/Spira Designs/Capybara/CapybaraStudy.pdf"
+  ],
+  "status": "present",
+  "sizeBytes": 863187,
+  "modifiedAt": "2024-06-01T14:41:03.202Z",
+  "classId": "23e9d2a7-f9b8-42c2-b216-3e642054e596",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "33004310-4902-470f-b947-026f37ee8444",
+  "contentHash": "7a98ae051a37f32b30c203881dc62d3f26291a589b3bde5d3e53be8f982dfedc",
+  "currentPath": "Sailboats/KBane 710/Lou Galip/A vendre K Bane 710.txt",
+  "originalFilename": "A vendre K Bane 710.txt",
+  "pathHistory": [
+    "KBane 710/Lou Galip/A vendre K Bane 710.txt",
+    "Sailboats/KBane 710/Lou Galip/A vendre K Bane 710.txt"
+  ],
+  "status": "present",
+  "sizeBytes": 1842,
+  "modifiedAt": "2025-11-26T10:39:13.540Z",
+  "classId": "0dba06a2-72e4-47b5-ad4a-8a6d43a7a7e9",
+  "boatId": "ebda3268-43f8-424d-9273-cc29eda7d697",
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "6e8b6aee-5fe9-48e0-a527-643141e28ca7",
+  "contentHash": "a47f8957d1fa1afceb27d6a2ac1c2c8df3cf3690944a7e763ad7562dc7799797",
+  "currentPath": "Sailboats/Pinasses/Pinasse Legeotte/pinasse-legeote-001.jpg",
+  "originalFilename": "pinasse_legeote.jpg",
+  "pathHistory": [
+    "Pinasses/Pinasse Legeotte/pinasse_legeote.jpg",
+    "Pinasses/Pinasse Legeotte/pinasse-legeote-001.jpg",
+    "Sailboats/Pinasses/Pinasse Legeotte/pinasse-legeote-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 64405,
+  "modifiedAt": "2026-04-29T15:16:21.847Z",
+  "classId": null,
+  "boatId": "54b6c2b2-c887-4870-9ec2-5c22181da8ab",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

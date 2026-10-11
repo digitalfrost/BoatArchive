@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "entityId": "ab56b77d-125a-4ad0-8378-83dfdad07536",
+  "kind": "classes",
+  "currentPath": "Sailboats/Dories/21’ Fishmaker Dory",
+  "name": "21’ Fishmaker Dory",
+  "metadata": null,
+  "slug": "21-fishmaker-dory-08ae45219b6a",
+  "pathHistory": [
+    "Dories/21’ Fishmaker Dory",
+    "Sailboats/Dories/21’ Fishmaker Dory"
+  ],
+  "status": "present",
+  "assetIds": [
+    "1958470f-e46b-49db-a1d3-cfc3fd563323",
+    "1b8f1029-d799-4eed-8b35-3375e4de83b8",
+    "2a01051a-20c9-41e3-acd0-3b203e1a3f56",
+    "32286226-4386-4937-a8ff-63cd335e5c66",
+    "5ea42158-1fcc-43aa-ab06-980314c90b6d",
+    "698c1360-5287-41d1-b714-150266d4e024",
+    "7da80bdf-5352-4976-a8d8-790a028e8556",
+    "81e104c6-92e8-42e4-87be-6b538da57df6",
+    "920fe2b7-d65e-4bac-adbd-c94e99f7d0b4",
+    "99e4370e-7d71-4103-bfe6-ddfeef990cba",
+    "a2ae2373-af28-4ecb-a63f-0d49f2819d5b",
+    "a903a9f5-b129-461d-bea0-5343f43e1125",
+    "ae7095d7-9770-46bb-bc8e-3bd7abeb50f8",
+    "d2af0f2f-aa09-4956-9a4f-a33d1d316a93",
+    "edc5cc67-214c-419c-8bbf-9913f17c9711",
+    "f4e1f4c9-2739-4304-8c2e-4108159c89bd"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "9992ac0d-853c-4048-887e-1f8bdf749088",
+  "contentHash": "1f3b2fad953fb73d4a5a695927411ddd5296dfaa80bde58108fb3600a23a6341",
+  "currentPath": "Powerboats/Redwing 18/redwing-18-014.jpg",
+  "originalFilename": "sb-design-redwing-cover-289x400.jpg",
+  "pathHistory": [
+    "Power Boats/Redwing 18/sb-design-redwing-cover-289x400.jpg",
+    "Power Boats/Redwing 18/redwing-18-014.jpg",
+    "Powerboats/Redwing 18/redwing-18-014.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 27102,
+  "modifiedAt": "2025-06-13T13:52:29.154Z",
+  "classId": "c80f09fa-9705-4a42-a8ce-4e3bc6eba62f",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

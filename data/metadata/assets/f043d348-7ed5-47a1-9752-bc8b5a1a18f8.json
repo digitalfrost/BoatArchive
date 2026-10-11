@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "f043d348-7ed5-47a1-9752-bc8b5a1a18f8",
+  "contentHash": "f88818ac092acdf83d3d595ba7e52f0940efe98ab94ab49d46345889e219c332",
+  "currentPath": "Sailboats/Battelku/Ethno_Fance_2011_545_b_Fiches.pdf",
+  "originalFilename": "Ethno_Fance_2011_545_b_Fiches.pdf",
+  "pathHistory": [
+    "Battelku/Ethno_Fance_2011_545_b_Fiches.pdf",
+    "Sailboats/Battelku/Ethno_Fance_2011_545_b_Fiches.pdf"
+  ],
+  "status": "present",
+  "sizeBytes": 3702402,
+  "modifiedAt": "2025-07-16T09:09:52.359Z",
+  "classId": "e375f9e2-2c16-4443-bc1c-1b98605c2153",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

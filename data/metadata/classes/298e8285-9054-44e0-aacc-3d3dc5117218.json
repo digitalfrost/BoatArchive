@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "entityId": "298e8285-9054-44e0-aacc-3d3dc5117218",
+  "kind": "classes",
+  "currentPath": "Sailboats/Dories/Thomson Swampscott Dory",
+  "name": "Thomson Swampscott Dory",
+  "metadata": null,
+  "slug": "thomson-swampscott-dory-7a72760468c3",
+  "pathHistory": [
+    "Dories/Thomson Swampscott Dory",
+    "Sailboats/Dories/Thomson Swampscott Dory"
+  ],
+  "status": "present",
+  "assetIds": [
+    "063c156f-414c-49fe-a771-1160343778d8",
+    "53510313-69f3-4217-b461-24e177c9f968",
+    "6c6b74c7-2792-43e2-9699-d4dfc15d1377",
+    "6cfe23b5-411e-4eaf-ba98-d4a961b4901a",
+    "750e5365-bd9b-4e49-b7d2-4f8875944469",
+    "84100703-04f6-4af6-8763-187eca7cff75",
+    "91700bb3-7c62-4583-8b27-8628d9984dc4",
+    "a6772515-20fd-423f-86dc-4fecf25860eb",
+    "ea28758a-9179-481e-b35a-85297b57b5bd"
+  ]
+}

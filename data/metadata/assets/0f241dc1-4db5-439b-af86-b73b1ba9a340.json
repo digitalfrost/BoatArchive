@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "0f241dc1-4db5-439b-af86-b73b1ba9a340",
+  "contentHash": "db92b83bfab2406221e8061b34cccd9b6578b635249a001a6e94b6e5a1833aa5",
+  "currentPath": "Sailboats/Sharpies/Chesapeake Bay Crabbing Skiff/2003 Chesapeake Bay Crabbing Skiff/chesapeake-bay-crabbing-skiff-004.jpg",
+  "originalFilename": "picchesapeake14102d.jpg",
+  "pathHistory": [
+    "Sharpies/Chesapeake Bay Crabbing Skiff/2003 Chesapeake Bay Crabbing Skiff/picchesapeake14102d.jpg",
+    "Sharpies/Chesapeake Bay Crabbing Skiff/2003 Chesapeake Bay Crabbing Skiff/chesapeake-bay-crabbing-skiff-004.jpg",
+    "Sailboats/Sharpies/Chesapeake Bay Crabbing Skiff/2003 Chesapeake Bay Crabbing Skiff/chesapeake-bay-crabbing-skiff-004.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 94287,
+  "modifiedAt": "2025-07-16T10:21:23.693Z",
+  "classId": "a20ca267-7174-443a-a146-45010499bb51",
+  "boatId": "c487b45c-caf0-45ce-9868-9d06450eb70b",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

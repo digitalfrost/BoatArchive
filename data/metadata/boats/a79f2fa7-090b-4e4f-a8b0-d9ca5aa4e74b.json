@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "entityId": "a79f2fa7-090b-4e4f-a8b0-d9ca5aa4e74b",
+  "kind": "boats",
+  "currentPath": "Sailboats/Sharpies/Egrets/Haiku Egret/Luelly",
+  "name": "Luelly",
+  "metadata": null,
+  "classId": "c32233f8-a01a-49e2-9e5f-ef7c3e77d5cf",
+  "sailNumber": null,
+  "pathHistory": [
+    "Sailboats/Sharpies/Egrets/Haiku Egret/Luelly"
+  ],
+  "status": "present",
+  "assetIds": [
+    "094c3a60-3728-49d8-b595-e22ef7a5c01d",
+    "fccfb9c7-2df6-4c53-a862-0e5d9fb99972"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "entityId": "48e0ed75-7960-4c33-ae94-f6f830468cce",
+  "kind": "classes",
+  "currentPath": "Sailboats/Dories/Saint Pierre Dory",
+  "name": "Saint Pierre Dory",
+  "metadata": null,
+  "slug": "saint-pierre-dory-4f31a2537763",
+  "pathHistory": [
+    "Dories/Saint Pierre Dory",
+    "Sailboats/Dories/Saint Pierre Dory"
+  ],
+  "status": "present",
+  "assetIds": [
+    "18dc26ac-fe70-4945-bb81-8bb385ff6d1c",
+    "93fd3473-926e-4fc4-97cf-2011059d5fff"
+  ]
+}

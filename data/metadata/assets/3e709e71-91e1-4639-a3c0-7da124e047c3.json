@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "assetId": "3e709e71-91e1-4639-a3c0-7da124e047c3",
+  "contentHash": "5ad008a94d637cd087c1298ea603d5bc62fe8667ca213d7a68638e78bff566e8",
+  "currentPath": "Powerboats/John Atkins 22' Ninigret/ninigret-028.webp",
+  "originalFilename": "2020-09-29-14.18.31.webp",
+  "pathHistory": [
+    "Power Boats/John Atkins 22' Ninigret/2020-09-29-14.18.31.webp",
+    "Power Boats/John Atkins 22' Ninigret/john-atkins-22-ninigret-2020-09-29-001.webp",
+    "Power Boats/John Atkins 22' Ninigret/ninigret-028.webp",
+    "Powerboats/John Atkins 22' Ninigret/ninigret-028.webp"
+  ],
+  "status": "present",
+  "sizeBytes": 105944,
+  "modifiedAt": "2025-06-13T05:12:02.641Z",
+  "classId": "66f5eea1-5f5d-4450-959c-fcfa11b9b136",
+  "boatId": null,
+  "metadata": "{\"format\":\"webp\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

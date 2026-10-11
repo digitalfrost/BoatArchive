@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "a0586be5-f9db-43a2-9315-d4e88de85f90",
+  "contentHash": "bff2dd3c6efd158839adb666e06209835c1d9d15d49fd08f496818bb149e7df9",
+  "currentPath": "Sailboats/Yole de Gironde/yoles-001.avif",
+  "originalFilename": "yoles-001.avif",
+  "pathHistory": [
+    "Yole de Gironde/yoles-001.avif",
+    "Sailboats/Yole de Gironde/yoles-001.avif"
+  ],
+  "status": "present",
+  "sizeBytes": 66023,
+  "modifiedAt": "2026-10-09T21:50:50.512Z",
+  "classId": "41a9efb0-5574-459d-b503-39ab29fb04f3",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

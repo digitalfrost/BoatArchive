@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "ecc538a9-14ca-43ec-b1bb-7600c9b2cd85",
+  "contentHash": "bbca7ebd87cae1a160d29c011b1216873ace50cce504f35ab828b7ce3a306da9",
+  "currentPath": "Sailboats/Drascombes/Peterboats/Plover/plover-002.jpeg",
+  "originalFilename": "plover-002.jpeg",
+  "pathHistory": [
+    "Drascombes/Peterboats/Plover/plover-002.jpeg",
+    "Sailboats/Drascombes/Peterboats/Plover/plover-002.jpeg"
+  ],
+  "status": "present",
+  "sizeBytes": 350274,
+  "modifiedAt": "2025-10-23T17:52:48.292Z",
+  "classId": "f4077dfe-14f9-4f3b-8dea-d0f492e5181c",
+  "boatId": "f7c08170-9f2e-4564-966c-e0c7d0bfbe3a",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

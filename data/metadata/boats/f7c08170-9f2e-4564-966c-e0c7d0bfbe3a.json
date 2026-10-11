@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "entityId": "f7c08170-9f2e-4564-966c-e0c7d0bfbe3a",
+  "kind": "boats",
+  "currentPath": "Sailboats/Drascombes/Peterboats/Plover",
+  "name": "Plover",
+  "metadata": null,
+  "classId": "f4077dfe-14f9-4f3b-8dea-d0f492e5181c",
+  "sailNumber": null,
+  "pathHistory": [
+    "Drascombes/Peterboats/Plover",
+    "Sailboats/Drascombes/Peterboats/Plover"
+  ],
+  "status": "present",
+  "assetIds": [
+    "b40207cb-6f02-44da-a9bb-3fb436b3c366",
+    "d14fb7cb-7519-4f52-bf95-e7974d57baee",
+    "d367b5c4-eaf0-4c4c-b3bf-c6862b93fa5c",
+    "ecc538a9-14ca-43ec-b1bb-7600c9b2cd85"
+  ]
+}

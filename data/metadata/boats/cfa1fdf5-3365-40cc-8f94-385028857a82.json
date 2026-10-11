@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "entityId": "cfa1fdf5-3365-40cc-8f94-385028857a82",
+  "kind": "boats",
+  "currentPath": "Sailboats/Peter Culler Otter/Sleulane",
+  "name": "Sleulane",
+  "metadata": null,
+  "classId": "2387e926-6032-46b8-a06f-ec36d147bbe8",
+  "sailNumber": null,
+  "pathHistory": [
+    "Peter Culler Otter/Sleulane",
+    "Sailboats/Peter Culler Otter/Sleulane"
+  ],
+  "status": "present",
+  "assetIds": [
+    "af8798a3-9e71-4055-9926-5c3999d2e251"
+  ]
+}

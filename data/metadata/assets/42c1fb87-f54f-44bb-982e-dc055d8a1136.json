@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "42c1fb87-f54f-44bb-982e-dc055d8a1136",
+  "contentHash": "a2df388b2b47ef469a40c6ab593c62c2d2a48a7d0cd430bc5ef4655c220628be",
+  "currentPath": "Sailboats/Drascombes/Peterboats/Celtic Witch/celtic-witch-014.webp",
+  "originalFilename": "celtic-witch-014.webp",
+  "pathHistory": [
+    "Drascombes/Peterboats/Celtic Witch/celtic-witch-014.webp",
+    "Sailboats/Drascombes/Peterboats/Celtic Witch/celtic-witch-014.webp"
+  ],
+  "status": "present",
+  "sizeBytes": 61058,
+  "modifiedAt": "2025-10-22T07:08:45.880Z",
+  "classId": "f4077dfe-14f9-4f3b-8dea-d0f492e5181c",
+  "boatId": "3605f21b-4a9e-44b3-b46b-1fa0252e857d",
+  "metadata": "{\"format\":\"webp\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

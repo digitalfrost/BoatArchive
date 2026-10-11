@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "533c2aff-6a9e-4957-98a0-2421c096e622",
+  "contentHash": "38d8a2495e97a10727478015abfd33edde5a39566b405c5069f94889da580b6d",
+  "currentPath": "Sailboats/Dornas/dornas-racing-002.jpg",
+  "originalFilename": "dornas-racing-002.jpg",
+  "pathHistory": [
+    "Dornas/dornas-racing-002.jpg",
+    "Sailboats/Dornas/dornas-racing-002.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 61858,
+  "modifiedAt": "2025-07-17T17:13:49.438Z",
+  "classId": "daae6a51-7a1f-4cd4-a9ab-6bcc5106f895",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

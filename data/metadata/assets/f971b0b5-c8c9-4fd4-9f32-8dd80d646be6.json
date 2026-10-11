@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "f971b0b5-c8c9-4fd4-9f32-8dd80d646be6",
+  "contentHash": "5e63faab3d281f22400571833ef6411cc8b7fb641ee8320d09ca25193a15e7f2",
+  "currentPath": "Sailboats/Lili 610/Lili 610.txt",
+  "originalFilename": "Lili 610.txt",
+  "pathHistory": [
+    "Lili 610/Lili 610.txt",
+    "Sailboats/Lili 610/Lili 610.txt"
+  ],
+  "status": "present",
+  "sizeBytes": 906,
+  "modifiedAt": "2026-07-10T16:01:23.317Z",
+  "classId": "39123acd-2894-4959-8c91-712c9559a942",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

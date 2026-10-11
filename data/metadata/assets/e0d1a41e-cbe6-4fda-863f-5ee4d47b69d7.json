@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "e0d1a41e-cbe6-4fda-863f-5ee4d47b69d7",
+  "contentHash": "5caabf9562872cf25ae4e0466d09d9051e7100ee69b973c9398f6676d975d4ae",
+  "currentPath": "Sailboats/Block Island Cow Horn/block-island-cow-horn-001.jpg",
+  "originalFilename": "block-island-cow-horn-001.jpg",
+  "pathHistory": [
+    "Block Island Cow Horn/block-island-cow-horn-001.jpg",
+    "Sailboats/Block Island Cow Horn/block-island-cow-horn-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 56690,
+  "modifiedAt": "2025-06-27T13:33:34.758Z",
+  "classId": "249706e2-9898-48bc-8476-a3bfc1c7bcad",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

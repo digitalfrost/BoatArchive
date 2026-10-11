@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "entityId": "d4080b28-a68f-407c-a2d6-21ce9e4b3785",
+  "kind": "boats",
+  "currentPath": "Sailboats/Sharpies/Miles River cabin skiff",
+  "name": "Miles River cabin skiff",
+  "metadata": null,
+  "classId": "fef4abd1-397d-468e-9a56-f53797182d36",
+  "sailNumber": null,
+  "pathHistory": [
+    "Sharpies/Miles River cabin skiff",
+    "Sailboats/Sharpies/Miles River cabin skiff"
+  ],
+  "status": "missing",
+  "assetIds": []
+}

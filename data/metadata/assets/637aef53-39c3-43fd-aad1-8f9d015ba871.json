@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "637aef53-39c3-43fd-aad1-8f9d015ba871",
+  "contentHash": "9297715b3d99a59af33444b107d4f955ffcc7e594ca2e0f8ffb0b8dd14e66186",
+  "currentPath": "Sailboats/KBane 710/A vendre K Bane 710.txt",
+  "originalFilename": "A vendre K Bane 710.txt",
+  "pathHistory": [
+    "KBane 710/A vendre K Bane 710.txt",
+    "Sailboats/KBane 710/A vendre K Bane 710.txt"
+  ],
+  "status": "present",
+  "sizeBytes": 2061,
+  "modifiedAt": "2026-05-17T16:45:11.131Z",
+  "classId": "0dba06a2-72e4-47b5-ad4a-8a6d43a7a7e9",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

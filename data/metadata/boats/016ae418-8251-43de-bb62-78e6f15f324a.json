@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "entityId": "016ae418-8251-43de-bb62-78e6f15f324a",
+  "kind": "boats",
+  "currentPath": "Sailboats/Dories/Crawford Dory/Unidentified Dory 2",
+  "name": "Unidentified Dory 2",
+  "metadata": null,
+  "classId": "7d393214-4e0a-4760-a5f8-94781d582ae0",
+  "sailNumber": null,
+  "pathHistory": [
+    "Dories/Crawford Dory/Unidentified Dory 2",
+    "Sailboats/Dories/Crawford Dory/Unidentified Dory 2"
+  ],
+  "status": "present",
+  "assetIds": [
+    "10148834-f3cc-4ff4-a390-30c8f0884f9e",
+    "1289f703-33a5-4c08-89cf-4f31bd9fb4b6",
+    "2a2fc764-12b6-44a4-bddd-c6da0a04effe",
+    "8252c142-3c2e-4638-a18b-79652e2699d7",
+    "84f64a73-2fd4-40b8-b085-cc60fdfcb13d",
+    "880ec587-b39a-4b7f-96a9-84cd9008e0a9",
+    "95ea7a38-443d-483a-9b01-1552a689bd5b",
+    "a5ac7f51-342e-4ec7-899d-64b5c58688d0",
+    "b6fc7cd2-f85a-4a46-b54d-f611b43edd35",
+    "d56b272c-7d92-4221-a820-7642cea70c4a",
+    "df02aa53-0c5f-4c0e-b330-6da45cb01858",
+    "e5f0de50-ba50-4a9a-ad78-4d71b915a26e"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "511740cb-efe5-4e4b-a3a0-cc06d5a25c66",
+  "contentHash": "2de9e8acb6a6120235c18f473af26be5c63bcc12d68fcacea22a500b5b6de740",
+  "currentPath": "Sailboats/Block Island Cow Horn/Curlew/curlew-sail-plan-001.png",
+  "originalFilename": "curlew_sail_plan.png",
+  "pathHistory": [
+    "Block Island Cow Horn/Curlew/curlew_sail_plan.png",
+    "Block Island Cow Horn/Curlew/curlew-sail-plan-001.png",
+    "Sailboats/Block Island Cow Horn/Curlew/curlew-sail-plan-001.png"
+  ],
+  "status": "present",
+  "sizeBytes": 273648,
+  "modifiedAt": "2025-06-27T13:34:37.399Z",
+  "classId": "249706e2-9898-48bc-8476-a3bfc1c7bcad",
+  "boatId": "060b6818-2a1a-4210-abac-a9ff9df380a6",
+  "metadata": "{\"format\":\"png\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

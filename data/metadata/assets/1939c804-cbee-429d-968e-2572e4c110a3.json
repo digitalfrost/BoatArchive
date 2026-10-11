@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "1939c804-cbee-429d-968e-2572e4c110a3",
+  "contentHash": "a53493e6e6ccc927ce1a961ea471e4fbb9ae1eecc4c1a78c08a62bd6583e12e4",
+  "currentPath": "Sailboats/Pointer 22/pointer22-sailplan.jpg",
+  "originalFilename": "pointer22-sailplan.jpg",
+  "pathHistory": [
+    "Pointer 22/pointer22-sailplan.jpg",
+    "Sailboats/Pointer 22/pointer22-sailplan.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 277695,
+  "modifiedAt": "2026-10-07T09:14:41.822Z",
+  "classId": "90e083f0-b692-4adf-ab29-eaf833e8e85e",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

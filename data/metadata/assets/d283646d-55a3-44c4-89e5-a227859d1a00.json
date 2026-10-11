@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "assetId": "d283646d-55a3-44c4-89e5-a227859d1a00",
+  "contentHash": "10a683a1937d81543c96dadb5c9d57825e7f94e4b215c855129adf8b4f6c5a16",
+  "currentPath": "Sailboats/Sharpies/Sharp End 900/sharpend900-010.jpg",
+  "originalFilename": "sharpie_11.jpg",
+  "pathHistory": [
+    "Sharpies/Sharp End 900/sharpie_11.jpg",
+    "Sharpies/Sharp End 900/sharpie-010.jpg",
+    "Sharpies/Sharp End 900/sharpend900-010.jpg",
+    "Sailboats/Sharpies/Sharp End 900/sharpend900-010.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 57137,
+  "modifiedAt": "2025-07-10T20:37:45.026Z",
+  "classId": "fef4abd1-397d-468e-9a56-f53797182d36",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

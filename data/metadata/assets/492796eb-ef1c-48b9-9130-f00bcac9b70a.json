@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "assetId": "492796eb-ef1c-48b9-9130-f00bcac9b70a",
+  "contentHash": "519e1ac95d57bbba8243e73420c5f800742733d526e9aaa92072f32c56ecba99",
+  "currentPath": "Powerboats/John Atkins 22' Ninigret/ninigret-015.jpg",
+  "originalFilename": "Jack_budak.jpg",
+  "pathHistory": [
+    "Power Boats/John Atkins 22' Ninigret/Jack_budak.jpg",
+    "Power Boats/John Atkins 22' Ninigret/jack-budak-001.jpg",
+    "Power Boats/John Atkins 22' Ninigret/ninigret-015.jpg",
+    "Powerboats/John Atkins 22' Ninigret/ninigret-015.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 88775,
+  "modifiedAt": "2025-06-13T04:48:54.947Z",
+  "classId": "66f5eea1-5f5d-4450-959c-fcfa11b9b136",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

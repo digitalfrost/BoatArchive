@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "1327e9d3-e65f-49c8-b711-c9a895c96ccb",
+  "contentHash": "8c819937ae331105edebd455b483f844b807e6db888c72d0274b4c2ec7eda3bc",
+  "currentPath": "Sailboats/Atkins Shore Liner/atkins-shore-liner-003.jpg",
+  "originalFilename": "489841247_10125067612465523_4635890827024459633_n.jpg",
+  "pathHistory": [
+    "Atkins Shore Liner/489841247_10125067612465523_4635890827024459633_n.jpg",
+    "Atkins Shore Liner/atkins-shore-liner-003.jpg",
+    "Sailboats/Atkins Shore Liner/atkins-shore-liner-003.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 93144,
+  "modifiedAt": "2025-07-14T12:05:04.609Z",
+  "classId": "5b680c64-19f2-40de-9b47-4bccc5acaa6b",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

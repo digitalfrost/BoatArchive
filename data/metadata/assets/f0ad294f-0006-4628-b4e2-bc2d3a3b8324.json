@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "f0ad294f-0006-4628-b4e2-bc2d3a3b8324",
+  "contentHash": "35d045a69c48368f086b607c91b42d7d06b6df9c2ec05534bcfdc1a0b205f1f2",
+  "currentPath": "Sailboats/Patrick Balta Designs/peniche_catamaran/Balta Patrick, Architecte naval, Motor yacht, catamaran_files/peniche001.jpg",
+  "originalFilename": "peniche001.jpg",
+  "pathHistory": [
+    "Patrick Balta Designs/peniche_catamaran/Balta Patrick, Architecte naval, Motor yacht, catamaran_files/peniche001.jpg",
+    "Sailboats/Patrick Balta Designs/peniche_catamaran/Balta Patrick, Architecte naval, Motor yacht, catamaran_files/peniche001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 53883,
+  "modifiedAt": "2026-04-30T10:04:41.263Z",
+  "classId": "2e3a86e4-be80-4772-adfd-0f5d048ed0fc",
+  "boatId": "1ff71c9a-f939-43b1-b7fd-bcb8c3345c43",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

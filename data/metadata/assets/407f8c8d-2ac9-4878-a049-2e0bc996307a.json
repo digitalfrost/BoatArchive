@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "407f8c8d-2ac9-4878-a049-2e0bc996307a",
+  "contentHash": "1b7ae11ff4249a0c9e9f086c622d243235a73d610683eb27350bd87aca684fba",
+  "currentPath": "Sailboats/Bettes Marseillaises/Bette Brutus/la-bette-brutus-001.jpg",
+  "originalFilename": "La_bette__Brutus_.jpg",
+  "pathHistory": [
+    "Bettes Marseillaises/Bette Brutus/La_bette__Brutus_.jpg",
+    "Bettes Marseillaises/Bette Brutus/la-bette-brutus-001.jpg",
+    "Sailboats/Bettes Marseillaises/Bette Brutus/la-bette-brutus-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 4945986,
+  "modifiedAt": "2026-04-24T23:30:42.466Z",
+  "classId": null,
+  "boatId": "a0e7479d-061f-4792-bb41-6d89186ae766",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

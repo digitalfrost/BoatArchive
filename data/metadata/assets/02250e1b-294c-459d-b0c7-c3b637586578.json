@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "02250e1b-294c-459d-b0c7-c3b637586578",
+  "contentHash": "55ee815563e7ca8f087a46c7d0b3d084b54300631ef0ad37b588782db5275308",
+  "currentPath": "Sailboats/Dories/Swampscott Dory/Unknown Dory/in-the-workshop-in-cambieure-001.jpg",
+  "originalFilename": "In-the-workshop-in-Cambieure.jpg",
+  "pathHistory": [
+    "Dories/Swampscott Dory/Unknown Dory/In-the-workshop-in-Cambieure.jpg",
+    "Dories/Swampscott Dory/Unknown Dory/in-the-workshop-in-cambieure-001.jpg",
+    "Sailboats/Dories/Swampscott Dory/Unknown Dory/in-the-workshop-in-cambieure-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 245787,
+  "modifiedAt": "2025-06-17T15:14:56.286Z",
+  "classId": "2a9b121e-79ee-492a-9087-2c4f0d6eee1e",
+  "boatId": "5b7bda2d-e314-4c49-80dd-27064bb75608",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "7b18fe56-163d-46dd-a365-b875d8099ea4",
+  "contentHash": "a633b8ba6a79a38eb49018727f722098be0e790c818a8faeee6b8bcc762bcfbb",
+  "currentPath": "Sailboats/Baglietto 18/Annik/annik-011.jpg",
+  "originalFilename": "annik-011.jpg",
+  "pathHistory": [
+    "Baglietto 18/Annik/annik-011.jpg",
+    "Sailboats/Baglietto 18/Annik/annik-011.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 72242,
+  "modifiedAt": "2026-10-10T09:25:10.820Z",
+  "classId": "c3a05d00-45f6-4676-9134-b184e1218fa2",
+  "boatId": "e84c4467-cd68-4652-82ef-cff75a469690",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

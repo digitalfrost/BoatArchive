@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "entityId": "24ef5e0e-5616-4d1e-89c1-4ae7d3a45249",
+  "kind": "boats",
+  "currentPath": "Sailboats/Sharpies/Milford 20",
+  "name": "Milford 20",
+  "metadata": null,
+  "classId": "fef4abd1-397d-468e-9a56-f53797182d36",
+  "sailNumber": null,
+  "pathHistory": [
+    "Sharpies/Milford 20",
+    "Sailboats/Sharpies/Milford 20"
+  ],
+  "status": "missing",
+  "assetIds": []
+}

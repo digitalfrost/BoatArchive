@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "b7bea910-f32a-4ce1-9438-88912887646c",
+  "contentHash": "0488bc03c4d011cccdba9936012eadfa35c6b9175298b06583130053c788235e",
+  "currentPath": "Sailboats/KBane 710/Lou Galip/KBane710.txt",
+  "originalFilename": "KBane710.txt",
+  "pathHistory": [
+    "KBane 710/Lou Galip/KBane710.txt",
+    "Sailboats/KBane 710/Lou Galip/KBane710.txt"
+  ],
+  "status": "present",
+  "sizeBytes": 442,
+  "modifiedAt": "2025-11-26T10:50:15.325Z",
+  "classId": "0dba06a2-72e4-47b5-ad4a-8a6d43a7a7e9",
+  "boatId": "ebda3268-43f8-424d-9273-cc29eda7d697",
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

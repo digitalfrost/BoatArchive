@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "entityId": "53184eaa-d614-48b7-942e-612e851d0d30",
+  "kind": "boats",
+  "currentPath": "Sailboats/Half Tonners/Head Hunter",
+  "name": "Head Hunter",
+  "metadata": null,
+  "classId": null,
+  "sailNumber": null,
+  "pathHistory": [
+    "Half Tonners/Head Hunter",
+    "Sailboats/Half Tonners/Head Hunter"
+  ],
+  "status": "present",
+  "assetIds": [
+    "036d812c-5037-46fe-a082-afd30b488e9a",
+    "044073d7-d5f5-4376-9f99-0f899075790e",
+    "045b620b-5528-4ae0-a8fd-e1f79fdb838e",
+    "0a23f96e-b52f-4761-9c7b-dd2c4877b394",
+    "30b1d9c4-8681-42e4-8b13-a2b3620d0127",
+    "3f541ac4-fe64-4d26-8f03-090f1add240a",
+    "41453a11-871c-4210-bf11-0a069e5f210d",
+    "48de388e-694e-43d0-91b4-a23aa853a97c",
+    "732e0713-22df-466d-b273-d2d0a1adf4c4",
+    "77cc5d38-e50d-40aa-9036-a0678fd09a31",
+    "a59d0178-33ed-43de-9f30-bd7d11383f56",
+    "abce12c6-bf76-4c0c-96d0-857d89e0918d",
+    "b07cecf3-9eb5-4402-aad1-c591d21594c2",
+    "b349b39f-1528-4192-a0ed-7f9e8102bd1a",
+    "bd98cad6-cb6c-4472-9084-9c7b8f24a4d9",
+    "bdc168ba-4615-4abb-9c2b-8797096724f4",
+    "ca28d839-2f5c-4776-b590-07da6fb9eba2",
+    "cf97ed8e-6d82-46f1-917b-aa8060d90a08",
+    "d0941fa4-89bb-4039-8830-b714d00a6af6",
+    "d0d8cb63-6550-4502-aef2-65d0304f28ca",
+    "d38608df-cf14-4035-9d79-97e775c29635",
+    "d51c195b-7eed-4975-840d-51146a1b6ce3",
+    "d9b18fce-a2b9-42b8-a008-6479f40bd151",
+    "ddbdfbd3-f832-4772-a579-aa4dab9b4c48"
+  ]
+}

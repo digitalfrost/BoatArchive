@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "3e8150dc-5d09-47d6-92ab-d51d986df9c2",
+  "contentHash": "e3ce793d156b2e2553aea31356847d83fdfbe0a66e6282491a04436a1e62dc08",
+  "currentPath": "Sailboats/Dories/Swampscott Dory/Unknown Dory/inside-view-001.jpg",
+  "originalFilename": "inside-view.jpg",
+  "pathHistory": [
+    "Dories/Swampscott Dory/Unknown Dory/inside-view.jpg",
+    "Dories/Swampscott Dory/Unknown Dory/inside-view-001.jpg",
+    "Sailboats/Dories/Swampscott Dory/Unknown Dory/inside-view-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 786484,
+  "modifiedAt": "2025-06-17T15:15:26.780Z",
+  "classId": "2a9b121e-79ee-492a-9087-2c4f0d6eee1e",
+  "boatId": "5b7bda2d-e314-4c49-80dd-27064bb75608",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

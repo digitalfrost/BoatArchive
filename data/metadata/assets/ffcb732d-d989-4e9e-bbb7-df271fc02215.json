@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "ffcb732d-d989-4e9e-bbb7-df271fc02215",
+  "contentHash": "41b9512fdbf78bd42a6d9779e2afcab813905fa303121c168859548c0a73abc4",
+  "currentPath": "Sailboats/Sharpies/Egrets/Woodenboat Egret/woodenboat-egret-010.jpg",
+  "originalFilename": "woodenboat-egret-010.jpg",
+  "pathHistory": [
+    "Sharpies/Egrets/Woodenboat Egret/woodenboat-egret-010.jpg",
+    "Sailboats/Sharpies/Egrets/Woodenboat Egret/woodenboat-egret-010.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 49001,
+  "modifiedAt": "2025-05-30T16:16:08.412Z",
+  "classId": "bf6e81e2-fc79-4e09-b359-c220dc78e0f0",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

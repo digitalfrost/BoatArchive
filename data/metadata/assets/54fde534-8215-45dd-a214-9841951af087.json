@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "54fde534-8215-45dd-a214-9841951af087",
+  "contentHash": "d7045765d839791baa19b48e95d970fa415e86d5eb1bea92f409ff81ae417e7c",
+  "currentPath": "Sailboats/Yole de Gironde/Baraka/baraka.md",
+  "originalFilename": "baraka.md",
+  "pathHistory": [
+    "Yole de Gironde/Baraka/baraka.md",
+    "Sailboats/Yole de Gironde/Baraka/baraka.md"
+  ],
+  "status": "present",
+  "sizeBytes": 901,
+  "modifiedAt": "2026-10-09T22:06:36.491Z",
+  "classId": "41a9efb0-5574-459d-b503-39ab29fb04f3",
+  "boatId": "7a1e6991-6b68-4981-8eb1-02fb7d85fde2",
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

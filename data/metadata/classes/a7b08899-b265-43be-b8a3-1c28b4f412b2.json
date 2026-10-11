@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "entityId": "a7b08899-b265-43be-b8a3-1c28b4f412b2",
+  "kind": "classes",
+  "currentPath": "Sailboats/Sharpies/Egrets/Unknown Egret",
+  "name": "Unknown Egret",
+  "metadata": null,
+  "slug": "ea110439-cfdf-44ea-bef5-9c216295141f",
+  "pathHistory": [
+    "Sailboats/Sharpies/Egrets/Unknown Egret"
+  ],
+  "status": "present",
+  "assetIds": [
+    "47585573-a213-4d8b-bc3a-68c6e4a89ca8",
+    "70a74f65-8493-4114-892b-30fbc99c7ade",
+    "724e3240-ca6f-427c-a39c-d095ead42f8e",
+    "786ec076-32d5-4216-b22d-3eb1f60d342a",
+    "7dd61b58-93f7-43a6-ba35-a857345fcc32",
+    "aa5c9a8f-6744-4868-b7df-9f57235c8228",
+    "ab736243-7e20-4c04-893c-39838925f40c",
+    "b10bcd9e-41d9-430d-8690-3c6d8ce6458f",
+    "ce6ddec4-9168-4e34-9891-7ac498b4edd1",
+    "ee1c708d-172d-4e9d-af59-2b343e9c2821"
+  ]
+}

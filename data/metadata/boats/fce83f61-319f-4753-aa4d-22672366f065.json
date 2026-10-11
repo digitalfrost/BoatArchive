@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "entityId": "fce83f61-319f-4753-aa4d-22672366f065",
+  "kind": "boats",
+  "currentPath": "Sailboats/Bettes Marseillaises/Negachi",
+  "name": "Negachi",
+  "metadata": null,
+  "classId": null,
+  "sailNumber": null,
+  "pathHistory": [
+    "Bettes Marseillaises/Negachi",
+    "Sailboats/Bettes Marseillaises/Negachi"
+  ],
+  "status": "present",
+  "assetIds": [
+    "1713fff0-15d8-446c-bc75-2206f96eafc9",
+    "1af643e9-7b83-453b-9b83-168d1835eea8",
+    "a575acf9-4905-4103-baa9-2fc03b433f7d"
+  ]
+}

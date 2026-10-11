@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "a5599ae5-cd42-4290-913f-d9201824652b",
+  "contentHash": "e722ab88b472293c535d39b5a913617a65827e2177a9011adec81c31ee6e506c",
+  "currentPath": "Sailboats/Drascombes/Drascombe Lugger/DrascomberLugger.pdf",
+  "originalFilename": "DrascomberLugger.pdf",
+  "pathHistory": [
+    "Drascombes/Drascombe Lugger/DrascomberLugger.pdf",
+    "Sailboats/Drascombes/Drascombe Lugger/DrascomberLugger.pdf"
+  ],
+  "status": "present",
+  "sizeBytes": 5626128,
+  "modifiedAt": "2026-04-11T23:31:14.161Z",
+  "classId": "79be72f5-0741-4a84-a206-4481b80b79c0",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

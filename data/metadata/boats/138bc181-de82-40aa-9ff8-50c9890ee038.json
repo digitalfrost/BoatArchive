@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "entityId": "138bc181-de82-40aa-9ff8-50c9890ee038",
+  "kind": "boats",
+  "currentPath": "Sailboats/Pinasses/Pinasse Notre Dame d'Arcachon",
+  "name": "Pinasse Notre Dame d'Arcachon",
+  "metadata": null,
+  "classId": null,
+  "sailNumber": null,
+  "pathHistory": [
+    "Pinasses/Pinasse Notre Dame d'Arcachon",
+    "Sailboats/Pinasses/Pinasse Notre Dame d'Arcachon"
+  ],
+  "status": "present",
+  "assetIds": [
+    "167a2423-f88c-4497-98ea-25d47578d914"
+  ]
+}

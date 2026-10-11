@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "6c456f80-406b-49ed-9525-f3cfe9318fe1",
+  "contentHash": "b67fc4e5ce5bc4757f49c6940543c60f760ba2c2e37fee8a94635f9d1563cb93",
+  "currentPath": "Powerboats/Redwing 18/redwing-18-013.jpg",
+  "originalFilename": "RW18JamesKeeen_sm.jpg",
+  "pathHistory": [
+    "Power Boats/Redwing 18/RW18JamesKeeen_sm.jpg",
+    "Power Boats/Redwing 18/redwing-18-013.jpg",
+    "Powerboats/Redwing 18/redwing-18-013.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 24276,
+  "modifiedAt": "2025-06-13T13:51:34.937Z",
+  "classId": "c80f09fa-9705-4a42-a8ce-4e3bc6eba62f",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

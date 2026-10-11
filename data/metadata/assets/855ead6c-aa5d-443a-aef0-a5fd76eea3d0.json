@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "855ead6c-aa5d-443a-aef0-a5fd76eea3d0",
+  "contentHash": "a696f20fc75855ea50f8ffdfb5bd4f87e700a974fdaf05f89c7b3e69a39dfe56",
+  "currentPath": "Sailboats/Sharpies/Milford 20/Milford 20 - General Arrangement.pdf",
+  "originalFilename": "Milford 20 - General Arrangement.pdf",
+  "pathHistory": [
+    "Sharpies/Milford 20/Milford 20 - General Arrangement.pdf",
+    "Sailboats/Sharpies/Milford 20/Milford 20 - General Arrangement.pdf"
+  ],
+  "status": "present",
+  "sizeBytes": 95975,
+  "modifiedAt": "2026-10-09T10:24:41.667Z",
+  "classId": "8b8d533d-c524-484d-acfc-027374e6f200",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

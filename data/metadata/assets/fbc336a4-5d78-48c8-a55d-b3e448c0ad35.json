@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "fbc336a4-5d78-48c8-a55d-b3e448c0ad35",
+  "contentHash": "32b4a12709d3fe706594f7a5b07f980e4533e9984ac9cbebfcc67afe28fc3561",
+  "currentPath": "Sailboats/Sharpies/Milford 20/Design Overview.pdf",
+  "originalFilename": "Design Overview.pdf",
+  "pathHistory": [
+    "Sharpies/Milford 20/Design Overview.pdf",
+    "Sailboats/Sharpies/Milford 20/Design Overview.pdf"
+  ],
+  "status": "present",
+  "sizeBytes": 1003051,
+  "modifiedAt": "2026-03-05T19:36:51.031Z",
+  "classId": "8b8d533d-c524-484d-acfc-027374e6f200",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

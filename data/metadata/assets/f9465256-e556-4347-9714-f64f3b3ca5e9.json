@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "f9465256-e556-4347-9714-f64f3b3ca5e9",
+  "contentHash": "0e1222f19e90ad7c0a130a261f1c7ffce717cae18b3a9a1e4b54032d757c55b3",
+  "currentPath": "Sailboats/Barquette Marseillaise/Hebe/hebe-001.avif",
+  "originalFilename": "hebe-001.avif",
+  "pathHistory": [
+    "Barquette Marseillaise/Hebe/hebe-001.avif",
+    "Sailboats/Barquette Marseillaise/Hebe/hebe-001.avif"
+  ],
+  "status": "present",
+  "sizeBytes": 58569,
+  "modifiedAt": "2026-10-07T15:40:45.325Z",
+  "classId": "d83eae07-878e-491a-a808-011a770de00d",
+  "boatId": "6a82229f-007e-4034-9f05-a031fd914417",
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

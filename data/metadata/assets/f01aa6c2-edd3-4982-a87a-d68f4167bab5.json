@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "assetId": "f01aa6c2-edd3-4982-a87a-d68f4167bab5",
+  "contentHash": "a9311fe8ed8e205c831a268bfb076985ec36308efbe7a5b8737ba9b2c2050a24",
+  "currentPath": "Sailboats/Patrick Balta Designs/Convention/convention-027.jpg",
+  "originalFilename": "a l'eau.jpg",
+  "pathHistory": [
+    "Patrick Balta Designs/Convention/a l'eau.jpg",
+    "Patrick Balta Designs/Convention/a-l-eau-001.jpg",
+    "Patrick Balta Designs/Convention/convention-027.jpg",
+    "Sailboats/Patrick Balta Designs/Convention/convention-027.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 99659,
+  "modifiedAt": "2026-04-30T09:25:26.108Z",
+  "classId": "df4f43dd-067f-4115-ada9-29465319f369",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "b9717a45-0af2-407d-a3a5-c107d357456f",
+  "contentHash": "3a5e99de3e3e4d247d49662dda69729e1319ca9784607102d900d513c2d907c2",
+  "currentPath": "Sailboats/Dories/_albums/Dory Racing New England/dories-racing-001.webp",
+  "originalFilename": "dories-racing-001.webp",
+  "pathHistory": [
+    "Dories/_albums/Dory Racing New England/dories-racing-001.webp",
+    "Sailboats/Dories/_albums/Dory Racing New England/dories-racing-001.webp"
+  ],
+  "status": "present",
+  "sizeBytes": 10706,
+  "modifiedAt": "2024-07-17T16:55:47.547Z",
+  "classId": null,
+  "boatId": null,
+  "metadata": "{\"format\":\"webp\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "unclassified",
+  "associationOverride": false
+}

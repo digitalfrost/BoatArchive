@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "e2a46837-bd67-4242-81e6-90e1c0058069",
+  "contentHash": "cf09ad7f2472b45bddab1784423e7f7824f853e4aa14c2027dc44df01b15b18c",
+  "currentPath": "Sailboats/Hereshoff/Hereshoff Flutterby/hereshoff-flutterby-011.jpg",
+  "originalFilename": "flutterby011.jpg",
+  "pathHistory": [
+    "Hereshoff/Hereshoff Flutterby/flutterby011.jpg",
+    "Hereshoff/Hereshoff Flutterby/hereshoff-flutterby-011.jpg",
+    "Sailboats/Hereshoff/Hereshoff Flutterby/hereshoff-flutterby-011.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 120779,
+  "modifiedAt": "2025-07-17T15:52:12.932Z",
+  "classId": "d1ccd30c-a8eb-48b7-9374-1a9f8ef7b62a",
+  "boatId": "544b9b75-925d-4519-9876-967312ab71f7",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

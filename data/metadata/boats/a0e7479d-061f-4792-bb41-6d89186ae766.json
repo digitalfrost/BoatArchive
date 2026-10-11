@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "entityId": "a0e7479d-061f-4792-bb41-6d89186ae766",
+  "kind": "boats",
+  "currentPath": "Sailboats/Bettes Marseillaises/Bette Brutus",
+  "name": "Bette Brutus",
+  "metadata": null,
+  "classId": null,
+  "sailNumber": null,
+  "pathHistory": [
+    "Bettes Marseillaises/Bette Brutus",
+    "Sailboats/Bettes Marseillaises/Bette Brutus"
+  ],
+  "status": "present",
+  "assetIds": [
+    "407f8c8d-2ac9-4878-a049-2e0bc996307a"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "5b215461-31a0-47e7-adbe-0d73d177d729",
+  "contentHash": "457e581e1514a926de9f9cf6f37b50a61f4df737c21a0d04d3c4cfa6c17abfdc",
+  "currentPath": "Sailboats/Tiknot/tiKnot_manuel_1.pdf",
+  "originalFilename": "tiKnot_manuel_1.pdf",
+  "pathHistory": [
+    "Tiknot/tiKnot_manuel_1.pdf",
+    "Sailboats/Tiknot/tiKnot_manuel_1.pdf"
+  ],
+  "status": "present",
+  "sizeBytes": 98905,
+  "modifiedAt": "2026-04-09T08:51:06.955Z",
+  "classId": "41fa13e4-49d4-4f28-ac2d-cd1457b51a81",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

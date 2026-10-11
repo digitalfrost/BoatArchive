@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "79c07eeb-33d5-40d0-9b3f-2e5f32f2d7a4",
+  "contentHash": "5daa6d551658cca59bbf947200bcb7029557b22052aa0f237ee31d736da84a10",
+  "currentPath": "Sailboats/Patrick Balta Designs/Malingre/malingre-001.jpg",
+  "originalFilename": "am.jpg",
+  "pathHistory": [
+    "Patrick Balta Designs/Malingre/am.jpg",
+    "Patrick Balta Designs/Malingre/malingre-001.jpg",
+    "Sailboats/Patrick Balta Designs/Malingre/malingre-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 54022,
+  "modifiedAt": "2026-04-30T09:39:14.872Z",
+  "classId": "45c53d66-b288-4ff6-bdbe-0d2a51103be1",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

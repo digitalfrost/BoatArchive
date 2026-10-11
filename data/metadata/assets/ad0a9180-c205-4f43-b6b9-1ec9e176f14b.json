@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "ad0a9180-c205-4f43-b6b9-1ec9e176f14b",
+  "contentHash": "31b299c350748b7a51f6eef34bdc4184290007de093542cafab2f4078d639bb5",
+  "currentPath": "Sailboats/Dories/Swampscott Dory/Unknown Dory 2/little-m-003.jpg",
+  "originalFilename": "little-m-003.jpg",
+  "pathHistory": [
+    "Dories/Swampscott Dory/Unknown Dory 2/little-m-003.jpg",
+    "Sailboats/Dories/Swampscott Dory/Unknown Dory 2/little-m-003.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 156850,
+  "modifiedAt": "2026-10-09T09:52:41.024Z",
+  "classId": "2a9b121e-79ee-492a-9087-2c4f0d6eee1e",
+  "boatId": "c3478625-d954-46c3-9294-a1efd8a6885a",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

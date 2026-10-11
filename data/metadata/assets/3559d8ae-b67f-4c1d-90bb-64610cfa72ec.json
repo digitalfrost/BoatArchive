@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "3559d8ae-b67f-4c1d-90bb-64610cfa72ec",
+  "contentHash": "77fab9ee7730f67f671be852e68db657dba811a3d0884c755d3861462def3b71",
+  "currentPath": "Sailboats/Bettes Marseillaises/livre-un-metier-un-art-une-vie.jpg",
+  "originalFilename": "livre-un-metier-un-art-une-vie.jpg",
+  "pathHistory": [
+    "Bettes Marseillaises/livre-un-metier-un-art-une-vie.jpg",
+    "Sailboats/Bettes Marseillaises/livre-un-metier-un-art-une-vie.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 58393,
+  "modifiedAt": "2026-05-04T13:05:49.434Z",
+  "classId": null,
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "unclassified",
+  "associationOverride": false
+}

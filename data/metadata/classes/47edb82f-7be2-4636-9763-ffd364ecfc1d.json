@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "entityId": "47edb82f-7be2-4636-9763-ffd364ecfc1d",
+  "kind": "classes",
+  "currentPath": "Sailboats/Patrick Balta Designs/Jorky",
+  "name": "Jorky",
+  "metadata": null,
+  "slug": "jorky-2bb776c4db57",
+  "pathHistory": [
+    "Patrick Balta Designs/Jorky",
+    "Sailboats/Patrick Balta Designs/Jorky"
+  ],
+  "status": "present",
+  "assetIds": [
+    "47a30adb-cbe0-4488-bdde-7c786d52a332",
+    "4e81e61c-2b39-4cc2-96ec-2f60d7d1a7f8",
+    "50ed0f09-0128-4c3f-8b63-57093f7ec0ba",
+    "7e337ee2-b68b-4f12-bc6b-e31ff6abf737",
+    "a5295984-4d07-4b9d-95b7-d443ef694753",
+    "f9016028-ac77-4d37-b45a-9d6f48049a3c"
+  ]
+}

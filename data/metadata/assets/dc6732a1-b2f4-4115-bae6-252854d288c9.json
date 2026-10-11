@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "dc6732a1-b2f4-4115-bae6-252854d288c9",
+  "contentHash": "017887b63118af11f1721d2d3705fc33c411b7be5bb353302a9be4dc4bb860a9",
+  "currentPath": "Sailboats/Sharpies/Egrets/Parker Egret/Grey Egret/grey-egret-001.jpg",
+  "originalFilename": "picegret28102a.jpg",
+  "pathHistory": [
+    "Sharpies/Egrets/Parker Egret/Grey Egret/picegret28102a.jpg",
+    "Sharpies/Egrets/Parker Egret/Grey Egret/grey-egret-001.jpg",
+    "Sailboats/Sharpies/Egrets/Parker Egret/Grey Egret/grey-egret-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 58045,
+  "modifiedAt": "2025-05-30T20:02:34.621Z",
+  "classId": "be155d78-af4e-49e4-83ff-8a86cf4a8a02",
+  "boatId": "01e19c4d-bd3b-4a35-8b9f-2f50b8201a2a",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

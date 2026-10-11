@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "a4a1d5ec-c56e-4a04-a6ae-a83c2ee80b79",
+  "contentHash": "9e1f7455478062169ed8476e3274a9c3f251cce11babf0aad1f804647f77e473",
+  "currentPath": "Sailboats/Bettes Marseillaises/nacelle-001.jpg",
+  "originalFilename": "nacelle-001.jpg",
+  "pathHistory": [
+    "Bettes Marseillaises/nacelle-001.jpg",
+    "Sailboats/Bettes Marseillaises/nacelle-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 49602,
+  "modifiedAt": "2026-04-24T22:20:24.397Z",
+  "classId": null,
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "unclassified",
+  "associationOverride": false
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "a91d4faa-321a-4383-aaec-c794a651af5d",
+  "contentHash": "659c4e3dd7714bb874662a634cc49a607962b39f07da6f02a5a65ae84e75ea55",
+  "currentPath": "Sailboats/Merry Weather/inside-cabin-001.png",
+  "originalFilename": "insideCabin.png",
+  "pathHistory": [
+    "Merry Weather/insideCabin.png",
+    "Merry Weather/inside-cabin-001.png",
+    "Sailboats/Merry Weather/inside-cabin-001.png"
+  ],
+  "status": "present",
+  "sizeBytes": 4316,
+  "modifiedAt": "2025-10-23T21:24:58.019Z",
+  "classId": "e231b997-cca7-4a09-9b94-e3dea27bccab",
+  "boatId": null,
+  "metadata": "{\"format\":\"png\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "07b2e753-e660-451c-b41c-06a73f0feb50",
+  "contentHash": "c6b7c386400b7685c4c827c5cde3a4af7a3d4665f6903924912170e73cd8619b",
+  "currentPath": "Powerboats/John Atkins 22' Ninigret/This piece of planking in the foref.txt",
+  "originalFilename": "This piece of planking in the foref.txt",
+  "pathHistory": [
+    "Power Boats/John Atkins 22' Ninigret/This piece of planking in the foref.txt",
+    "Powerboats/John Atkins 22' Ninigret/This piece of planking in the foref.txt"
+  ],
+  "status": "present",
+  "sizeBytes": 695,
+  "modifiedAt": "2025-06-13T05:13:48.278Z",
+  "classId": "66f5eea1-5f5d-4450-959c-fcfa11b9b136",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

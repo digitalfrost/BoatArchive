@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "4df85185-46ed-40b5-92b9-eee39f5d8f5e",
+  "contentHash": "b9c900e5c131088c16f38c4f3b31839963c63f9d4a4e1993115416f682d7c90e",
+  "currentPath": "Sailboats/110/110-002.webp",
+  "originalFilename": "110-002.webp",
+  "pathHistory": [
+    "110/110-002.webp",
+    "Sailboats/110/110-002.webp"
+  ],
+  "status": "present",
+  "sizeBytes": 66290,
+  "modifiedAt": "2026-10-06T21:28:13.968Z",
+  "classId": "5e6965d8-604c-4482-80bb-292827f07094",
+  "boatId": null,
+  "metadata": "{\"format\":\"webp\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

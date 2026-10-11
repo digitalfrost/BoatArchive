@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "1d84294d-77ab-4a6a-bb16-064db62b11a8",
+  "contentHash": "2391cfa219cec3608d6fea16cbe69dbb012e68180750a126b0f0e1cd42c2f34c",
+  "currentPath": "Sailboats/Ian Oughtred Designs/Elfyn/elfyn-001.jpg",
+  "originalFilename": "elfyn-001.jpg",
+  "pathHistory": [
+    "Ian Oughtred Designs/Elfyn/elfyn-001.jpg",
+    "Sailboats/Ian Oughtred Designs/Elfyn/elfyn-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 1099412,
+  "modifiedAt": "2026-05-01T20:33:52.970Z",
+  "classId": "23c44d91-ddb7-4a09-860e-20eca48ce89b",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

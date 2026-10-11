@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "69fa4796-ad90-4a70-be16-6c02e90b97e8",
+  "contentHash": "9c9f692ad6d8908f4f67338b18ebd97198d9a9091c2ad8c0b978ba377e5baccb",
+  "currentPath": "Sailboats/Yole de Gironde/yoles-002.jpg",
+  "originalFilename": "yoles-002.jpg",
+  "pathHistory": [
+    "Yole de Gironde/yoles-002.jpg",
+    "Sailboats/Yole de Gironde/yoles-002.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 339256,
+  "modifiedAt": "2026-10-09T22:08:49.824Z",
+  "classId": "41a9efb0-5574-459d-b503-39ab29fb04f3",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

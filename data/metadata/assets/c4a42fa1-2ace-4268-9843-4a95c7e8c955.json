@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "c4a42fa1-2ace-4268-9843-4a95c7e8c955",
+  "contentHash": "67c1940e182c3e10202a33ab930be3944076566dab486429c033b8fd3e50e006",
+  "currentPath": "Sailboats/Lili 610/lili-018.jpg",
+  "originalFilename": "lili-018.jpg",
+  "pathHistory": [
+    "Lili 610/lili-018.jpg",
+    "Sailboats/Lili 610/lili-018.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 106586,
+  "modifiedAt": "2026-06-02T09:42:26.085Z",
+  "classId": "39123acd-2894-4959-8c91-712c9559a942",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

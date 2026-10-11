@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "1c8165eb-0e60-4ff8-a6b9-6a06c8bf568a",
+  "contentHash": "8aba556c98f07d39862d5e3bff69ba86f467458a6613aaf7f12596f7d5d6a75c",
+  "currentPath": "Sailboats/Battelku/battelku-002.jpg",
+  "originalFilename": "22428978767_4143fd1eae_o.jpg",
+  "pathHistory": [
+    "Battelku/22428978767_4143fd1eae_o.jpg",
+    "Battelku/battelku-002.jpg",
+    "Sailboats/Battelku/battelku-002.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 532991,
+  "modifiedAt": "2025-07-16T09:42:09.986Z",
+  "classId": "e375f9e2-2c16-4443-bc1c-1b98605c2153",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

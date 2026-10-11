@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "1380be12-6cf2-43f4-9b70-9081267436f3",
+  "contentHash": "89176b46a004ac15f4d80a959f7d4c0535fcd1bce365809a929e07694d8e6d82",
+  "currentPath": "Sailboats/Dories/Alpha Beachcomber/Noyes/noyes-010.jpg",
+  "originalFilename": "2918904016_5b176af651_b.jpg",
+  "pathHistory": [
+    "Dories/Alpha Beachcomber/Noyes/2918904016_5b176af651_b.jpg",
+    "Dories/Alpha Beachcomber/Noyes/noyes-010.jpg",
+    "Sailboats/Dories/Alpha Beachcomber/Noyes/noyes-010.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 103840,
+  "modifiedAt": "2025-06-27T14:37:32.217Z",
+  "classId": "618b7240-1934-4007-a6f6-d4e60d90fe74",
+  "boatId": "4635285b-abac-449b-80c4-b3167b28965f",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "1c1bba67-10b1-4730-a0f9-9ac5dc29b799",
+  "contentHash": "63858e86b28f378841d829298b4dfdbf982c4d7a53d1b19661d18ba4b8983332",
+  "currentPath": "Sailboats/Sharpies/28ft Sharpie/28ft-sharpie-004.jpg",
+  "originalFilename": "468405194_10225267724695866_3942441788675635850_n.jpg",
+  "pathHistory": [
+    "Sharpies/28ft Sharpie/468405194_10225267724695866_3942441788675635850_n.jpg",
+    "Sharpies/28ft Sharpie/28ft-sharpie-004.jpg",
+    "Sailboats/Sharpies/28ft Sharpie/28ft-sharpie-004.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 166279,
+  "modifiedAt": "2026-10-02T15:19:13.723Z",
+  "classId": "2c31ff9c-fbb4-4d22-8958-bc73d1c773e1",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

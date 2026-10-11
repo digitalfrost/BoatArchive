@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "a2f307cd-65ef-4355-b8f7-06843d87880c",
+  "contentHash": "62fca16ce5fad815d5ecaad5b7459034fe0d6ffba6696594053ab5b7bef216c8",
+  "currentPath": "Sailboats/Flow 19/flow19-003.webp",
+  "originalFilename": "flow19-003.webp",
+  "pathHistory": [
+    "Flow 19/flow19-003.webp",
+    "Sailboats/Flow 19/flow19-003.webp"
+  ],
+  "status": "present",
+  "sizeBytes": 107450,
+  "modifiedAt": "2026-10-08T15:45:03.514Z",
+  "classId": "03b979a3-9e62-48e3-b4ce-8a4a9855d91c",
+  "boatId": null,
+  "metadata": "{\"format\":\"webp\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

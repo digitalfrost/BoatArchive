@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "assetId": "2d739c74-aba3-43a4-a1cc-b0acfbea16f8",
+  "contentHash": "ff5e56dd5cc0e68165173181a5f9a65d8d0689ca38de8bce79f9e0c1796bd8f3",
+  "currentPath": "Powerboats/John Atkins 22' Ninigret/ninigret-032.jpg",
+  "originalFilename": "Ly-Ja-JanFrame.jpg",
+  "pathHistory": [
+    "Power Boats/John Atkins 22' Ninigret/Ly-Ja-JanFrame.jpg",
+    "Power Boats/John Atkins 22' Ninigret/ly-ja-jan-frame-001.jpg",
+    "Power Boats/John Atkins 22' Ninigret/ninigret-032.jpg",
+    "Powerboats/John Atkins 22' Ninigret/ninigret-032.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 55207,
+  "modifiedAt": "2025-06-13T04:57:24.928Z",
+  "classId": "66f5eea1-5f5d-4450-959c-fcfa11b9b136",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

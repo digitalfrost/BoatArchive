@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "4f6abe9b-ad22-4098-be1a-10ccfaf85b36",
+  "contentHash": "215c7b2624ca9756b49c2938473127d10715a5c88fd70d4e2a0811845ca26c02",
+  "currentPath": "Sailboats/Romilly/romilly-specs.jpg",
+  "originalFilename": "romilly-specs.jpg",
+  "pathHistory": [
+    "Romilly/romilly-specs.jpg",
+    "Sailboats/Romilly/romilly-specs.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 54664,
+  "modifiedAt": "2025-06-01T06:31:46.165Z",
+  "classId": "25e40bfa-7c56-4048-9d10-5607fd91f6b9",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

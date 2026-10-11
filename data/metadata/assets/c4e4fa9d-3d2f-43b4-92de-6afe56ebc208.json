@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "c4e4fa9d-3d2f-43b4-92de-6afe56ebc208",
+  "contentHash": "9f30d79ca714f9bd476e643fb07492d445e84fd70d56d77e5dac60041867d820",
+  "currentPath": "Sailboats/Dornas/dorna-006.jpg",
+  "originalFilename": "dorna-006.jpg",
+  "pathHistory": [
+    "Dornas/dorna-006.jpg",
+    "Sailboats/Dornas/dorna-006.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 70451,
+  "modifiedAt": "2025-07-17T17:13:31.870Z",
+  "classId": "daae6a51-7a1f-4cd4-a9ab-6bcc5106f895",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

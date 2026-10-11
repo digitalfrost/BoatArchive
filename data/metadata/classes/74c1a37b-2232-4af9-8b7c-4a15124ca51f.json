@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "entityId": "74c1a37b-2232-4af9-8b7c-4a15124ca51f",
+  "kind": "classes",
+  "currentPath": "Sailboats/Dories/Deblois Street Dory",
+  "name": "Deblois Street Dory",
+  "metadata": null,
+  "slug": "deblois-street-dory-dfff20317c8e",
+  "pathHistory": [
+    "Dories/Deblois Street Dory",
+    "Sailboats/Dories/Deblois Street Dory"
+  ],
+  "status": "present",
+  "assetIds": [
+    "08aef2e9-0acf-48ce-950e-1b7d2d01ebfc",
+    "1051d051-b4b6-4a71-8703-c07f99df8f01",
+    "45a27c17-24c3-44e0-896e-47e832d8cdbc",
+    "476b5610-80db-4809-8f74-4bef39b6b9b8",
+    "5c8049db-6e80-4a50-b204-5afa4fe429a5",
+    "69312606-6f25-4acb-908d-a69d7bffb7a1",
+    "78648d72-349a-4e11-a6e6-37299404d856",
+    "9423d392-3a9b-435e-b095-db5b765efab5",
+    "a2089aad-49e8-4494-a16f-ac73aa84ea86",
+    "e62050b2-dadc-4db3-8a2d-52cd3710f927",
+    "f38aa2ce-5fbe-4200-b0f8-a775b11b9727"
+  ]
+}

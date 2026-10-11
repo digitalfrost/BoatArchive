@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "f89c7785-b4d7-4de2-9f62-e95189ebb2b2",
+  "contentHash": "8a7b0056f4fb52b18001f144d747437e41ce4b498449e0a31a93e4b709b3eb4a",
+  "currentPath": "Sailboats/Dories/The dory book.pdf",
+  "originalFilename": "The dory book.pdf",
+  "pathHistory": [
+    "Dories/The dory book.pdf",
+    "Sailboats/Dories/The dory book.pdf"
+  ],
+  "status": "present",
+  "sizeBytes": 28935022,
+  "modifiedAt": "2023-05-12T06:42:49.000Z",
+  "classId": null,
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "unclassified",
+  "associationOverride": false
+}

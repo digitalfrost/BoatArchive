@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "ddf165d3-5b4a-4b6a-af8f-afb08f3f0273",
+  "contentHash": "b81e6f31aac456e393515308ad9c29a616c6c544c8431dac8d51c1de5da724fc",
+  "currentPath": "Sailboats/Bettes Marseillaises/Bette Alexandre/la-bette-alexandre-001.jpg",
+  "originalFilename": "La_bette__Alexandre__(1).jpg",
+  "pathHistory": [
+    "Bettes Marseillaises/Bette Alexandre/La_bette__Alexandre__(1).jpg",
+    "Bettes Marseillaises/Bette Alexandre/la-bette-alexandre-001.jpg",
+    "Sailboats/Bettes Marseillaises/Bette Alexandre/la-bette-alexandre-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 3667628,
+  "modifiedAt": "2026-04-24T23:29:10.254Z",
+  "classId": null,
+  "boatId": "6fa2f7fa-00b4-4860-abb6-afce76ea32d6",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

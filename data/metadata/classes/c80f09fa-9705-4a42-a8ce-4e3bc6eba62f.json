@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "entityId": "c80f09fa-9705-4a42-a8ce-4e3bc6eba62f",
+  "kind": "classes",
+  "currentPath": "Powerboats/Redwing 18",
+  "name": "Redwing 18",
+  "metadata": null,
+  "slug": "redwing-18-316c0e5ca246",
+  "pathHistory": [
+    "Power Boats/Redwing 18",
+    "Powerboats/Redwing 18"
+  ],
+  "status": "present",
+  "assetIds": [
+    "0228b4cf-cde7-48a4-9b3e-37366e3c115b",
+    "06018e52-4519-43f4-81ff-85431b34e64f",
+    "233a6cd8-c507-4fae-b54d-6992d6595166",
+    "26d9abdd-440a-44d6-a4c6-194fd66aa138",
+    "491175ba-0c6a-4381-8eca-476d4686f16d",
+    "5efa3a46-4907-41a9-b23d-f4fedd401d80",
+    "69f5a89b-fb9d-426f-8d30-e3e3689bc78d",
+    "6c456f80-406b-49ed-9525-f3cfe9318fe1",
+    "77af89d6-b03c-4780-a789-7b029c0b2cd6",
+    "92a161ba-b47c-4284-a603-a014b81a55e5",
+    "99767ecc-cfac-4640-b7ee-f5a13f663609",
+    "9992ac0d-853c-4048-887e-1f8bdf749088",
+    "a18069c6-c181-4a97-adcf-882b1964fe33",
+    "b126d8b5-947b-4e27-986d-e0058fd01fb5",
+    "d9f6d8b5-63a7-4f4d-9f18-a0815da8be56",
+    "ddc68397-25d5-4dc3-84bd-61775e52c2a7"
+  ]
+}

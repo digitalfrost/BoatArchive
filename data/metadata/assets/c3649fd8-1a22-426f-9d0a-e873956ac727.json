@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "c3649fd8-1a22-426f-9d0a-e873956ac727",
+  "contentHash": "da1128ba49a2cf166890bf6dc02c64ca4ffcdc3c475882f2f65d6ca61a6e631c",
+  "currentPath": "Sailboats/Dories/Swampscott Dory/16ft Swampscott Dory/Funky Dory/16ft-swampscott-dory-funkydory-002.jpg",
+  "originalFilename": "FunkyDory0036web.jpg",
+  "pathHistory": [
+    "Dories/Swampscott Dory/16ft Swampscott Dory/Funky Dory/FunkyDory0036web.jpg",
+    "Dories/Swampscott Dory/16ft Swampscott Dory/Funky Dory/16ft-swampscott-dory-funkydory-002.jpg",
+    "Sailboats/Dories/Swampscott Dory/16ft Swampscott Dory/Funky Dory/16ft-swampscott-dory-funkydory-002.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 1067691,
+  "modifiedAt": "2024-07-17T17:44:59.497Z",
+  "classId": "2a9b121e-79ee-492a-9087-2c4f0d6eee1e",
+  "boatId": "1129b763-0e43-499d-9bec-bf59b89ccdc0",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

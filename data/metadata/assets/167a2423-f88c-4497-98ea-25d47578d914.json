@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "167a2423-f88c-4497-98ea-25d47578d914",
+  "contentHash": "c56ff8d4d4331ad595eb9b0836e14391945e62c1f7dff726aef460bc29e16124",
+  "currentPath": "Sailboats/Pinasses/Pinasse Notre Dame d'Arcachon/pinasse-notredamedarcachon-2005-001.jpg",
+  "originalFilename": "pinasse-notredamedarcachon-2005-001.jpg",
+  "pathHistory": [
+    "Pinasses/Pinasse Notre Dame d'Arcachon/pinasse-notredamedarcachon-2005-001.jpg",
+    "Sailboats/Pinasses/Pinasse Notre Dame d'Arcachon/pinasse-notredamedarcachon-2005-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 25971,
+  "modifiedAt": "2026-04-29T15:12:56.217Z",
+  "classId": null,
+  "boatId": "138bc181-de82-40aa-9ff8-50c9890ee038",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

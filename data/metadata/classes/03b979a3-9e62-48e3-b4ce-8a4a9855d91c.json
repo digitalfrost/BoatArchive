@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "entityId": "03b979a3-9e62-48e3-b4ce-8a4a9855d91c",
+  "kind": "classes",
+  "currentPath": "Sailboats/Flow 19",
+  "name": "Flow 19",
+  "metadata": null,
+  "slug": "8bc2b392-1eb7-4170-bcc3-333ac84d2ee5",
+  "pathHistory": [
+    "Flow 19",
+    "Sailboats/Flow 19"
+  ],
+  "status": "present",
+  "assetIds": [
+    "04d0c2cd-3ffa-451a-bb56-cddbec7f402f",
+    "1340410e-6b47-4189-bdef-78e22d0b9fe0",
+    "14e72194-6ac8-4f55-aebc-edb728308128",
+    "3f97d5ae-51d5-4116-80d2-72f458247426",
+    "5d311767-e232-4d9d-8ac9-560d81bcff18",
+    "88a82a83-e092-4874-b6b9-ee94dc26770c",
+    "a2f307cd-65ef-4355-b8f7-06843d87880c"
+  ]
+}

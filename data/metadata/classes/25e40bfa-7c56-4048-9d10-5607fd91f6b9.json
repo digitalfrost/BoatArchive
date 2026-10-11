@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "entityId": "25e40bfa-7c56-4048-9d10-5607fd91f6b9",
+  "kind": "classes",
+  "currentPath": "Sailboats/Romilly",
+  "name": "Romilly",
+  "metadata": null,
+  "slug": "romilly-69c2788d716b",
+  "pathHistory": [
+    "Romilly",
+    "Sailboats/Romilly"
+  ],
+  "status": "present",
+  "assetIds": [
+    "4f6abe9b-ad22-4098-be1a-10ccfaf85b36",
+    "65605f37-982a-453f-a1d3-41693c659500",
+    "bdb48032-e1e4-48e3-8e13-10bfb49ccdf7",
+    "ea7da346-6cf8-4673-9b19-dfe276f7bdf0"
+  ]
+}

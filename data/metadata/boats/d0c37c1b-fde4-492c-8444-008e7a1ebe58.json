@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "entityId": "d0c37c1b-fde4-492c-8444-008e7a1ebe58",
+  "kind": "boats",
+  "currentPath": "Sailboats/Dories/Chamberlain Gunning Dory/Gunning Dory 1",
+  "name": "Gunning Dory 1",
+  "metadata": null,
+  "classId": "8dbf86a0-53fe-40c0-a5f0-f2636b835b17",
+  "sailNumber": null,
+  "pathHistory": [
+    "Dories/Chamberlain Gunning Dory/Gunning Dory 1",
+    "Sailboats/Dories/Chamberlain Gunning Dory/Gunning Dory 1"
+  ],
+  "status": "present",
+  "assetIds": [
+    "05a95087-718e-481f-bf32-7e9d115ae3bf",
+    "3a090eca-5c49-42a8-ad7a-54671126fc7d",
+    "ad65b2a9-fe2f-494d-adfb-04f55ff416a6",
+    "dbad6b6d-f69e-4c45-a603-adf8a60e56f5",
+    "ec359c6a-5895-4ad4-b782-26cb99280441"
+  ]
+}

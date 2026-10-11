@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "entityId": "b73eb67e-2b7f-41d7-99ab-070efe7a0228",
+  "kind": "boats",
+  "currentPath": "Sailboats/Dories/Crawford Dory/Dory Restauration",
+  "name": "Dory Restauration",
+  "metadata": null,
+  "classId": "7d393214-4e0a-4760-a5f8-94781d582ae0",
+  "sailNumber": null,
+  "pathHistory": [
+    "Dories/Crawford Dory/Dory Restauration",
+    "Sailboats/Dories/Crawford Dory/Dory Restauration"
+  ],
+  "status": "present",
+  "assetIds": [
+    "3777dbd5-10a1-45e0-ba61-19df96d43614",
+    "3db41634-724f-4685-9209-cc060088bbba",
+    "4e81bb81-5129-4783-865a-8d768e4421e3",
+    "7fbf8b59-bb93-4072-80e9-08b7f6a7acbb",
+    "9b9ce9fd-e501-48a1-88b7-0593388710ca"
+  ]
+}

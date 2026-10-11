@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "entityId": "23611e6c-7fef-4e8e-b79b-5eaf43701366",
+  "kind": "boats",
+  "currentPath": "Sailboats/Sharpies/Egrets/Parker Egret/Blue Egret",
+  "name": "Blue Egret",
+  "metadata": null,
+  "classId": "be155d78-af4e-49e4-83ff-8a86cf4a8a02",
+  "sailNumber": null,
+  "pathHistory": [
+    "Sailboats/Sharpies/Egrets/Parker Egret/Blue Egret"
+  ],
+  "status": "present",
+  "assetIds": [
+    "0f0e2ad0-90ed-4536-b860-e8302216386f",
+    "0fe36f28-a7b5-447c-bff4-69fd733fdfa2",
+    "188f8ddb-fb26-4aac-a174-32b1d5d58a7f",
+    "1b3601fb-fa96-49b3-954d-c35ae8e082f9",
+    "2a2952b6-a0ef-4b49-ad88-70884091e6a5",
+    "337abde1-ed1d-44eb-87d8-384967a9e81f",
+    "34d7bc66-68a6-44da-9ca8-e6de4946fa1e",
+    "3af426c3-afda-441c-b6ef-02400fecda15",
+    "3fad1418-2c12-4c59-82c7-1dca322b274a",
+    "50c3c92a-2c01-449c-a3e0-c2aa6b494651",
+    "5129871a-ef80-4667-ba66-efb57436354e",
+    "52ef160f-b197-416c-9fb7-dac9a2e35572",
+    "5eaae002-855a-4fa0-a618-7098d85c223b",
+    "6382b407-fd56-4ff7-87bb-a9483ac2138f",
+    "78509123-61fc-441e-ad88-9a5cac8062da",
+    "7adc3b73-d5b1-4b86-a281-6f59ec6fef72",
+    "8c6027ec-af14-4429-8a3b-775d712b1aa5",
+    "a503b2d8-f94c-45d2-a61b-da04ac218811",
+    "a75f46a9-26c0-49d1-a93e-1cc1735b46a3",
+    "a974f864-7fc1-4574-aa6e-2b1c9ea1712d",
+    "bab6dd93-7483-4bdf-b895-0320fba1e015",
+    "c62a57d5-325e-4814-b249-29e2ac9ef685",
+    "cad32c60-6ed0-46d5-9ed0-f170be834e79",
+    "d31f5079-064b-4adc-b8a0-850673d62707",
+    "d7f51da3-b5e2-42f6-acd7-e91330b0d687",
+    "e6c6fea3-b073-4c28-94ba-8453c6d0c8a6",
+    "ed5e924d-0b45-4a0a-9dfc-f18f1d4f7ac4"
+  ]
+}

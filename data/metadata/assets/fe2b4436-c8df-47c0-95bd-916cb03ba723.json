@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "fe2b4436-c8df-47c0-95bd-916cb03ba723",
+  "contentHash": "aedf4576bfc369fd50b38c2ad26a612de43b7f01a0f77037328e9a325553a0b2",
+  "currentPath": "Sailboats/Sharpies/Egrets/Haiku Egret/haiku--sharpie-003.JPG",
+  "originalFilename": "haiku--sharpie-003.JPG",
+  "pathHistory": [
+    "Sharpies/Egrets/Haiku Egret/haiku--sharpie-003.JPG",
+    "Sailboats/Sharpies/Egrets/Haiku Egret/haiku--sharpie-003.JPG"
+  ],
+  "status": "present",
+  "sizeBytes": 814167,
+  "modifiedAt": "2025-06-04T21:54:23.399Z",
+  "classId": "c32233f8-a01a-49e2-9e5f-ef7c3e77d5cf",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

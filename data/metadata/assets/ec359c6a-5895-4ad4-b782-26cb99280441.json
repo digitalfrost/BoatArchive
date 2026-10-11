@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "ec359c6a-5895-4ad4-b782-26cb99280441",
+  "contentHash": "a2c2aa798762c3ee548729cba3aeaa3af3a68669ff9653a967d417d83e7ebfb9",
+  "currentPath": "Sailboats/Dories/Chamberlain Gunning Dory/Gunning Dory 1/ChamberlainGunningDory2.jpg",
+  "originalFilename": "ChamberlainGunningDory2.jpg",
+  "pathHistory": [
+    "Dories/Chamberlain Gunning Dory/Gunning Dory 1/ChamberlainGunningDory2.jpg",
+    "Sailboats/Dories/Chamberlain Gunning Dory/Gunning Dory 1/ChamberlainGunningDory2.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 270250,
+  "modifiedAt": "2025-06-27T14:15:58.603Z",
+  "classId": "8dbf86a0-53fe-40c0-a5f0-f2636b835b17",
+  "boatId": "d0c37c1b-fde4-492c-8444-008e7a1ebe58",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

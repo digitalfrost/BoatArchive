@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "abe54ff5-5710-4a84-8931-735b1ef42d6a",
+  "contentHash": "51422ea0c0355925ce8222f445703ba5132b4c5f3b5373d53c3578d7a6f1207d",
+  "currentPath": "Sailboats/Sharpies/Miles River cabin skiff/miles-river-cabin-skiff-001.jpg",
+  "originalFilename": "571145279_10237901918105822_1414406746071657600_n.jpg",
+  "pathHistory": [
+    "Sharpies/Miles River cabin skiff/571145279_10237901918105822_1414406746071657600_n.jpg",
+    "Sharpies/Miles River cabin skiff/miles-river-cabin-skiff-001.jpg",
+    "Sailboats/Sharpies/Miles River cabin skiff/miles-river-cabin-skiff-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 155848,
+  "modifiedAt": "2025-10-29T15:31:23.416Z",
+  "classId": "41622dad-8a68-498c-baa8-9c0b0a96067e",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

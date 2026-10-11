@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "fc296379-f06a-4bc2-9dbf-7de520e99863",
+  "contentHash": "81c1f9d85f4a6524b57dc6bba9c3478963a6e279352ad2de17bfef04f7cfb519",
+  "currentPath": "Sailboats/Prams/ClinkerPram/ClinkerPram.txt",
+  "originalFilename": "ClinkerPram.txt",
+  "pathHistory": [
+    "Prams/ClinkerPram/ClinkerPram.txt",
+    "Sailboats/Prams/ClinkerPram/ClinkerPram.txt"
+  ],
+  "status": "present",
+  "sizeBytes": 1202,
+  "modifiedAt": "2026-05-02T21:19:32.629Z",
+  "classId": "66bbbb46-71bd-4bf2-af9a-0ec484a104c6",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

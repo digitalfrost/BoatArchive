@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "f8e60793-29fe-4aec-859e-6d8ca4aa83a6",
+  "contentHash": "404e1f6019ae99470982a76e1ecea6ddcc5d13810476460d8ebde62dd14c3a97",
+  "currentPath": "Sailboats/Bettes Marseillaises/Bette Ida/Ida.pdf",
+  "originalFilename": "Ida.pdf",
+  "pathHistory": [
+    "Bettes Marseillaises/Bette Ida/Ida.pdf",
+    "Sailboats/Bettes Marseillaises/Bette Ida/Ida.pdf"
+  ],
+  "status": "present",
+  "sizeBytes": 2681647,
+  "modifiedAt": "2026-04-24T23:05:28.945Z",
+  "classId": null,
+  "boatId": "cb42297e-62d9-4c35-8380-e25145edd623",
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

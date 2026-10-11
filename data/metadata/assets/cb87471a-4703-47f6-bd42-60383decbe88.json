@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "cb87471a-4703-47f6-bd42-60383decbe88",
+  "contentHash": "9f7f9f61717b711951fa02152d42200457a339d5efc189cfffd5a6fd02515613",
+  "currentPath": "Sailboats/Patrick Balta Designs/Tocade/tocade-004.jpg",
+  "originalFilename": "rendu111.jpg",
+  "pathHistory": [
+    "Patrick Balta Designs/Tocade/rendu111.jpg",
+    "Patrick Balta Designs/Tocade/tocade-004.jpg",
+    "Sailboats/Patrick Balta Designs/Tocade/tocade-004.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 47735,
+  "modifiedAt": "2026-04-30T09:37:20.301Z",
+  "classId": "f0ee4d13-10d2-4662-9731-bbff02b5db7b",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

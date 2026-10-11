@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "entityId": "9f1120c7-07a9-4827-9e9a-afd149f45031",
+  "kind": "boats",
+  "currentPath": "Sailboats/Sharpies/Egrets/Woodenboat Egret/Blue Egret",
+  "name": "Blue Egret",
+  "metadata": null,
+  "classId": "bf6e81e2-fc79-4e09-b359-c220dc78e0f0",
+  "sailNumber": null,
+  "pathHistory": [
+    "Sailboats/Sharpies/Egrets/Woodenboat Egret/Blue Egret"
+  ],
+  "status": "present",
+  "assetIds": [
+    "c1385809-9d04-4157-84ec-2cd63794dffa"
+  ]
+}

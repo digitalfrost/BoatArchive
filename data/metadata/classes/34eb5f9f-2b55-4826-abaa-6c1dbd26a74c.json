@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "entityId": "34eb5f9f-2b55-4826-abaa-6c1dbd26a74c",
+  "kind": "classes",
+  "currentPath": "Sailboats/Drascombes/Devon Longboat",
+  "name": "Devon Longboat",
+  "metadata": null,
+  "slug": "devon-longboat-e072465b9058",
+  "pathHistory": [
+    "Drascombes/Devon Longboat",
+    "Sailboats/Drascombes/Devon Longboat"
+  ],
+  "status": "present",
+  "assetIds": [
+    "3c590e4f-02cf-473e-a0e2-7f1ea43f393d",
+    "3e21007d-6a22-45f8-8a00-9f960c76e094",
+    "6e5e916d-38d8-4e55-bc86-0b1c643d30e7"
+  ]
+}

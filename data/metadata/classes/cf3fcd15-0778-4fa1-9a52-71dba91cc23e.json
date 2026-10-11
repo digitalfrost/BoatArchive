@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "entityId": "cf3fcd15-0778-4fa1-9a52-71dba91cc23e",
+  "kind": "classes",
+  "currentPath": "Sailboats/Aloes18",
+  "name": "Aloes18",
+  "metadata": null,
+  "slug": "e591c7fd-253c-44b3-bf6a-5510c36e7286",
+  "pathHistory": [
+    "Aloes18",
+    "Sailboats/Aloes18"
+  ],
+  "status": "present",
+  "assetIds": [
+    "05227423-e7e2-4c71-80b0-34303a254150",
+    "e7037814-d953-4110-8a8a-8d187e6b91bc",
+    "f764dde4-d249-4f30-a781-d6e125ecd770"
+  ]
+}

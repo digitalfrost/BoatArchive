@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "f7dc398c-f05e-4b13-9537-191956cf448f",
+  "contentHash": "51aa6e0699eb394ee2034bf641671b33e0d38bb79435a579cb925e3fd53a8945",
+  "currentPath": "Powerboats/20ft John Atkins skiff/john-atkins-20ft-skiff-005.jpg",
+  "originalFilename": "john-atkin-20ft-skiff-005.jpg",
+  "pathHistory": [
+    "Power Boats/20ft John Atkins skiff/john-atkin-20ft-skiff-005.jpg",
+    "Power Boats/20ft John Atkins skiff/john-atkins-20ft-skiff-005.jpg",
+    "Powerboats/20ft John Atkins skiff/john-atkins-20ft-skiff-005.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 101881,
+  "modifiedAt": "2025-06-13T04:38:24.584Z",
+  "classId": "083d5af9-898a-4862-a81e-1f3b2586c966",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

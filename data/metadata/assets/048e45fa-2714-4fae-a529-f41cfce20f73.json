@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "048e45fa-2714-4fae-a529-f41cfce20f73",
+  "contentHash": "326060d495e917716736a9e3403261ed2082f052922c413b13272dbfe26ce892",
+  "currentPath": "Sailboats/Sharpies/Chesapeake Bay Crabbing Skiff/2003 Chesapeake Bay Crabbing Skiff/Chesapeake Bay Crabbing Skiff, 2003.txt",
+  "originalFilename": "Chesapeake Bay Crabbing Skiff, 2003.txt",
+  "pathHistory": [
+    "Sharpies/Chesapeake Bay Crabbing Skiff/2003 Chesapeake Bay Crabbing Skiff/Chesapeake Bay Crabbing Skiff, 2003.txt",
+    "Sailboats/Sharpies/Chesapeake Bay Crabbing Skiff/2003 Chesapeake Bay Crabbing Skiff/Chesapeake Bay Crabbing Skiff, 2003.txt"
+  ],
+  "status": "present",
+  "sizeBytes": 388,
+  "modifiedAt": "2025-07-16T10:23:01.893Z",
+  "classId": "a20ca267-7174-443a-a146-45010499bb51",
+  "boatId": "c487b45c-caf0-45ce-9868-9d06450eb70b",
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

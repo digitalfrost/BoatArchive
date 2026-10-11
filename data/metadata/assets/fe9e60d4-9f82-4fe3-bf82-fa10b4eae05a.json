@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "fe9e60d4-9f82-4fe3-bf82-fa10b4eae05a",
+  "contentHash": "06ef45394393f9bc0aa4a66fae3bcbf56259d962fcc571cf581e501acfa9cfa7",
+  "currentPath": "Sailboats/Drascombes/Peterboats/peterboat-003.jpg",
+  "originalFilename": "peterboat-003.jpg",
+  "pathHistory": [
+    "Drascombes/Peterboats/peterboat-003.jpg",
+    "Sailboats/Drascombes/Peterboats/peterboat-003.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 24559,
+  "modifiedAt": "2025-10-23T15:23:30.355Z",
+  "classId": "f4077dfe-14f9-4f3b-8dea-d0f492e5181c",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "5cb76632-1d5d-41d4-8383-aafbe44ae66c",
+  "contentHash": "39f643bfa7fd4555fe94b6c5eb4eaea1216ec3316de058dd93474ab19d57b2c6",
+  "currentPath": "Sailboats/Hereshoff/Hereshoff Flutterby/hereshoff-flutterby-013.jpg",
+  "originalFilename": "seattle002.jpg",
+  "pathHistory": [
+    "Hereshoff/Hereshoff Flutterby/seattle002.jpg",
+    "Hereshoff/Hereshoff Flutterby/hereshoff-flutterby-013.jpg",
+    "Sailboats/Hereshoff/Hereshoff Flutterby/hereshoff-flutterby-013.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 556978,
+  "modifiedAt": "2025-07-17T15:53:21.718Z",
+  "classId": "d1ccd30c-a8eb-48b7-9374-1a9f8ef7b62a",
+  "boatId": "544b9b75-925d-4519-9876-967312ab71f7",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

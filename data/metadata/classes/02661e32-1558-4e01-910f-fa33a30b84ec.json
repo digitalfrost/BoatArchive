@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "entityId": "02661e32-1558-4e01-910f-fa33a30b84ec",
+  "kind": "classes",
+  "currentPath": "Sailboats/Celtic Longboat",
+  "name": "Celtic Longboat",
+  "metadata": null,
+  "slug": "celtic-longboat-fecec2fb7cbe",
+  "pathHistory": [
+    "Celtic Longboat",
+    "Sailboats/Celtic Longboat"
+  ],
+  "status": "present",
+  "assetIds": [
+    "b07b1f2c-e6b7-4214-8ff5-22d17fa36390",
+    "b0bdbc36-5979-4a4e-bff8-a2fc1bfc5426",
+    "b8b11aa4-beb4-4b61-b881-643846fccbfc",
+    "f37691b0-da19-4099-871f-9a931925669a"
+  ]
+}

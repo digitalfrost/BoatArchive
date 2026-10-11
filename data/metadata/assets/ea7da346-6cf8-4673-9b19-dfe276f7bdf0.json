@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "ea7da346-6cf8-4673-9b19-dfe276f7bdf0",
+  "contentHash": "f339b95b79b44708b406c3eb11e787f1231b2511831631910878c552553bfc42",
+  "currentPath": "Sailboats/Romilly/romilly-003.jpg",
+  "originalFilename": "romilly3.jpg",
+  "pathHistory": [
+    "Romilly/romilly3.jpg",
+    "Romilly/romilly-003.jpg",
+    "Sailboats/Romilly/romilly-003.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 268853,
+  "modifiedAt": "2025-06-01T06:53:15.012Z",
+  "classId": "25e40bfa-7c56-4048-9d10-5607fd91f6b9",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

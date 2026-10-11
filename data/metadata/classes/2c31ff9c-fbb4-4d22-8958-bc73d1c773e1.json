@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "entityId": "2c31ff9c-fbb4-4d22-8958-bc73d1c773e1",
+  "kind": "classes",
+  "currentPath": "Sailboats/Sharpies/28ft Sharpie",
+  "name": "28ft Sharpie",
+  "metadata": null,
+  "slug": "f6735e51-661d-411c-b9ac-75a9a8b08f2e",
+  "pathHistory": [
+    "Sailboats/Sharpies/28ft Sharpie"
+  ],
+  "status": "present",
+  "assetIds": [
+    "12e02852-3ff4-43b4-b739-ff720002c8ad",
+    "1c1bba67-10b1-4730-a0f9-9ac5dc29b799",
+    "7411ce46-8df0-4cf0-8bad-4d3c948c7f4d",
+    "a59991e9-3a5c-4cb0-a50c-4f7b9d321c1e",
+    "f8a0fbaf-c0a8-42c6-951c-7ba723dbbe68",
+    "ff4790d2-b122-41f2-9326-aa9922c907ee"
+  ]
+}

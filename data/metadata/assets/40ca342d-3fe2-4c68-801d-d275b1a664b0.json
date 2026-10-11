@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "40ca342d-3fe2-4c68-801d-d275b1a664b0",
+  "contentHash": "f2aeb45eb175adb02ed3c1b88b88724385ed44b8be047b02b2aa756497fa6887",
+  "currentPath": "Sailboats/Bettes Marseillaises/bette-007.webp",
+  "originalFilename": "bette-007.webp",
+  "pathHistory": [
+    "Bettes Marseillaises/bette-007.webp",
+    "Sailboats/Bettes Marseillaises/bette-007.webp"
+  ],
+  "status": "present",
+  "sizeBytes": 15504,
+  "modifiedAt": "2026-04-24T23:21:13.808Z",
+  "classId": null,
+  "boatId": null,
+  "metadata": "{\"format\":\"webp\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "unclassified",
+  "associationOverride": false
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "a575acf9-4905-4103-baa9-2fc03b433f7d",
+  "contentHash": "bb8c7a1f131324c63c27f9ef430756fc102e7cf66cfbd869ad6356c88a73ded4",
+  "currentPath": "Sailboats/Bettes Marseillaises/Negachi/negachi-001.jpg",
+  "originalFilename": "BILD0405.jpg",
+  "pathHistory": [
+    "Bettes Marseillaises/Negachi/BILD0405.jpg",
+    "Bettes Marseillaises/Negachi/negachi-001.jpg",
+    "Sailboats/Bettes Marseillaises/Negachi/negachi-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 644710,
+  "modifiedAt": "2026-04-30T13:22:41.078Z",
+  "classId": null,
+  "boatId": "fce83f61-319f-4753-aa4d-22672366f065",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

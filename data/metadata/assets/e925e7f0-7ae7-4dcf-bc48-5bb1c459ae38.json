@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "e925e7f0-7ae7-4dcf-bc48-5bb1c459ae38",
+  "contentHash": "e88cb804be358c7c719c0218c79fd2647dc263ae8c742d563b29a66ee4423ab4",
+  "currentPath": "Sailboats/Pointer 22/pointer22-interior-001.jpg",
+  "originalFilename": "pointer22-interior-001.jpg",
+  "pathHistory": [
+    "Pointer 22/pointer22-interior-001.jpg",
+    "Sailboats/Pointer 22/pointer22-interior-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 441768,
+  "modifiedAt": "2026-10-07T09:10:41.610Z",
+  "classId": "90e083f0-b692-4adf-ab29-eaf833e8e85e",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

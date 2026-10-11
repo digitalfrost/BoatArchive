@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "b47366e2-2b3f-4747-8b35-8a15af86834c",
+  "contentHash": "012d6aebd443f96d935989b969059460445d324aa2baf98a9cbed3da2848da6e",
+  "currentPath": "Sailboats/Spira Designs/Hatteras/HatterasStudy.pdf",
+  "originalFilename": "HatterasStudy.pdf",
+  "pathHistory": [
+    "Spira Designs/Hatteras/HatterasStudy.pdf",
+    "Sailboats/Spira Designs/Hatteras/HatterasStudy.pdf"
+  ],
+  "status": "present",
+  "sizeBytes": 72262,
+  "modifiedAt": "2024-06-01T08:24:48.934Z",
+  "classId": "0c50a30b-467c-4d3d-bdf3-7caa737328a6",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

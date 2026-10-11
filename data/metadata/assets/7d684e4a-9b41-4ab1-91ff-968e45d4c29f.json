@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "7d684e4a-9b41-4ab1-91ff-968e45d4c29f",
+  "contentHash": "27bd300d56ca0d1e61d4797240b366ffe3c86d9df8fa5b51846a44e6b1c7e2a6",
+  "currentPath": "Sailboats/Dories/Atlantic Dory/atlantic-dory-001.jpg",
+  "originalFilename": "atlantic-dory-001.jpg",
+  "pathHistory": [
+    "Dories/Atlantic Dory/atlantic-dory-001.jpg",
+    "Sailboats/Dories/Atlantic Dory/atlantic-dory-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 1107734,
+  "modifiedAt": "2026-05-01T14:47:59.038Z",
+  "classId": "7839d66b-62bc-4cf0-be5d-01c77ae9317b",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

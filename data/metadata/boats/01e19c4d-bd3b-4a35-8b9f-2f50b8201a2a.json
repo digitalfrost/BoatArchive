@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "entityId": "01e19c4d-bd3b-4a35-8b9f-2f50b8201a2a",
+  "kind": "boats",
+  "currentPath": "Sailboats/Sharpies/Egrets/Parker Egret/Grey Egret",
+  "name": "Grey Egret",
+  "metadata": null,
+  "classId": "be155d78-af4e-49e4-83ff-8a86cf4a8a02",
+  "sailNumber": null,
+  "pathHistory": [
+    "Sailboats/Sharpies/Egrets/Parker Egret/Grey Egret"
+  ],
+  "status": "present",
+  "assetIds": [
+    "0592fb82-581d-4250-85b4-2c03dd1fb88b",
+    "204caf60-4d62-4ef8-8c4a-26114bd4b56f",
+    "6c7602c2-3f8c-47e7-9223-1d350649ba7c",
+    "83066604-6fb2-4906-a552-a22148636141",
+    "9ddfa784-cfe9-4d04-9b45-a0ad66dd1ab4",
+    "c74817eb-2dac-464e-ba8d-734313689105",
+    "dc6732a1-b2f4-4115-bae6-252854d288c9",
+    "e000013b-acd8-4074-8e54-50ac7e73a833",
+    "fda67db2-bd53-409b-8aed-5542cd16bf76"
+  ]
+}

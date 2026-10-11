@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "entityId": "2db725fd-4df9-4401-87de-fb8417846f88",
+  "kind": "boats",
+  "currentPath": "Sailboats/Sharpies/Chapelle Sharpie",
+  "name": "Chapelle Sharpie",
+  "metadata": null,
+  "classId": "fef4abd1-397d-468e-9a56-f53797182d36",
+  "sailNumber": null,
+  "pathHistory": [
+    "Sharpies/Chapelle Sharpie",
+    "Sailboats/Sharpies/Chapelle Sharpie"
+  ],
+  "status": "missing",
+  "assetIds": []
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "4b718ded-2741-4389-b6a7-c2f16bc1ff07",
+  "assetRole": "standalone-reference",
+  "associationOverride": false,
+  "contentHash": "d88c23ddece4d18aaebb50822eb43b1de506c2bf5701c6a1cf62bf0ddc2ecde0",
+  "currentPath": "References/mast-partner-001.jpg",
+  "originalFilename": "mast-partner-001.jpg",
+  "pathHistory": [
+    "References/mast-partner-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 90396,
+  "modifiedAt": "2025-06-27T06:46:49.294Z",
+  "classId": null,
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [
+    "bf4e019d-8f37-4252-a58a-12714c991c28"
+  ],
+  "notes": ""
+}

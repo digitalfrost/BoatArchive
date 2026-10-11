@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "entityId": "5b680c64-19f2-40de-9b47-4bccc5acaa6b",
+  "kind": "classes",
+  "currentPath": "Sailboats/Atkins Shore Liner",
+  "name": "Atkins Shore Liner",
+  "metadata": null,
+  "slug": "atkins-shore-liner-3f04807bb866",
+  "pathHistory": [
+    "Atkins Shore Liner",
+    "Sailboats/Atkins Shore Liner"
+  ],
+  "status": "present",
+  "assetIds": [
+    "1327e9d3-e65f-49c8-b711-c9a895c96ccb",
+    "1f4ff099-77f9-400d-b5c6-24121529d814",
+    "2192e775-acf3-43bc-88b0-5530560d36ce",
+    "30a56d60-67ed-44ae-a191-41734fd6cdc8",
+    "4864f626-5c1d-43f1-94f2-bda297a269e9",
+    "50ddc4b4-260d-4adf-9ba2-8ff2487bb99e",
+    "8e9b5ec7-877f-4ef4-a86e-230df5dcae32",
+    "abf7374c-d8e8-4982-a7db-173496572b40",
+    "af0d3eed-0762-4505-b482-3f6e702204ba",
+    "b83cfdb7-6943-405a-9853-5a022d21f2c2",
+    "d1568123-bb16-46fb-9558-0fb0ad80197c",
+    "d79388ab-9469-4595-aaef-c964d8c0dea7",
+    "d83d7f8d-3c55-4313-b338-b413384ce168",
+    "eef0a8c2-33ae-4a74-aa68-b6b7d1ab0348"
+  ]
+}

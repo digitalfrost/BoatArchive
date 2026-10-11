@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "entityId": "a0929fb8-01c6-4c0e-9d6d-47d395b93eb8",
+  "kind": "classes",
+  "currentPath": "Sailboats/Phoenix 3",
+  "name": "Phoenix 3",
+  "metadata": null,
+  "slug": "phoenix-3-d1fc584420d4",
+  "pathHistory": [
+    "Phoenix 3",
+    "Sailboats/Phoenix 3"
+  ],
+  "status": "present",
+  "assetIds": [
+    "75e68fac-f761-4ce7-9149-71278ce1c8fb",
+    "eccec94e-8412-452e-9d3c-84e58c962dea"
+  ]
+}

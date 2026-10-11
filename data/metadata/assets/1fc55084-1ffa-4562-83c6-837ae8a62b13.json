@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "1fc55084-1ffa-4562-83c6-837ae8a62b13",
+  "contentHash": "4b975528da1fe53ad5a28014765636b8f2c3eb26bc029f3eb362adb19e47e8d8",
+  "currentPath": "Sailboats/Yole de Gironde/Rubis/rubis-001.jpg",
+  "originalFilename": "rubis-001.jpg",
+  "pathHistory": [
+    "Yole de Gironde/Rubis/rubis-001.jpg",
+    "Sailboats/Yole de Gironde/Rubis/rubis-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 361261,
+  "modifiedAt": "2026-10-09T21:52:28.340Z",
+  "classId": "41a9efb0-5574-459d-b503-39ab29fb04f3",
+  "boatId": "bfef1a74-047b-4759-9d69-7e63a0addf89",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

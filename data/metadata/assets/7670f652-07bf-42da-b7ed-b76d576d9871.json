@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "7670f652-07bf-42da-b7ed-b76d576d9871",
+  "contentHash": "5cfb4f4f61677d344e1042a271879019a54f9cde66a99ce15fcae24cd8db3e4e",
+  "currentPath": "Sailboats/Phil Bolger Designs/Ataraxia/ataraxia-005.jpg",
+  "originalFilename": "Ataraxia5.jpg",
+  "pathHistory": [
+    "Phil Bolger Designs/Ataraxia/Ataraxia5.jpg",
+    "Phil Bolger Designs/Ataraxia/ataraxia-005.jpg",
+    "Sailboats/Phil Bolger Designs/Ataraxia/ataraxia-005.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 260675,
+  "modifiedAt": "2025-10-23T18:01:39.130Z",
+  "classId": "a972fe1f-d5c9-47c9-8fcc-89e29a94dc2e",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

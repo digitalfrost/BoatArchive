@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "97226cbf-cfba-4703-aabc-9e987c79ead7",
+  "contentHash": "90b5c8827b0fc965f76346496844aaf7382ca402d61cadcbcfc7ff14b6739df3",
+  "currentPath": "Sailboats/Crotch Island Pinky/vingilotee-drone-001.jpg",
+  "originalFilename": "Vingilotee-droneshot-768x432.jpg",
+  "pathHistory": [
+    "Crotch Island Pinky/Vingilotee-droneshot-768x432.jpg",
+    "Crotch Island Pinky/vingilotee-drone-001.jpg",
+    "Sailboats/Crotch Island Pinky/vingilotee-drone-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 72504,
+  "modifiedAt": "2025-06-08T16:34:55.125Z",
+  "classId": "18cad3c5-a479-43c6-9209-05b44d84da23",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

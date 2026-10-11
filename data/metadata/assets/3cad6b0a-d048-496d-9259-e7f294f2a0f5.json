@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "3cad6b0a-d048-496d-9259-e7f294f2a0f5",
+  "contentHash": "f2d1631d74983db0e5d83dc078564553fa23e1ad47d6105f349b564834f1d680",
+  "currentPath": "Sailboats/Spira Designs/Chesapeake/ChesapekeStudy.pdf",
+  "originalFilename": "ChesapekeStudy.pdf",
+  "pathHistory": [
+    "Spira Designs/Chesapeake/ChesapekeStudy.pdf",
+    "Sailboats/Spira Designs/Chesapeake/ChesapekeStudy.pdf"
+  ],
+  "status": "present",
+  "sizeBytes": 75217,
+  "modifiedAt": "2024-06-01T14:56:37.916Z",
+  "classId": "dfcfefa8-7b84-4f03-81c4-ee5cf9bc0c32",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

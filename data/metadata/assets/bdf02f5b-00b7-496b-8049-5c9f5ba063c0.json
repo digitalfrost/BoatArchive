@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "bdf02f5b-00b7-496b-8049-5c9f5ba063c0",
+  "contentHash": "cef72dd291c471a93e9cee10e93a52f65ad11ed8f47b03eabb092aa57837c988",
+  "currentPath": "Powerboats/John Atkins 22' Ninigret/Ninigret3.txt",
+  "originalFilename": "Ninigret3.txt",
+  "pathHistory": [
+    "Power Boats/John Atkins 22' Ninigret/Ninigret3.txt",
+    "Powerboats/John Atkins 22' Ninigret/Ninigret3.txt"
+  ],
+  "status": "present",
+  "sizeBytes": 1735,
+  "modifiedAt": "2025-06-13T04:56:18.261Z",
+  "classId": "66f5eea1-5f5d-4450-959c-fcfa11b9b136",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

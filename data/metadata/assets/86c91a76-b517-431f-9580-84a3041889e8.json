@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "86c91a76-b517-431f-9580-84a3041889e8",
+  "contentHash": "756f75d40de1af4359e6094d123806f5861397c240f23481789cdca8f229f2a1",
+  "currentPath": "Sailboats/Lili 610/aloes-001.jpg",
+  "originalFilename": "aloes-001.jpg",
+  "pathHistory": [
+    "Lili 610/aloes-001.jpg",
+    "Sailboats/Lili 610/aloes-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 236721,
+  "modifiedAt": "2026-06-02T09:46:49.853Z",
+  "classId": "39123acd-2894-4959-8c91-712c9559a942",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

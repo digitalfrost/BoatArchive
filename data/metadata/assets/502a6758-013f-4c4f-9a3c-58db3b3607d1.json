@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "502a6758-013f-4c4f-9a3c-58db3b3607d1",
+  "contentHash": "8416e0e617a83ac371cc60f6308112d1e651c965085d75a2e0412695ee99f37e",
+  "currentPath": "Sailboats/Yole de Gironde/Baraka/baraka-002.jpg",
+  "originalFilename": "baraka-002.jpg",
+  "pathHistory": [
+    "Yole de Gironde/Baraka/baraka-002.jpg",
+    "Sailboats/Yole de Gironde/Baraka/baraka-002.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 485446,
+  "modifiedAt": "2026-10-09T22:05:00.964Z",
+  "classId": "41a9efb0-5574-459d-b503-39ab29fb04f3",
+  "boatId": "7a1e6991-6b68-4981-8eb1-02fb7d85fde2",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

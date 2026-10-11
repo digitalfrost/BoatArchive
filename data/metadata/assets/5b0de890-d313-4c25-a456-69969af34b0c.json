@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "5b0de890-d313-4c25-a456-69969af34b0c",
+  "contentHash": "a6ed105074f84d1a585ace453e1a6ddaa94e4d19d3752ff31c17d5d8005bbc2a",
+  "currentPath": "Sailboats/Bettes Marseillaises/Bette Noa/La_bette_Noa.txt",
+  "originalFilename": "La_bette_Noa.txt",
+  "pathHistory": [
+    "Bettes Marseillaises/Bette Noa/La_bette_Noa.txt",
+    "Sailboats/Bettes Marseillaises/Bette Noa/La_bette_Noa.txt"
+  ],
+  "status": "present",
+  "sizeBytes": 508,
+  "modifiedAt": "2026-04-24T08:34:23.343Z",
+  "classId": null,
+  "boatId": "5cb5bc11-f854-45d7-836d-ce13e268bde5",
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

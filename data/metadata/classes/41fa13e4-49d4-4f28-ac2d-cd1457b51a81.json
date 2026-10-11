@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "entityId": "41fa13e4-49d4-4f28-ac2d-cd1457b51a81",
+  "kind": "classes",
+  "currentPath": "Sailboats/Tiknot",
+  "name": "Tiknot",
+  "metadata": null,
+  "slug": "tiknot-91c065a778b8",
+  "pathHistory": [
+    "Tiknot",
+    "Sailboats/Tiknot"
+  ],
+  "status": "present",
+  "assetIds": [
+    "0556cd38-bc43-4985-b316-a2bea6fe9eee",
+    "4b2c3515-e746-4814-b7fd-ab52b840463f",
+    "4d8001b3-060b-482d-a2fa-5d12221e6d7c",
+    "5b215461-31a0-47e7-adbe-0d73d177d729",
+    "6f189746-ebaa-427b-93b5-529fcd2cc135",
+    "6f5e997a-6d4d-4ad6-a661-fbab71f22202",
+    "ce7edacf-797c-4c19-9ec5-0f77e4a55313"
+  ]
+}

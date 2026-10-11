@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "f96969dd-bff7-45b4-a673-81b572543381",
+  "contentHash": "815754c77aad27c218878493b7bf513ae642da360d62bb76f4ced52b7e259604",
+  "currentPath": "Sailboats/BayCruiser 21/baycruiser21.avif",
+  "originalFilename": "baycruiser21.avif",
+  "pathHistory": [
+    "BayCruiser 21/baycruiser21.avif",
+    "Sailboats/BayCruiser 21/baycruiser21.avif"
+  ],
+  "status": "present",
+  "sizeBytes": 29070,
+  "modifiedAt": "2025-10-23T23:24:06.804Z",
+  "classId": "1c8807d1-48bc-4eef-b727-11accab5f514",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

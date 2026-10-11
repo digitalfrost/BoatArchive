@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "e9c19a15-3d08-4e13-9860-8b0b1b8c61be",
+  "contentHash": "3b909429ec4987401937684329e7aa2606bb6d08b34cb6e7918612d0df774d2b",
+  "currentPath": "Sailboats/Pointer 22/pointer22-under-construction-002.jpg",
+  "originalFilename": "pointer22-under-construction-002.jpg",
+  "pathHistory": [
+    "Pointer 22/pointer22-under-construction-002.jpg",
+    "Sailboats/Pointer 22/pointer22-under-construction-002.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 951949,
+  "modifiedAt": "2026-10-07T09:14:01.640Z",
+  "classId": "90e083f0-b692-4adf-ab29-eaf833e8e85e",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

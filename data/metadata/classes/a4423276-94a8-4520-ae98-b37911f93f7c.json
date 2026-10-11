@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "entityId": "a4423276-94a8-4520-ae98-b37911f93f7c",
+  "kind": "classes",
+  "currentPath": "Sailboats/Dories/Youkoulili",
+  "name": "Youkoulili",
+  "metadata": null,
+  "slug": "youkoulili-a0f3e277e6ac",
+  "pathHistory": [
+    "Dories/Youkoulili",
+    "Sailboats/Dories/Youkoulili"
+  ],
+  "status": "present",
+  "assetIds": [
+    "0c48e959-9fc5-4dd5-a885-525a63d6ef75",
+    "388dbe23-b2b6-40fd-880b-481912f54676",
+    "ea16efc3-896e-48e2-b5d7-18e6b88f5391"
+  ]
+}

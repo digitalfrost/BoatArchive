@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "b8051b24-253a-4963-a9bf-1785004cab60",
+  "contentHash": "4d789d860aa82bfb20dd8efb3f0582b3000c9b1049f97cda690e0b3e694ef578",
+  "currentPath": "Sailboats/Patrick Balta Designs/Tocade/tocade-003.gif",
+  "originalFilename": "general.gif",
+  "pathHistory": [
+    "Patrick Balta Designs/Tocade/general.gif",
+    "Patrick Balta Designs/Tocade/tocade-003.gif",
+    "Sailboats/Patrick Balta Designs/Tocade/tocade-003.gif"
+  ],
+  "status": "present",
+  "sizeBytes": 79890,
+  "modifiedAt": "2026-04-30T09:37:28.422Z",
+  "classId": "f0ee4d13-10d2-4662-9731-bbff02b5db7b",
+  "boatId": null,
+  "metadata": "{\"format\":\"gif\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

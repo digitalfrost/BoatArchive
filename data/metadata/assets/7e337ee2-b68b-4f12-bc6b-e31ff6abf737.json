@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "7e337ee2-b68b-4f12-bc6b-e31ff6abf737",
+  "contentHash": "8b98bd1647c851b76a7fa3b61487fb5059ed7354dccc7054dd18f659f5329b26",
+  "currentPath": "Sailboats/Patrick Balta Designs/Jorky/details-divers-001.jpg",
+  "originalFilename": "Details divers.jpg",
+  "pathHistory": [
+    "Patrick Balta Designs/Jorky/Details divers.jpg",
+    "Patrick Balta Designs/Jorky/details-divers-001.jpg",
+    "Sailboats/Patrick Balta Designs/Jorky/details-divers-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 232161,
+  "modifiedAt": "2026-04-30T09:04:27.015Z",
+  "classId": "47edb82f-7be2-4636-9763-ffd364ecfc1d",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

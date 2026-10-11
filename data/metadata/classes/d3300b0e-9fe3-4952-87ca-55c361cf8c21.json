@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "entityId": "d3300b0e-9fe3-4952-87ca-55c361cf8c21",
+  "kind": "classes",
+  "currentPath": "Sailboats/Dories/Lowell 18ft Dory",
+  "name": "Lowell 18ft Dory",
+  "metadata": null,
+  "slug": "lowell-18ft-dory-7421d2188887",
+  "pathHistory": [
+    "Dories/Lowell 18ft Dory",
+    "Sailboats/Dories/Lowell 18ft Dory"
+  ],
+  "status": "present",
+  "assetIds": [
+    "65403133-d968-4bf5-adc9-1cdc4ceac212"
+  ]
+}

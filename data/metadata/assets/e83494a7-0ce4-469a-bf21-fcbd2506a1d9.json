@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "e83494a7-0ce4-469a-bf21-fcbd2506a1d9",
+  "contentHash": "3b4f1e35da5bd9aa19b675af8fabc8d33714ca015f015558dd18d3725a3bd7ea",
+  "currentPath": "Sailboats/Block Island Cow Horn/Curlew/curlew-stern-view-001.jpg",
+  "originalFilename": "curlew_stern_view.jpg",
+  "pathHistory": [
+    "Block Island Cow Horn/Curlew/curlew_stern_view.jpg",
+    "Block Island Cow Horn/Curlew/curlew-stern-view-001.jpg",
+    "Sailboats/Block Island Cow Horn/Curlew/curlew-stern-view-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 34790,
+  "modifiedAt": "2025-06-27T13:34:42.989Z",
+  "classId": "249706e2-9898-48bc-8476-a3bfc1c7bcad",
+  "boatId": "060b6818-2a1a-4210-abac-a9ff9df380a6",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

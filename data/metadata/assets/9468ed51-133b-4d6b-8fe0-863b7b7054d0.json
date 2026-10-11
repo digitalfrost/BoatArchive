@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "9468ed51-133b-4d6b-8fe0-863b7b7054d0",
+  "contentHash": "a10ae43f5fa2ee3b8b37d525b93bd41f34a9351eabe127933b6226d5bafcdcd6",
+  "currentPath": "Houseboats/2013 Classic Edwardian Steel/2013-classic-edwardian-steel-022.png",
+  "originalFilename": "4397432.png",
+  "pathHistory": [
+    "Houseboats/2013 Classic Edwardian Steel/4397432.png",
+    "Houseboats/2013 Classic Edwardian Steel/2013-classic-edwardian-steel-022.png"
+  ],
+  "status": "present",
+  "sizeBytes": 2164521,
+  "modifiedAt": "2026-05-02T08:46:50.891Z",
+  "classId": "a616708e-77e2-4950-a637-fce87393b8e3",
+  "boatId": null,
+  "metadata": "{\"format\":\"png\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

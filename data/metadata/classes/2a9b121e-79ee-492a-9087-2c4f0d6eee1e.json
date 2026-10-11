@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "entityId": "2a9b121e-79ee-492a-9087-2c4f0d6eee1e",
+  "kind": "classes",
+  "currentPath": "Sailboats/Dories/Swampscott Dory",
+  "name": "Swampscott Dory",
+  "metadata": null,
+  "slug": "swampscott-dory-5bb4fe2a59e5",
+  "pathHistory": [
+    "Dories/Swampscott Dory",
+    "Sailboats/Dories/Swampscott Dory"
+  ],
+  "status": "present",
+  "assetIds": [
+    "02250e1b-294c-459d-b0c7-c3b637586578",
+    "3e8150dc-5d09-47d6-92ab-d51d986df9c2",
+    "68a1af56-86a0-4e38-96a3-8937f47b28f7",
+    "71a22478-2ba0-4cf6-9dc3-27749febd99f",
+    "7a52c8ef-c0ae-49df-866a-710902c58e45",
+    "ad0a9180-c205-4f43-b6b9-1ec9e176f14b",
+    "beb969fd-68e7-4901-981b-379df85f5fca",
+    "beef6d89-10df-4f6a-9529-2cc668fe784f",
+    "bf29898d-6d7e-46d4-a6af-ea198e412e47",
+    "c13f22a3-19fd-4f7a-a659-99499f3fadc7",
+    "c3649fd8-1a22-426f-9d0a-e873956ac727",
+    "c531393e-1bde-4e17-8ee0-503e1b506e7e",
+    "c54ecda3-d2e6-423a-ba9b-31bc16262a2d",
+    "cc6babba-6d81-4da1-9bdb-75f815d0c578",
+    "db868746-96b2-4ce2-86eb-eeeccb6fab34",
+    "e8537d52-905d-4247-9bde-cfaf7aaf1290",
+    "f9d7ccfa-1813-4f51-9043-af426a85e8c0"
+  ]
+}

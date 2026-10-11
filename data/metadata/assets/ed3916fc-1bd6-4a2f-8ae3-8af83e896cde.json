@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "ed3916fc-1bd6-4a2f-8ae3-8af83e896cde",
+  "contentHash": "7d14c53fefd9d08bbacb60b5887012a31119690c62e35431f43c54a6029a9beb",
+  "currentPath": "Sailboats/Drascombes/Peterboats/6m Peterboat/6m-peterboat-completed.jpg",
+  "originalFilename": "6m-peterboat-completed.jpg",
+  "pathHistory": [
+    "Drascombes/Peterboats/6m Peterboat/6m-peterboat-completed.jpg",
+    "Sailboats/Drascombes/Peterboats/6m Peterboat/6m-peterboat-completed.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 66501,
+  "modifiedAt": "2025-10-23T15:23:06.972Z",
+  "classId": "f4077dfe-14f9-4f3b-8dea-d0f492e5181c",
+  "boatId": "fa371c28-12ec-4116-9633-bbe017603d36",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

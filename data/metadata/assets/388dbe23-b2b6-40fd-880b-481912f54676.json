@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "388dbe23-b2b6-40fd-880b-481912f54676",
+  "contentHash": "447493f2e93382138727e6fb951fdfe2c168474d1ac701559e36b1fe72f0003e",
+  "currentPath": "Sailboats/Dories/Youkoulili/youkou-lili-001.jpg",
+  "originalFilename": "youkou-lili 09.jpg",
+  "pathHistory": [
+    "Dories/Youkoulili/youkou-lili 09.jpg",
+    "Dories/Youkoulili/youkou-lili-001.jpg",
+    "Sailboats/Dories/Youkoulili/youkou-lili-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 112306,
+  "modifiedAt": "2026-03-27T14:48:27.712Z",
+  "classId": "a4423276-94a8-4520-ae98-b37911f93f7c",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

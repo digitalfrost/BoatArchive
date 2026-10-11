@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "726d76b5-3602-42ff-bcd0-76f5171b9d96",
+  "contentHash": "a5339fdee72e1db37dfd6b1f33160b609519c83800a6b27d6dd2dd303db738d8",
+  "currentPath": "Sailboats/Spira Designs/Hatteras/HatterasMetricStudy.pdf",
+  "originalFilename": "HatterasMetricStudy.pdf",
+  "pathHistory": [
+    "Spira Designs/Hatteras/HatterasMetricStudy.pdf",
+    "Sailboats/Spira Designs/Hatteras/HatterasMetricStudy.pdf"
+  ],
+  "status": "present",
+  "sizeBytes": 70693,
+  "modifiedAt": "2024-06-01T08:23:36.293Z",
+  "classId": "0c50a30b-467c-4d3d-bdf3-7caa737328a6",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "9b969af5-cd6e-469b-a4e1-82cc4fc96e2c",
+  "contentHash": "b5f2d12b2589f28ce18d613d7f3f4aedccd7ba33985af0969e4168d4f4b5b153",
+  "currentPath": "Sailboats/110/110-004.avif",
+  "originalFilename": "110-004.avif",
+  "pathHistory": [
+    "110/110-004.avif",
+    "Sailboats/110/110-004.avif"
+  ],
+  "status": "present",
+  "sizeBytes": 34751,
+  "modifiedAt": "2026-10-06T21:25:59.521Z",
+  "classId": "5e6965d8-604c-4482-80bb-292827f07094",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

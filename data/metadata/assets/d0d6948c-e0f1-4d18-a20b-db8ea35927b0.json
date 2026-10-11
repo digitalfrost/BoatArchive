@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "d0d6948c-e0f1-4d18-a20b-db8ea35927b0",
+  "contentHash": "af8433b46c95514fec82fcf0e6728a37bc88b2388967aeee674dbeddac7ec3e0",
+  "currentPath": "Sailboats/Blue Moon Yawl/blue-moon-yawl-016.jpg",
+  "originalFilename": "65598_3168_2621_lg_01.jpg",
+  "pathHistory": [
+    "Blue Moon Yawl/65598_3168_2621_lg_01.jpg",
+    "Blue Moon Yawl/blue-moon-yawl-016.jpg",
+    "Sailboats/Blue Moon Yawl/blue-moon-yawl-016.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 51853,
+  "modifiedAt": "2025-07-14T11:54:22.304Z",
+  "classId": "266737d4-b98b-47c0-8340-2db878c02333",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

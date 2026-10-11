@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "60aba6c4-0d47-4719-9b0e-4b304541e719",
+  "contentHash": "4e928d692b5a87df8ba4597e5be0148dde94b00e631e1363f3b90d1d05e1ab4c",
+  "currentPath": "Sailboats/Patrick Balta Designs/Gorfu/gorfu-018.jpg",
+  "originalFilename": "17.jpg",
+  "pathHistory": [
+    "Patrick Balta Designs/Gorfu/17.jpg",
+    "Patrick Balta Designs/Gorfu/gorfu-018.jpg",
+    "Sailboats/Patrick Balta Designs/Gorfu/gorfu-018.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 25192,
+  "modifiedAt": "2026-04-30T09:12:09.393Z",
+  "classId": "647a0a37-01fa-4efb-ba7d-730f98f6b631",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

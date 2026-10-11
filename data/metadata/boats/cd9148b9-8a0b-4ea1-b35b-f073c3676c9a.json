@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "entityId": "cd9148b9-8a0b-4ea1-b35b-f073c3676c9a",
+  "kind": "boats",
+  "currentPath": "Sailboats/Dories/Deblois Street Dory/Red Deblois Street Dory",
+  "name": "Red Deblois Street Dory",
+  "metadata": null,
+  "classId": "74c1a37b-2232-4af9-8b7c-4a15124ca51f",
+  "sailNumber": null,
+  "pathHistory": [
+    "Dories/Deblois Street Dory/Red Deblois Street Dory",
+    "Sailboats/Dories/Deblois Street Dory/Red Deblois Street Dory"
+  ],
+  "status": "present",
+  "assetIds": [
+    "45a27c17-24c3-44e0-896e-47e832d8cdbc",
+    "476b5610-80db-4809-8f74-4bef39b6b9b8",
+    "f38aa2ce-5fbe-4200-b0f8-a775b11b9727"
+  ]
+}

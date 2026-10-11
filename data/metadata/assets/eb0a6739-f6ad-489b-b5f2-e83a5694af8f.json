@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "assetId": "eb0a6739-f6ad-489b-b5f2-e83a5694af8f",
+  "contentHash": "4ff390857fdbe61b94c991c0cef2ff4f48ef060de3bcd4900a029a266701a865",
+  "currentPath": "Sailboats/Patrick Balta Designs/Tangara/tangara-012.jpg",
+  "originalFilename": "c037.jpg",
+  "pathHistory": [
+    "Patrick Balta Designs/Tangara/c037.jpg",
+    "Patrick Balta Designs/Tangara/c037-001.jpg",
+    "Patrick Balta Designs/Tangara/tangara-012.jpg",
+    "Sailboats/Patrick Balta Designs/Tangara/tangara-012.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 46683,
+  "modifiedAt": "2026-04-30T09:19:15.590Z",
+  "classId": "5b5ac7f4-df93-4665-a918-d088b6b127a0",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

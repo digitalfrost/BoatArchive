@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "6e048e5a-7492-4eb5-aa1d-7e063d14a47c",
+  "contentHash": "77033595eb7222e88e99d8240cc957f25ed1771349738f732c4b7e9355b9eaf2",
+  "currentPath": "Sailboats/KBane 710/Lou Galip/lou-galip.pdf",
+  "originalFilename": "lou-galip.pdf",
+  "pathHistory": [
+    "KBane 710/Lou Galip/lou-galip.pdf",
+    "Sailboats/KBane 710/Lou Galip/lou-galip.pdf"
+  ],
+  "status": "present",
+  "sizeBytes": 699819,
+  "modifiedAt": "2025-11-26T10:39:45.865Z",
+  "classId": "0dba06a2-72e4-47b5-ad4a-8a6d43a7a7e9",
+  "boatId": "ebda3268-43f8-424d-9273-cc29eda7d697",
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "3738b678-115d-4213-91b8-cb9620e4748a",
+  "contentHash": "5e721be324e1a433c812ed0cedeb1ad219d4b7cc16137417d47a11afec705b7d",
+  "currentPath": "Sailboats/BayCruiser 21/bc21-002.jpg",
+  "originalFilename": "BC21-image10-1024x640.jpg",
+  "pathHistory": [
+    "BayCruiser 21/BC21-image10-1024x640.jpg",
+    "BayCruiser 21/bc21-002.jpg",
+    "Sailboats/BayCruiser 21/bc21-002.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 76508,
+  "modifiedAt": "2026-10-07T17:08:34.613Z",
+  "classId": "1c8807d1-48bc-4eef-b727-11accab5f514",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "entityId": "5cb5bc11-f854-45d7-836d-ce13e268bde5",
+  "kind": "boats",
+  "currentPath": "Sailboats/Bettes Marseillaises/Bette Noa",
+  "name": "Bette Noa",
+  "metadata": null,
+  "classId": null,
+  "sailNumber": null,
+  "pathHistory": [
+    "Bettes Marseillaises/Bette Noa",
+    "Sailboats/Bettes Marseillaises/Bette Noa"
+  ],
+  "status": "present",
+  "assetIds": [
+    "5b0de890-d313-4c25-a456-69969af34b0c",
+    "feb4ef5a-fee1-4aa7-8b8a-e96bfe470aa3"
+  ]
+}

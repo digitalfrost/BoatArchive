@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "c1cf7163-0da2-4959-94fd-bd0a5602075d",
+  "contentHash": "cd8add3958dcbb22745b61fc599dabdff9f6bdb407ca333138fce0fe5bf45534",
+  "currentPath": "Sailboats/Drascombes/Peterboats/Flush deck/flush-deck-peterboat-004.jpg",
+  "originalFilename": "2013_peterboats_18_gr-1024x888.jpg",
+  "pathHistory": [
+    "Drascombes/Peterboats/Flush deck/2013_peterboats_18_gr-1024x888.jpg",
+    "Drascombes/Peterboats/Flush deck/flush-deck-peterboat-004.jpg",
+    "Sailboats/Drascombes/Peterboats/Flush deck/flush-deck-peterboat-004.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 289185,
+  "modifiedAt": "2025-10-22T07:07:14.979Z",
+  "classId": "f4077dfe-14f9-4f3b-8dea-d0f492e5181c",
+  "boatId": "2ab0859d-425d-4985-9158-7953593f933e",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

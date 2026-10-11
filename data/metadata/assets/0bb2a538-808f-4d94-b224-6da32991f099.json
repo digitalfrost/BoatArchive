@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "0bb2a538-808f-4d94-b224-6da32991f099",
+  "contentHash": "611a3cff1b6131f1cc3eaf8b5b0c35fdf6ca79e57a866622de5f9962f639c462",
+  "currentPath": "Sailboats/Dories/Lowell 19ft Dory/good-bones-001.jpg",
+  "originalFilename": "good-bones-1536x1152.jpg",
+  "pathHistory": [
+    "Dories/Lowell 19ft Dory/good-bones-1536x1152.jpg",
+    "Dories/Lowell 19ft Dory/good-bones-001.jpg",
+    "Sailboats/Dories/Lowell 19ft Dory/good-bones-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 258918,
+  "modifiedAt": "2025-10-18T22:08:40.210Z",
+  "classId": "8f4f9f91-9eb0-4a79-983c-064b85b365ee",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

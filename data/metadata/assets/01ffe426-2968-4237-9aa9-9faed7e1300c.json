@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "01ffe426-2968-4237-9aa9-9faed7e1300c",
+  "contentHash": "4de52e006e39ecd2b2623d6b8d18a873a23456f5600acc1fbcadb56d66ba3b60",
+  "currentPath": "Sailboats/Merry Weather/merryweather-001.png",
+  "originalFilename": "merryweather.png",
+  "pathHistory": [
+    "Merry Weather/merryweather.png",
+    "Merry Weather/merryweather-001.png",
+    "Sailboats/Merry Weather/merryweather-001.png"
+  ],
+  "status": "present",
+  "sizeBytes": 11338,
+  "modifiedAt": "2025-10-23T21:26:24.520Z",
+  "classId": "e231b997-cca7-4a09-9b94-e3dea27bccab",
+  "boatId": null,
+  "metadata": "{\"format\":\"png\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

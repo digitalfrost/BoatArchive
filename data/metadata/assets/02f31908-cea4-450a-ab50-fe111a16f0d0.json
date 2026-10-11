@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "02f31908-cea4-450a-ab50-fe111a16f0d0",
+  "contentHash": "8f5516c9385fc046012bf2bef460d6f13e53a879f89e6a2d72fadc7dd40bbdf6",
+  "currentPath": "Sailboats/Dories/_albums/Dory Racing New England/dory-001.jpg",
+  "originalFilename": "dory-001.jpg",
+  "pathHistory": [
+    "Dories/_albums/Dory Racing New England/dory-001.jpg",
+    "Sailboats/Dories/_albums/Dory Racing New England/dory-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 105989,
+  "modifiedAt": "2025-07-14T13:41:17.292Z",
+  "classId": null,
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "unclassified",
+  "associationOverride": false
+}

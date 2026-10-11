@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "06da1c94-640e-4fdf-b7f2-ca19a189ad1e",
+  "contentHash": "bef1a60e2e29faf7aabcda425d480a6ba10b0419b9203ee3ff1ed0dac1a80566",
+  "currentPath": "Sailboats/Nola Darling 770/A vendre Nola Darling, él70 égant d.txt",
+  "originalFilename": "A vendre Nola Darling, él70 égant d.txt",
+  "pathHistory": [
+    "Nola Darling 770/A vendre Nola Darling, él70 égant d.txt",
+    "Sailboats/Nola Darling 770/A vendre Nola Darling, él70 égant d.txt"
+  ],
+  "status": "present",
+  "sizeBytes": 2110,
+  "modifiedAt": "2025-11-26T11:03:19.617Z",
+  "classId": "45810ae6-714b-4a3d-926a-3581238e6568",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "entityId": "a20ca267-7174-443a-a146-45010499bb51",
+  "kind": "classes",
+  "currentPath": "Sailboats/Sharpies/Chesapeake Bay Crabbing Skiff",
+  "name": "Chesapeake Bay Crabbing Skiff",
+  "metadata": null,
+  "slug": "118b4610-942b-40b6-a973-3a76f2fdf34f",
+  "pathHistory": [
+    "Sailboats/Sharpies/Chesapeake Bay Crabbing Skiff"
+  ],
+  "status": "present",
+  "assetIds": [
+    "048e45fa-2714-4fae-a529-f41cfce20f73",
+    "0f241dc1-4db5-439b-af86-b73b1ba9a340",
+    "3d659d19-1aae-4a66-b214-17ada81e73a2",
+    "68a71508-f265-40dc-bcf3-815e620838d6",
+    "70de2e48-8703-41b2-9556-dd6e0b894780",
+    "76eeecc5-3d41-4e48-9320-b03fb15cfb0c",
+    "d4cf8c9a-b7cb-44f7-8a6d-17f5027d3860",
+    "ff4caddf-56ff-4181-8711-f36b771e09bb"
+  ]
+}

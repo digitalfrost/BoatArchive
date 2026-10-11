@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "c8d029f1-5988-446f-b39d-681b136cb8cc",
+  "contentHash": "a58e1ce9146673637e2e1c95f3b765cb15a7aad9b03a644e9ba1ef3cf0e28461",
+  "currentPath": "Sailboats/Sharpies/Sharp End 900/sharpie_woodenboat.pdf",
+  "originalFilename": "sharpie_woodenboat.pdf",
+  "pathHistory": [
+    "Sharpies/Sharp End 900/sharpie_woodenboat.pdf",
+    "Sailboats/Sharpies/Sharp End 900/sharpie_woodenboat.pdf"
+  ],
+  "status": "present",
+  "sizeBytes": 1086175,
+  "modifiedAt": "2025-07-10T20:40:28.143Z",
+  "classId": "fef4abd1-397d-468e-9a56-f53797182d36",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

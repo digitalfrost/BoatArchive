@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "entityId": "8b8d533d-c524-484d-acfc-027374e6f200",
+  "kind": "classes",
+  "currentPath": "Sailboats/Sharpies/Milford 20",
+  "name": "Milford 20",
+  "metadata": null,
+  "slug": "091da446-2eb2-4f18-916e-5bead2d805ff",
+  "pathHistory": [
+    "Sailboats/Sharpies/Milford 20"
+  ],
+  "status": "present",
+  "assetIds": [
+    "855ead6c-aa5d-443a-aef0-a5fd76eea3d0",
+    "b88b8ad7-f3e5-4765-a895-2d8f83d4ed9f",
+    "fbc336a4-5d78-48c8-a55d-b3e448c0ad35"
+  ]
+}

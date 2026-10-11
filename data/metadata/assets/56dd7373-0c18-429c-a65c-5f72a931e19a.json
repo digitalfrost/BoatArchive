@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "56dd7373-0c18-429c-a65c-5f72a931e19a",
+  "contentHash": "c763ce59d77d742b652cd6b4005c4a0d1322c24501a9a765549a00fe27e126fb",
+  "currentPath": "Sailboats/Bettes Marseillaises/Bella Latina/bella-latina-005.jpg",
+  "originalFilename": "P1030572-copie-768x576.jpg",
+  "pathHistory": [
+    "Bettes Marseillaises/Bella Latina/P1030572-copie-768x576.jpg",
+    "Bettes Marseillaises/Bella Latina/bella-latina-005.jpg",
+    "Sailboats/Bettes Marseillaises/Bella Latina/bella-latina-005.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 90198,
+  "modifiedAt": "2026-10-07T09:51:09.886Z",
+  "classId": null,
+  "boatId": "19d2fbc4-b3ce-4674-ba1d-021565818208",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

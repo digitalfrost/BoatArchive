@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "c74817eb-2dac-464e-ba8d-734313689105",
+  "contentHash": "a9b5544ee5a93a02c34d492d032dfc217cf7eb9f80ecab2448e11b6f264d2cbc",
+  "currentPath": "Sailboats/Sharpies/Egrets/Parker Egret/Grey Egret/Sharpie.txt.txt",
+  "originalFilename": "Sharpie.txt.txt",
+  "pathHistory": [
+    "Sharpies/Egrets/Parker Egret/Grey Egret/Sharpie.txt.txt",
+    "Sailboats/Sharpies/Egrets/Parker Egret/Grey Egret/Sharpie.txt.txt"
+  ],
+  "status": "present",
+  "sizeBytes": 1591,
+  "modifiedAt": "2025-05-30T20:04:32.476Z",
+  "classId": "be155d78-af4e-49e4-83ff-8a86cf4a8a02",
+  "boatId": "01e19c4d-bd3b-4a35-8b9f-2f50b8201a2a",
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

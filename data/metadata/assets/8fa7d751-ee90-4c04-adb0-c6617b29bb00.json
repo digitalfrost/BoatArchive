@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "8fa7d751-ee90-4c04-adb0-c6617b29bb00",
+  "contentHash": "736d4eb174e065279852b2e7b53c7911f66ef9b8c1ed40c5c04eb444ccfdf987",
+  "currentPath": "Sailboats/Dories/Crawford Dory/unnamed.jpg",
+  "originalFilename": "unnamed.jpg",
+  "pathHistory": [
+    "Dories/Crawford Dory/unnamed.jpg",
+    "Sailboats/Dories/Crawford Dory/unnamed.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 39827,
+  "modifiedAt": "2024-07-17T17:25:48.122Z",
+  "classId": "7d393214-4e0a-4760-a5f8-94781d582ae0",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

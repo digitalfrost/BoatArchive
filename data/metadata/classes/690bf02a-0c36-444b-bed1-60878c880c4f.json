@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "entityId": "690bf02a-0c36-444b-bed1-60878c880c4f",
+  "kind": "classes",
+  "currentPath": "Sailboats/Dories/Mower Dory",
+  "name": "Mower Dory",
+  "metadata": null,
+  "slug": "mower-dory-c1afa54fdd62",
+  "pathHistory": [
+    "Dories/Mower Dory",
+    "Sailboats/Dories/Mower Dory"
+  ],
+  "status": "present",
+  "assetIds": [
+    "2517ae0d-d9a6-49e6-9632-bcb97d5a6803"
+  ]
+}

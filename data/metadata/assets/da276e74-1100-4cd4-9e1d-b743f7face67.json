@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "da276e74-1100-4cd4-9e1d-b743f7face67",
+  "contentHash": "0d4647cfabbba17c0d6fe18709a356d645ea7a6ed43d7a32b2ad4a0303bbe6c7",
+  "currentPath": "Sailboats/Spira Designs/Marsh Rat Duck Hunting Boat/marsh-rat-002.jpg",
+  "originalFilename": "slide_mars03.jpg",
+  "pathHistory": [
+    "Spira Designs/Marsh Rat Duck Hunting Boat/slide_mars03.jpg",
+    "Spira Designs/Marsh Rat Duck Hunting Boat/marsh-rat-002.jpg",
+    "Sailboats/Spira Designs/Marsh Rat Duck Hunting Boat/marsh-rat-002.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 56736,
+  "modifiedAt": "2024-06-01T14:36:11.388Z",
+  "classId": "50929a1d-6e29-4814-862a-7fb66d312b5a",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

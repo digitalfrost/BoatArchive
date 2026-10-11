@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "entityId": "632b78d1-4b36-427f-b9c7-1f1ea3697bfd",
+  "kind": "classes",
+  "currentPath": "Sailboats/Dories/Unidentified Dory 3",
+  "name": "Unidentified Dory 3",
+  "metadata": null,
+  "slug": "unidentified-dory-3-8fb5da7f7995",
+  "pathHistory": [
+    "Dories/Unidentified Dory 3",
+    "Sailboats/Dories/Unidentified Dory 3"
+  ],
+  "status": "present",
+  "assetIds": [
+    "1fa365a9-506d-44b1-a038-01abe631dfc2",
+    "b852e9b0-f37a-4ba7-b8be-bc69daa1a0be"
+  ]
+}

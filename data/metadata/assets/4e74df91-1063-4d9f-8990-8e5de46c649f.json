@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "assetId": "4e74df91-1063-4d9f-8990-8e5de46c649f",
+  "contentHash": "b163e80536d944d8bf454c3e6560de5afa52d22721f7857a45902428e020e4eb",
+  "currentPath": "Sailboats/Gaffers/Heard Tosher 18/heard-tosher-18-001.jpg",
+  "originalFilename": "c1b5d7707c264676a01326fd34f5c95a1d6c72b5bc8b4a01a035cd35d7d16060.jpg",
+  "pathHistory": [
+    "Heard Tosher 18/c1b5d7707c264676a01326fd34f5c95a1d6c72b5bc8b4a01a035cd35d7d16060.jpg",
+    "Heard Tosher 18/heard-tosher-18-001.jpg",
+    "Sailboats/Heard Tosher 18/heard-tosher-18-001.jpg",
+    "Sailboats/Gaffers/Heard Tosher 18/heard-tosher-18-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 419386,
+  "modifiedAt": "2025-06-02T19:49:49.864Z",
+  "classId": "965b330b-153d-428b-952b-233ce2b038bf",
+  "boatId": null,
+  "metadata": "{\"format\":\"webp\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

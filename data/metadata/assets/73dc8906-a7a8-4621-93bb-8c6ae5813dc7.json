@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "73dc8906-a7a8-4621-93bb-8c6ae5813dc7",
+  "contentHash": "b82343fb735e6adf3b82b890944471ba8479038bf6680ccc265f2e4b04008ade",
+  "currentPath": "Sailboats/Crotch Island Pinky/crotch-island-pinky-001.jpg",
+  "originalFilename": "3263039357_5bf81019dc_b.jpg",
+  "pathHistory": [
+    "Crotch Island Pinky/3263039357_5bf81019dc_b.jpg",
+    "Crotch Island Pinky/crotch-island-pinky-001.jpg",
+    "Sailboats/Crotch Island Pinky/crotch-island-pinky-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 234472,
+  "modifiedAt": "2025-06-08T16:38:37.966Z",
+  "classId": "18cad3c5-a479-43c6-9209-05b44d84da23",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

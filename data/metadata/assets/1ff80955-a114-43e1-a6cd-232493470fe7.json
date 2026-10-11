@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "1ff80955-a114-43e1-a6cd-232493470fe7",
+  "contentHash": "690531d8f1921f6c3657006d321a20d09fe3a8c37bbda8e0e7700dcbeef614bf",
+  "currentPath": "Sailboats/Dories/Gloucester Sailing Dory/1891-gloucester-sailing-dory-001.jpg",
+  "originalFilename": "1891 Gloucester Sailing Dory_1.jpg",
+  "pathHistory": [
+    "Dories/Gloucester Sailing Dory/1891 Gloucester Sailing Dory_1.jpg",
+    "Dories/Gloucester Sailing Dory/1891-gloucester-sailing-dory-001.jpg",
+    "Sailboats/Dories/Gloucester Sailing Dory/1891-gloucester-sailing-dory-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 69744,
+  "modifiedAt": "2025-10-29T14:15:16.444Z",
+  "classId": "52d16049-aacc-48f9-a537-5e6601711ef9",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

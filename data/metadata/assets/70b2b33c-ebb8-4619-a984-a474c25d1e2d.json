@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "70b2b33c-ebb8-4619-a984-a474c25d1e2d",
+  "contentHash": "5bbac607f4a6dc0e89d3e7b498602830a9fa587936a5d8cbd427617f91b36a3b",
+  "currentPath": "Sailboats/Bettes Marseillaises/_albums/Historical Photos/pecheurs-de-muges-001.jpg",
+  "originalFilename": "Pecheurs-de-muges-1200.jpg",
+  "pathHistory": [
+    "Bettes Marseillaises/_albums/Historical Photos/Pecheurs-de-muges-1200.jpg",
+    "Bettes Marseillaises/_albums/Historical Photos/pecheurs-de-muges-001.jpg",
+    "Sailboats/Bettes Marseillaises/_albums/Historical Photos/pecheurs-de-muges-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 130028,
+  "modifiedAt": "2026-04-24T21:38:01.624Z",
+  "classId": null,
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "unclassified",
+  "associationOverride": false
+}

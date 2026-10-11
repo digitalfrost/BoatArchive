@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "entityId": "8bcc62b5-609f-4e87-85e8-eb7980700a02",
+  "kind": "boats",
+  "currentPath": "Sailboats/Peter Culler Otter/Otter 2",
+  "name": "Otter 2",
+  "metadata": null,
+  "classId": "2387e926-6032-46b8-a06f-ec36d147bbe8",
+  "sailNumber": null,
+  "pathHistory": [
+    "Peter Culler Otter/Otter 2",
+    "Sailboats/Peter Culler Otter/Otter 2"
+  ],
+  "status": "present",
+  "assetIds": [
+    "3ce6fcb6-4a67-4ec8-81ea-c8abafcd04cf",
+    "747ad49a-b725-46bd-a51a-26accfa44184",
+    "e21679f1-b252-443e-8080-c5c5d06de371",
+    "fa0d42e7-3130-405d-a5e4-21afdb7d0a51"
+  ]
+}

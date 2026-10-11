@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "9627ffcd-594e-47e5-8927-c11ddefe2164",
+  "contentHash": "0c397e0a52b891d06a3453a118403ebecf84860008743b4fddf86d7bcdc5d7d2",
+  "currentPath": "Sailboats/Dories/Lunenburg Dory/lunenburg-dory-010.jpg",
+  "originalFilename": "6006402058_8c3647d79e_b.jpg",
+  "pathHistory": [
+    "Dories/Lunenburg Dory/6006402058_8c3647d79e_b.jpg",
+    "Dories/Lunenburg Dory/lunenburg-dory-010.jpg",
+    "Sailboats/Dories/Lunenburg Dory/lunenburg-dory-010.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 172206,
+  "modifiedAt": "2025-06-08T20:30:58.232Z",
+  "classId": "1aa62562-c103-40e5-9780-654d1e4227a5",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

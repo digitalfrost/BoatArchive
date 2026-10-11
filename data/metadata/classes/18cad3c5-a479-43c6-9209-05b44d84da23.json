@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "entityId": "18cad3c5-a479-43c6-9209-05b44d84da23",
+  "kind": "classes",
+  "currentPath": "Sailboats/Crotch Island Pinky",
+  "name": "Crotch Island Pinky",
+  "metadata": null,
+  "slug": "crotch-island-pinky-f42982ae9e32",
+  "pathHistory": [
+    "Crotch Island Pinky",
+    "Sailboats/Crotch Island Pinky"
+  ],
+  "status": "present",
+  "assetIds": [
+    "475e1f26-6a8d-4eb0-b4bd-a79fc68604ab",
+    "4af3f677-b526-4a54-909c-ff75155bba11",
+    "559164e4-d293-47a6-8637-d58dab980d63",
+    "73dc8906-a7a8-4621-93bb-8c6ae5813dc7",
+    "97226cbf-cfba-4703-aabc-9e987c79ead7",
+    "a06af7f2-0984-4976-a4a9-fe28a9e791bf",
+    "d0c5cb5b-731e-42b8-8ae5-2364c53d2feb",
+    "ebf9e417-f57c-4647-9675-6c3c5eff35d8",
+    "f1956d44-2de1-433d-b5dd-b43e04c65f5f",
+    "fecd0666-18bb-4e6b-a8a6-0e4c43c06207"
+  ]
+}

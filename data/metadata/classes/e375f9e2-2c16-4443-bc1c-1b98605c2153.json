@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "entityId": "e375f9e2-2c16-4443-bc1c-1b98605c2153",
+  "kind": "classes",
+  "currentPath": "Sailboats/Battelku",
+  "name": "Battelku",
+  "metadata": null,
+  "slug": "battelku-a8689f92b854",
+  "pathHistory": [
+    "Battelku",
+    "Sailboats/Battelku"
+  ],
+  "status": "present",
+  "assetIds": [
+    "0826e64d-9b51-449b-91c2-70cc018a56e6",
+    "1c285bff-cdb4-4c95-88bd-53757285962d",
+    "1c8165eb-0e60-4ff8-a6b9-6a06c8bf568a",
+    "704da5da-907c-4b82-b290-e15688aa13d7",
+    "f043d348-7ed5-47a1-9752-bc8b5a1a18f8"
+  ]
+}

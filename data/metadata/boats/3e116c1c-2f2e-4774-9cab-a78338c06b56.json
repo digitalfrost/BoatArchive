@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "entityId": "3e116c1c-2f2e-4774-9cab-a78338c06b56",
+  "kind": "boats",
+  "currentPath": "Sailboats/Gaffers/William Frazier 18ft Gaff Sloop",
+  "name": "William Frazier 18ft Gaff Sloop",
+  "metadata": null,
+  "classId": null,
+  "sailNumber": null,
+  "pathHistory": [
+    "William Frazier 18ft Gaff Sloop",
+    "Sailboats/William Frazier 18ft Gaff Sloop",
+    "Sailboats/Gaffers/William Frazier 18ft Gaff Sloop"
+  ],
+  "status": "present",
+  "assetIds": [
+    "1c11dd28-9ef8-4a3a-a6e6-96fe4900f3b2",
+    "1ec6b609-688d-4d24-845d-8d3d16eb567a",
+    "207b4bb8-2643-438d-95ec-5e37c5948d14",
+    "3f461762-2780-40f1-9836-0eb24a802a6f",
+    "4497c268-3b55-4e62-974a-f5d1a5a23965",
+    "53ebef89-3e9c-47b8-a14b-80655e629780",
+    "69927657-64d8-4d34-b388-01305b1bcd82",
+    "6edf038c-043c-4b22-8d08-216639f46838",
+    "7e0ada6e-3c3f-42bf-94e1-ac2bc03f876f",
+    "886b1bf4-a99a-4c81-90c4-95fa7ced2e4e",
+    "a3c63032-9970-4bcd-b25f-e40c81c166aa",
+    "a64863b2-9125-4a1e-82e3-8ad539a42ee8",
+    "c4559d9c-662b-48ce-b8d1-c8c1089708d0",
+    "c58a8cc6-da4d-4a90-b689-c5da29e1e612",
+    "ca29cb08-7aa8-44f8-ab81-1b968c42224f",
+    "e55631cd-1a50-4981-839c-5db5301fd918",
+    "ecda93f1-6b61-4b8f-9a7d-6af469732598",
+    "f11bd0af-f355-4453-b0ce-410950c5567a",
+    "f27553fe-37c3-4318-ac47-9009e918f846",
+    "f31a6899-bde5-4a85-a7d4-356304d24104"
+  ]
+}

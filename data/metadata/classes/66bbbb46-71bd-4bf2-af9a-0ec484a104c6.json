@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "entityId": "66bbbb46-71bd-4bf2-af9a-0ec484a104c6",
+  "kind": "classes",
+  "currentPath": "Sailboats/Prams/ClinkerPram",
+  "name": "ClinkerPram",
+  "metadata": null,
+  "slug": "clinkerpram-cf668e1abce1",
+  "pathHistory": [
+    "Prams/ClinkerPram",
+    "Sailboats/Prams/ClinkerPram"
+  ],
+  "status": "present",
+  "assetIds": [
+    "25ca17ed-8008-4c22-9081-dc11f77196c1",
+    "303d0244-eebe-4c10-bc75-6f199dbc2fc6",
+    "3b42a208-608b-4c44-b129-4eec3c1b97c6",
+    "71676df4-dfdc-4a9f-ab29-48e63c571693",
+    "82cc51cf-7982-41a0-a82a-5e7fbb1c5c9c",
+    "84d72d2d-3c26-4d16-9990-6e3a512c223c",
+    "90a30599-c946-4941-97ed-bade0f024382",
+    "c952e0e7-28e3-4267-bb26-cf40433b281b",
+    "d4a90539-7338-4964-be29-656099984b27",
+    "ea516621-efb4-46a8-92ca-b07f4c92eb9d",
+    "fc296379-f06a-4bc2-9dbf-7de520e99863"
+  ]
+}

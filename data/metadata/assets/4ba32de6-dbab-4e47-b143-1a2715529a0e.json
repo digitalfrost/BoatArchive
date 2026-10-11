@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "assetId": "4ba32de6-dbab-4e47-b143-1a2715529a0e",
+  "contentHash": "9762d469422344076aebbc2c0f343147958da2cb676109d04204c8daa4fe3755",
+  "currentPath": "Sailboats/Patrick Balta Designs/Tangara/tangara-014.jpg",
+  "originalFilename": "gravure.jpg",
+  "pathHistory": [
+    "Patrick Balta Designs/Tangara/gravure.jpg",
+    "Patrick Balta Designs/Tangara/gravure-001.jpg",
+    "Patrick Balta Designs/Tangara/tangara-014.jpg",
+    "Sailboats/Patrick Balta Designs/Tangara/tangara-014.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 111222,
+  "modifiedAt": "2026-04-30T09:16:07.923Z",
+  "classId": "5b5ac7f4-df93-4665-a918-d088b6b127a0",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

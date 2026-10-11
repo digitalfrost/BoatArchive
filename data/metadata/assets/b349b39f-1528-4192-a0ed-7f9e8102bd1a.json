@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "b349b39f-1528-4192-a0ed-7f9e8102bd1a",
+  "contentHash": "67433460680a8e77bea782b7179595316d10aeb5a4bd516ea4842bc6b8941f20",
+  "currentPath": "Sailboats/Half Tonners/Head Hunter/head-hunter-006.jpg",
+  "originalFilename": "head-hunter-006.jpg",
+  "pathHistory": [
+    "Half Tonners/Head Hunter/head-hunter-006.jpg",
+    "Sailboats/Half Tonners/Head Hunter/head-hunter-006.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 47063,
+  "modifiedAt": "2026-10-10T09:44:07.749Z",
+  "classId": null,
+  "boatId": "53184eaa-d614-48b7-942e-612e851d0d30",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "27d38ad1-91fc-4806-8c44-74b6512cdc9a",
+  "contentHash": "c6584e5f5a7c26c1802f480ec23efab9d53b41d5396ecfc39c965fdaaff33dfe",
+  "currentPath": "Sailboats/Bettes Marseillaises/Magaluno/maguluno-053.gif",
+  "originalFilename": "bout-dehors-psd.gif",
+  "pathHistory": [
+    "Bettes Marseillaises/Magaluno/bout-dehors-psd.gif",
+    "Bettes Marseillaises/Magaluno/maguluno-053.gif",
+    "Sailboats/Bettes Marseillaises/Magaluno/maguluno-053.gif"
+  ],
+  "status": "present",
+  "sizeBytes": 33356,
+  "modifiedAt": "2026-05-03T12:37:57.950Z",
+  "classId": null,
+  "boatId": "96772105-507b-4bcc-9454-24066421fe57",
+  "metadata": "{\"format\":\"gif\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

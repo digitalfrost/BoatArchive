@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "7a52c8ef-c0ae-49df-866a-710902c58e45",
+  "contentHash": "de26ec1325030666f3865a8db3cd4e7052f82142b513859dae3db2fc342e4b0c",
+  "currentPath": "Sailboats/Dories/Swampscott Dory/Unknown Dory 2/little-m-interior-001.jpg",
+  "originalFilename": "little-m-interior-001.jpg",
+  "pathHistory": [
+    "Dories/Swampscott Dory/Unknown Dory 2/little-m-interior-001.jpg",
+    "Sailboats/Dories/Swampscott Dory/Unknown Dory 2/little-m-interior-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 290215,
+  "modifiedAt": "2026-10-09T09:53:03.251Z",
+  "classId": "2a9b121e-79ee-492a-9087-2c4f0d6eee1e",
+  "boatId": "c3478625-d954-46c3-9294-a1efd8a6885a",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

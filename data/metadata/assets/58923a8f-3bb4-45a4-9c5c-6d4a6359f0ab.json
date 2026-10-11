@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "58923a8f-3bb4-45a4-9c5c-6d4a6359f0ab",
+  "contentHash": "56fbaec39ece84c1f2a0feb931116fb1c78aed5ae1ebbb8748db5ed8377e1ae2",
+  "currentPath": "Sailboats/Yole de Gironde/rodja-001.ashx",
+  "originalFilename": "rodja-001.ashx",
+  "pathHistory": [
+    "Yole de Gironde/rodja-001.ashx",
+    "Sailboats/Yole de Gironde/rodja-001.ashx"
+  ],
+  "status": "present",
+  "sizeBytes": 83492,
+  "modifiedAt": "2026-10-09T22:16:44.655Z",
+  "classId": "41a9efb0-5574-459d-b503-39ab29fb04f3",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

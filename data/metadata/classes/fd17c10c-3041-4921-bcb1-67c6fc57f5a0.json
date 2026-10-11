@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "entityId": "fd17c10c-3041-4921-bcb1-67c6fc57f5a0",
+  "kind": "classes",
+  "currentPath": "Sailboats/Dories/Unindentified Dory",
+  "name": "Unindentified Dory",
+  "metadata": null,
+  "slug": "unindentified-dory-4ed65d3c676c",
+  "pathHistory": [
+    "Dories/Unindentified Dory",
+    "Sailboats/Dories/Unindentified Dory"
+  ],
+  "status": "present",
+  "assetIds": [
+    "05c476c0-c2dc-4118-9fa5-152543c86d31",
+    "084c8c28-aeed-4a45-b835-00e046e98407",
+    "2a0e1d6b-eeac-4517-8d52-40aa7a35c420",
+    "84b3a3f7-a343-4e09-8a81-b4c37df71313",
+    "b467e915-1485-487c-86d2-67661fc0f907",
+    "d26d046a-d905-4fec-88b6-110f95e6ed1f",
+    "da77e75c-fae3-4590-8a12-38fbb0a79728"
+  ]
+}

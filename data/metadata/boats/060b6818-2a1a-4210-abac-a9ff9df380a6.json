@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "entityId": "060b6818-2a1a-4210-abac-a9ff9df380a6",
+  "kind": "boats",
+  "currentPath": "Sailboats/Block Island Cow Horn/Curlew",
+  "name": "Curlew",
+  "metadata": null,
+  "classId": "249706e2-9898-48bc-8476-a3bfc1c7bcad",
+  "sailNumber": null,
+  "pathHistory": [
+    "Block Island Cow Horn/Curlew",
+    "Sailboats/Block Island Cow Horn/Curlew"
+  ],
+  "status": "present",
+  "assetIds": [
+    "511740cb-efe5-4e4b-a3a0-cc06d5a25c66",
+    "7bf14166-ea0d-4010-b973-9fe4379bad0c",
+    "b5a3034b-cd56-4663-8833-24a1bb706bd7",
+    "e83494a7-0ce4-469a-bf21-fcbd2506a1d9"
+  ]
+}

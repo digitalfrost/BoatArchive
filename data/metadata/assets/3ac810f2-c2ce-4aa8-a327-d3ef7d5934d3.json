@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "3ac810f2-c2ce-4aa8-a327-d3ef7d5934d3",
+  "contentHash": "d4d817215d993540cabce0af793c385a1875ef4092b4fb5c568684c72861bf97",
+  "currentPath": "Sailboats/Spira Designs/Rail Bird Poling Skiff/rail-bird-poling-skiff-003.jpg",
+  "originalFilename": "rail-bird-poling-skiff-003.jpg",
+  "pathHistory": [
+    "Spira Designs/Rail Bird Poling Skiff/rail-bird-poling-skiff-003.jpg",
+    "Sailboats/Spira Designs/Rail Bird Poling Skiff/rail-bird-poling-skiff-003.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 111980,
+  "modifiedAt": "2024-06-01T14:33:44.414Z",
+  "classId": "b5ab433f-8e20-473e-b796-3439ad257a6f",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

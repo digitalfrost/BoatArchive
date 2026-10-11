@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "assetId": "0492e808-9360-4821-adee-897dc3bf5ae6",
+  "contentHash": "a17e7f1c61ccd2312762fc1d5dc91b1ff07027fba9592c28cad0f8174f7b9d04",
+  "currentPath": "Powerboats/John Atkins 22' Ninigret/ninigret-045.jpg",
+  "originalFilename": "2016-04-20-Ninigret-04.jpg",
+  "pathHistory": [
+    "Power Boats/John Atkins 22' Ninigret/2016-04-20-Ninigret-04.jpg",
+    "Power Boats/John Atkins 22' Ninigret/ninigret-2016-04-20-004.jpg",
+    "Power Boats/John Atkins 22' Ninigret/ninigret-045.jpg",
+    "Powerboats/John Atkins 22' Ninigret/ninigret-045.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 111348,
+  "modifiedAt": "2025-06-13T05:03:10.171Z",
+  "classId": "66f5eea1-5f5d-4450-959c-fcfa11b9b136",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "93fd3473-926e-4fc4-97cf-2011059d5fff",
+  "contentHash": "c1b8c3a33fe14286dd96b382a1501c8f6a5f12f8eebb5fc735cd0c0e8216369a",
+  "currentPath": "Sailboats/Dories/Saint Pierre Dory/saint-pierre-dory-002.jpg",
+  "originalFilename": "21381089389_4d06def4c7_os.jpg",
+  "pathHistory": [
+    "Dories/Saint Pierre Dory/21381089389_4d06def4c7_os.jpg",
+    "Dories/Saint Pierre Dory/saint-pierre-dory-002.jpg",
+    "Sailboats/Dories/Saint Pierre Dory/saint-pierre-dory-002.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 21675,
+  "modifiedAt": "2026-10-07T17:22:53.243Z",
+  "classId": "48e0ed75-7960-4c33-ae94-f6f830468cce",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

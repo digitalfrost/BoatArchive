@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "9bd4eab4-4334-4d2c-a77d-89e19f880cb7",
+  "contentHash": "4465ba3acaf6cd35c06ef759b43649398d04c7da1cccaf60cf04f54ba2348452",
+  "currentPath": "Sailboats/Roxane/roxane-specs-002.jpg",
+  "originalFilename": "roxane-specs-002.jpg",
+  "pathHistory": [
+    "Roxane/roxane-specs-002.jpg",
+    "Sailboats/Roxane/roxane-specs-002.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 23470,
+  "modifiedAt": "2025-06-01T06:46:31.249Z",
+  "classId": "03a9d18c-3c92-4c60-bd51-218023761dc5",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

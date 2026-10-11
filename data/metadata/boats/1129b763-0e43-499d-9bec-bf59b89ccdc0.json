@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "entityId": "1129b763-0e43-499d-9bec-bf59b89ccdc0",
+  "kind": "boats",
+  "currentPath": "Sailboats/Dories/Swampscott Dory/16ft Swampscott Dory",
+  "name": "16ft Swampscott Dory",
+  "metadata": null,
+  "classId": "2a9b121e-79ee-492a-9087-2c4f0d6eee1e",
+  "sailNumber": null,
+  "pathHistory": [
+    "Dories/Swampscott Dory/16ft Swampscott Dory",
+    "Sailboats/Dories/Swampscott Dory/16ft Swampscott Dory"
+  ],
+  "status": "present",
+  "assetIds": [
+    "beef6d89-10df-4f6a-9529-2cc668fe784f",
+    "c3649fd8-1a22-426f-9d0a-e873956ac727",
+    "c531393e-1bde-4e17-8ee0-503e1b506e7e",
+    "cc6babba-6d81-4da1-9bdb-75f815d0c578"
+  ]
+}

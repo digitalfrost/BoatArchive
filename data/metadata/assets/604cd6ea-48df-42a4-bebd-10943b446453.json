@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "assetId": "604cd6ea-48df-42a4-bebd-10943b446453",
+  "contentHash": "20b09d797a2f6361c2caecc72ea121eb86832c3402921a8db9c78a3351ae0760",
+  "currentPath": "Sailboats/Gaffers/Heard Tosher 18/heard-tosher-18-cockpit-forward-001.jpeg",
+  "originalFilename": "Heard-Tosher-18-cockpit-forward.jpeg",
+  "pathHistory": [
+    "Heard Tosher 18/Heard-Tosher-18-cockpit-forward.jpeg",
+    "Heard Tosher 18/heard-tosher-18-cockpit-forward-001.jpeg",
+    "Sailboats/Heard Tosher 18/heard-tosher-18-cockpit-forward-001.jpeg",
+    "Sailboats/Gaffers/Heard Tosher 18/heard-tosher-18-cockpit-forward-001.jpeg"
+  ],
+  "status": "present",
+  "sizeBytes": 977156,
+  "modifiedAt": "2025-06-02T18:50:05.764Z",
+  "classId": "965b330b-153d-428b-952b-233ce2b038bf",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "a18069c6-c181-4a97-adcf-882b1964fe33",
+  "contentHash": "61695ceb80639601911d3106aca3aa0bc6ad13502f7c7482b2132353645ddf50",
+  "currentPath": "Powerboats/Redwing 18/redwing-18-012.jpg",
+  "originalFilename": "redwing-18-lapstrake.jpg",
+  "pathHistory": [
+    "Power Boats/Redwing 18/redwing-18-lapstrake.jpg",
+    "Power Boats/Redwing 18/redwing-18-012.jpg",
+    "Powerboats/Redwing 18/redwing-18-012.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 167894,
+  "modifiedAt": "2025-06-13T13:47:47.008Z",
+  "classId": "c80f09fa-9705-4a42-a8ce-4e3bc6eba62f",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

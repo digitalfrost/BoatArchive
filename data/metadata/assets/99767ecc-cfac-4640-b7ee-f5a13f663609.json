@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "99767ecc-cfac-4640-b7ee-f5a13f663609",
+  "contentHash": "11ab33f884009ae262ae8c5520aa01c9951e5e8dad6d55ed89887b287dc3e663",
+  "currentPath": "Powerboats/Redwing 18/redwing-18-015.jpg",
+  "originalFilename": "wanderland_2.jpg",
+  "pathHistory": [
+    "Power Boats/Redwing 18/wanderland_2.jpg",
+    "Power Boats/Redwing 18/redwing-18-015.jpg",
+    "Powerboats/Redwing 18/redwing-18-015.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 102918,
+  "modifiedAt": "2025-06-13T13:46:17.316Z",
+  "classId": "c80f09fa-9705-4a42-a8ce-4e3bc6eba62f",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

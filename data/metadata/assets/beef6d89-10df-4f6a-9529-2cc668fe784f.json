@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "beef6d89-10df-4f6a-9529-2cc668fe784f",
+  "contentHash": "582e156f4eb8977bd4381e8293b5ee4b84e22173ef527629738fc312714255a8",
+  "currentPath": "Sailboats/Dories/Swampscott Dory/16ft Swampscott Dory/16ft-swampscott-dory-001.jpg",
+  "originalFilename": "16ft-swampscott-dory-001.jpg",
+  "pathHistory": [
+    "Dories/Swampscott Dory/16ft Swampscott Dory/16ft-swampscott-dory-001.jpg",
+    "Sailboats/Dories/Swampscott Dory/16ft Swampscott Dory/16ft-swampscott-dory-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 23404,
+  "modifiedAt": "2025-06-08T12:28:22.071Z",
+  "classId": "2a9b121e-79ee-492a-9087-2c4f0d6eee1e",
+  "boatId": "1129b763-0e43-499d-9bec-bf59b89ccdc0",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

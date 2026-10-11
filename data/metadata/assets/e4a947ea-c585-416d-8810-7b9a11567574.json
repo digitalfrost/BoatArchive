@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "e4a947ea-c585-416d-8810-7b9a11567574",
+  "contentHash": "27aa0deb3cca0025fd5231e56c6b3e28d7099816081d0056bf5e6b51090fd3ad",
+  "currentPath": "Sailboats/Spira Designs/Tilamook Pacific Dory/tilamook-pacific-dory-002.jpg",
+  "originalFilename": "s_till01.jpg",
+  "pathHistory": [
+    "Spira Designs/Tilamook Pacific Dory/s_till01.jpg",
+    "Spira Designs/Tilamook Pacific Dory/tilamook-pacific-dory-002.jpg",
+    "Sailboats/Spira Designs/Tilamook Pacific Dory/tilamook-pacific-dory-002.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 120150,
+  "modifiedAt": "2024-06-01T15:05:03.851Z",
+  "classId": "6081ec22-2e45-4f77-b07d-35b90f507a72",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

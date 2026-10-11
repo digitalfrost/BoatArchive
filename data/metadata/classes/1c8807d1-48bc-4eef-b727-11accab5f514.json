@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "entityId": "1c8807d1-48bc-4eef-b727-11accab5f514",
+  "kind": "classes",
+  "currentPath": "Sailboats/BayCruiser 21",
+  "name": "BayCruiser 21",
+  "metadata": null,
+  "slug": "baycruiser-21-6eeb111ae8bd",
+  "pathHistory": [
+    "BayCruiser 21",
+    "Sailboats/BayCruiser 21"
+  ],
+  "status": "present",
+  "assetIds": [
+    "043f6476-4af1-41d2-a11e-9b48727ea7a7",
+    "259c7d00-15a7-4ae8-b5db-708678d717a3",
+    "29e79708-3b2c-402a-badc-74ea23109c14",
+    "3738b678-115d-4213-91b8-cb9620e4748a",
+    "47beaf9c-ebb6-4ec6-bbeb-7b0e7b1c5a2d",
+    "6d6c346b-5234-4b98-804e-5a5dfdf3820d",
+    "6f2f6177-a1d2-4f3c-a2ba-93fc5281ed61",
+    "7c37121b-f21a-4aaf-898e-06ad7a0a9ac9",
+    "849e3948-efb1-44a7-8130-0f6f9d87ad3b",
+    "d674d80e-b1ce-4199-a42e-f3801278b0d1",
+    "e4dfd611-251d-40bd-afd2-6f560e7279c9",
+    "eae57bc9-db6e-46b2-8913-972d5a3f465a",
+    "f96969dd-bff7-45b4-a673-81b572543381"
+  ]
+}

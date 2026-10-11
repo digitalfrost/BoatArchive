@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "entityId": "dfcfefa8-7b84-4f03-81c4-ee5cf9bc0c32",
+  "kind": "classes",
+  "currentPath": "Sailboats/Spira Designs/Chesapeake",
+  "name": "Chesapeake",
+  "metadata": null,
+  "slug": "chesapeake-f1b990a85372",
+  "pathHistory": [
+    "Spira Designs/Chesapeake",
+    "Sailboats/Spira Designs/Chesapeake"
+  ],
+  "status": "present",
+  "assetIds": [
+    "3cad6b0a-d048-496d-9259-e7f294f2a0f5",
+    "8b3b1d8b-8e49-41ac-b08a-419642323af2"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "4b2c3515-e746-4814-b7fd-ab52b840463f",
+  "contentHash": "f5db7a354f19e1e4acf0e48191dbcd6ec7a15010a063c1fd9ef8e09fc2e0c547",
+  "currentPath": "Sailboats/Tiknot/tiKnot_ débit.pdf",
+  "originalFilename": "tiKnot_ débit.pdf",
+  "pathHistory": [
+    "Tiknot/tiKnot_ débit.pdf",
+    "Sailboats/Tiknot/tiKnot_ débit.pdf"
+  ],
+  "status": "present",
+  "sizeBytes": 46192,
+  "modifiedAt": "2026-04-09T08:51:12.469Z",
+  "classId": "41fa13e4-49d4-4f28-ac2d-cd1457b51a81",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "6d435087-62c0-4e14-9947-fcd9bbc73790",
+  "contentHash": "7f01a65f8c84407f8c41c41cebe623e8bacacd371ca2fa14682e7dcaf70a1de0",
+  "currentPath": "Sailboats/Dornas/dorna-001.avif",
+  "originalFilename": "dorna-001.avif",
+  "pathHistory": [
+    "Dornas/dorna-001.avif",
+    "Sailboats/Dornas/dorna-001.avif"
+  ],
+  "status": "present",
+  "sizeBytes": 75733,
+  "modifiedAt": "2025-07-17T17:05:57.516Z",
+  "classId": "daae6a51-7a1f-4cd4-a9ab-6bcc5106f895",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

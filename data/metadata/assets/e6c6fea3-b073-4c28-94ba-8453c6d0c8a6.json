@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "assetId": "e6c6fea3-b073-4c28-94ba-8453c6d0c8a6",
+  "contentHash": "8cf3ae8902842ac0cbdc74986e7eb2e335d7bbf2cd808a8eb77ffeab03e440f0",
+  "currentPath": "Sailboats/Sharpies/Egrets/Parker Egret/Blue Egret/blue-egret-022.jpg",
+  "originalFilename": "PA171019.jpg",
+  "pathHistory": [
+    "Sharpies/Egrets/Parker Egret/Blue Egret/PA171019.jpg",
+    "Sharpies/Egrets/Parker Egret/Blue Egret/pa171019-001.jpg",
+    "Sharpies/Egrets/Parker Egret/Blue Egret/blue-egret-022.jpg",
+    "Sailboats/Sharpies/Egrets/Parker Egret/Blue Egret/blue-egret-022.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 419872,
+  "modifiedAt": "2025-07-06T18:54:13.214Z",
+  "classId": "be155d78-af4e-49e4-83ff-8a86cf4a8a02",
+  "boatId": "23611e6c-7fef-4e8e-b79b-5eaf43701366",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

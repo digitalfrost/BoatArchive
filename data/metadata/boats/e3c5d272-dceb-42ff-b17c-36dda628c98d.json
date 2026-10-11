@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "entityId": "e3c5d272-dceb-42ff-b17c-36dda628c98d",
+  "kind": "boats",
+  "currentPath": "Sailboats/Block Island Cow Horn/Kestrel",
+  "name": "Kestrel",
+  "metadata": null,
+  "classId": "249706e2-9898-48bc-8476-a3bfc1c7bcad",
+  "sailNumber": null,
+  "pathHistory": [
+    "Block Island Cow Horn/Kestrel",
+    "Sailboats/Block Island Cow Horn/Kestrel"
+  ],
+  "status": "present",
+  "assetIds": [
+    "0a2e3b78-a61f-4f72-b094-78b81615f37e",
+    "149fd0c2-0663-4d5c-9cc7-6cfd7d690c45",
+    "5f901f93-43a9-481c-97c3-59f68ac43ba0",
+    "ac2d91f0-acc2-453b-a7b9-1836cb8f4a51"
+  ]
+}

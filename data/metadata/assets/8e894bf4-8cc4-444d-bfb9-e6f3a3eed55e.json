@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "8e894bf4-8cc4-444d-bfb9-e6f3a3eed55e",
+  "contentHash": "4e6ec293ab385467b530657f5051f332c49ae7567511a20e1cda67a67267d526",
+  "currentPath": "Sailboats/Quarter Tonners/Eygthene 24/egythene-24-interior-002.jpg",
+  "originalFilename": "d814a4a3-78e9-4532-afe4-3e06a61ffbef.2048.jpg",
+  "pathHistory": [
+    "Quarter Tonners/Eygthene 24/d814a4a3-78e9-4532-afe4-3e06a61ffbef.2048.jpg",
+    "Quarter Tonners/Eygthene 24/egythene-24-interior-002.jpg",
+    "Sailboats/Quarter Tonners/Eygthene 24/egythene-24-interior-002.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 172065,
+  "modifiedAt": "2024-04-04T18:10:42.328Z",
+  "classId": "ce48a433-0dee-41bc-926d-48c05d5ca216",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

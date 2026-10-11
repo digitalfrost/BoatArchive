@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "3c590e4f-02cf-473e-a0e2-7f1ea43f393d",
+  "contentHash": "c9e57f4180d070dcd719a0ed2d6ed5a24c1d56a3b0c68f1c976b5226ac8db86c",
+  "currentPath": "Sailboats/Drascombes/Devon Longboat/devon-long-boat-001.jpg",
+  "originalFilename": "devon long boat.jpg",
+  "pathHistory": [
+    "Drascombes/Devon Longboat/devon long boat.jpg",
+    "Drascombes/Devon Longboat/devon-long-boat-001.jpg",
+    "Sailboats/Drascombes/Devon Longboat/devon-long-boat-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 50181,
+  "modifiedAt": "2025-10-20T19:54:38.573Z",
+  "classId": "34eb5f9f-2b55-4826-abaa-6c1dbd26a74c",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

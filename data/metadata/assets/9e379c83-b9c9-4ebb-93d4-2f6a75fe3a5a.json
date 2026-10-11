@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "9e379c83-b9c9-4ebb-93d4-2f6a75fe3a5a",
+  "contentHash": "2dbf0105f6ec9bbde7703c756bcc3187430f63c7acc70308721b75c5b18fb212",
+  "currentPath": "Sailboats/KBane 710/Lou Galip/kbane710-012.jpg",
+  "originalFilename": "82f1e3_d3ab2605e25a4eeca7566848f3813dc9~mv2.jpg",
+  "pathHistory": [
+    "KBane 710/Lou Galip/82f1e3_d3ab2605e25a4eeca7566848f3813dc9~mv2.jpg",
+    "KBane 710/Lou Galip/kbane710-012.jpg",
+    "Sailboats/KBane 710/Lou Galip/kbane710-012.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 689098,
+  "modifiedAt": "2025-11-26T10:48:50.664Z",
+  "classId": "0dba06a2-72e4-47b5-ad4a-8a6d43a7a7e9",
+  "boatId": "ebda3268-43f8-424d-9273-cc29eda7d697",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

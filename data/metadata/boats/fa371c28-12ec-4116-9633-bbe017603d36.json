@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "entityId": "fa371c28-12ec-4116-9633-bbe017603d36",
+  "kind": "boats",
+  "currentPath": "Sailboats/Drascombes/Peterboats/6m Peterboat",
+  "name": "6m Peterboat",
+  "metadata": null,
+  "classId": "f4077dfe-14f9-4f3b-8dea-d0f492e5181c",
+  "sailNumber": null,
+  "pathHistory": [
+    "Drascombes/Peterboats/6m Peterboat",
+    "Sailboats/Drascombes/Peterboats/6m Peterboat"
+  ],
+  "status": "present",
+  "assetIds": [
+    "b39e7c7c-ce9b-426b-bbc2-62552dc43bc6",
+    "ed3916fc-1bd6-4a2f-8ae3-8af83e896cde"
+  ]
+}

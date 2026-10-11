@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "entityId": "84cc0472-f9e0-423f-924f-52235c191ac3",
+  "kind": "classes",
+  "currentPath": "Sailboats/Dories/John Dory",
+  "name": "John Dory",
+  "metadata": null,
+  "slug": "john-dory-24ec1624a6af",
+  "pathHistory": [
+    "Dories/John Dory",
+    "Sailboats/Dories/John Dory"
+  ],
+  "status": "present",
+  "assetIds": [
+    "20b586c6-3c8f-4694-a7ef-74584cc4d7b4",
+    "2205cb79-f5de-4047-954e-35d9f062e75c",
+    "2a90b803-0098-45e7-8908-6e753029cbbf",
+    "2dfe3542-007b-483f-bfd8-d94569e59f44",
+    "494a9a2a-0dbe-4e9c-a47d-d231c2fc959c",
+    "82c0192d-9c09-4e88-bfab-4a342998a8f1",
+    "b4193e00-3404-4ae7-9cc5-5110c2f2c67e",
+    "cfa04461-ef12-46a0-8fbc-0d7aaab6da4f"
+  ]
+}

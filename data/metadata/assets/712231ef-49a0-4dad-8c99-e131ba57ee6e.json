@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "712231ef-49a0-4dad-8c99-e131ba57ee6e",
+  "contentHash": "6cebbd5a45fc432b3d23af6ffd68987becd35a3aabe448ed2e9bda10adc73ef3",
+  "currentPath": "Sailboats/Lili 610/lili-014.webp",
+  "originalFilename": "lili-014.webp",
+  "pathHistory": [
+    "Lili 610/lili-014.webp",
+    "Sailboats/Lili 610/lili-014.webp"
+  ],
+  "status": "present",
+  "sizeBytes": 38994,
+  "modifiedAt": "2026-06-02T09:36:26.987Z",
+  "classId": "39123acd-2894-4959-8c91-712c9559a942",
+  "boatId": null,
+  "metadata": "{\"format\":\"webp\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

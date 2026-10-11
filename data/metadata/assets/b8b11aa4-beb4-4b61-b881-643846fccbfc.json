@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "b8b11aa4-beb4-4b61-b881-643846fccbfc",
+  "contentHash": "73c4d8f8e297dcda20052bb814e7ddc9c7fe7bcc7b104add475a33e635007e74",
+  "currentPath": "Sailboats/Celtic Longboat/celtic-longboat-001.jpg",
+  "originalFilename": "celtic-longboat-001.jpg",
+  "pathHistory": [
+    "Celtic Longboat/celtic-longboat-001.jpg",
+    "Sailboats/Celtic Longboat/celtic-longboat-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 475410,
+  "modifiedAt": "2026-04-15T10:36:10.133Z",
+  "classId": "02661e32-1558-4e01-910f-fa33a30b84ec",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

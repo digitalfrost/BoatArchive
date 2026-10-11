@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "f1c189f3-f438-45bb-a62f-061dfcd7e39b",
+  "contentHash": "d1f6b1a0a8dca4ff86000982deb92f62683b021eb4495f511dc0349f96da2f4d",
+  "currentPath": "Sailboats/Bettes Marseillaises/Petite Bette/petite-bette-001.jpeg",
+  "originalFilename": "44B7DA42-6066-40A0-B7B4-AE69CDF959FE.jpeg",
+  "pathHistory": [
+    "Bettes Marseillaises/Petite Bette/44B7DA42-6066-40A0-B7B4-AE69CDF959FE.jpeg",
+    "Bettes Marseillaises/Petite Bette/petite-bette-001.jpeg",
+    "Sailboats/Bettes Marseillaises/Petite Bette/petite-bette-001.jpeg"
+  ],
+  "status": "present",
+  "sizeBytes": 1743538,
+  "modifiedAt": "2026-04-30T13:36:52.728Z",
+  "classId": null,
+  "boatId": "42ead7be-f3dd-45d5-a4d5-252e46ab646b",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

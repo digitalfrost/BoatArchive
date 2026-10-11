@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "entityId": "8f4f9f91-9eb0-4a79-983c-064b85b365ee",
+  "kind": "classes",
+  "currentPath": "Sailboats/Dories/Lowell 19ft Dory",
+  "name": "Lowell 19ft Dory",
+  "metadata": null,
+  "slug": "lowell-19ft-dory-5fea80449621",
+  "pathHistory": [
+    "Dories/Lowell 19ft Dory",
+    "Sailboats/Dories/Lowell 19ft Dory"
+  ],
+  "status": "present",
+  "assetIds": [
+    "0bb2a538-808f-4d94-b224-6da32991f099",
+    "1f51bf9c-3689-4d1d-88e1-af756d1b0c6d",
+    "3f874f50-7022-4e51-b38c-13e017132714",
+    "54083f98-c1d2-4ad2-bd7a-c7abf6dae88e",
+    "69ef1f12-1286-4a0f-a00e-80f5766dbdb4",
+    "8548fbc0-3b71-45e6-b13b-3988be735eee",
+    "f4f6723d-8095-452c-83bc-291b4cb3b034"
+  ]
+}

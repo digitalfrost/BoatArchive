@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assetId": "89c1423c-8bd7-41ee-a412-5d134c1406a8",
+  "contentHash": "b8e5504c094a5223c062905b6b3bb0131fbbe5b18543e6d2d3ea5c677e7ee57d",
+  "currentPath": "Sailboats/Bettes Marseillaises/Bette Marseillaise 1936/Bette marseillaise de 1936 restauré.txt",
+  "originalFilename": "Bette marseillaise de 1936 restauré.txt",
+  "pathHistory": [
+    "Bettes Marseillaises/Bette Marseillaise 1936/Bette marseillaise de 1936 restauré.txt",
+    "Sailboats/Bettes Marseillaises/Bette Marseillaise 1936/Bette marseillaise de 1936 restauré.txt"
+  ],
+  "status": "present",
+  "sizeBytes": 369,
+  "modifiedAt": "2026-04-24T23:16:25.633Z",
+  "classId": null,
+  "boatId": "1926e21d-1bb4-4e1e-aa63-8be4dc412865",
+  "metadata": null,
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

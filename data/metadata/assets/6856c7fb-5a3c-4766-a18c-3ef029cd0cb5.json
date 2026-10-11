@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "6856c7fb-5a3c-4766-a18c-3ef029cd0cb5",
+  "contentHash": "38fd87f7981438cb15b5b2a6fa3aaece7366516a31488f481834115daba19847",
+  "currentPath": "Sailboats/Bettes Marseillaises/Bette Ida/bette-ida-008.jpg",
+  "originalFilename": "bette_ida_1.jpg",
+  "pathHistory": [
+    "Bettes Marseillaises/Bette Ida/bette_ida_1.jpg",
+    "Bettes Marseillaises/Bette Ida/bette-ida-008.jpg",
+    "Sailboats/Bettes Marseillaises/Bette Ida/bette-ida-008.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 165456,
+  "modifiedAt": "2026-04-24T23:05:46.446Z",
+  "classId": null,
+  "boatId": "cb42297e-62d9-4c35-8380-e25145edd623",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": "",
+  "assetRole": "boat-reference",
+  "associationOverride": false
+}

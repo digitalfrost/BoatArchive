@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "tags": [
+    {
+      "stable_id": "1e4993ec-449a-4df4-8117-5a64925a7e85",
+      "name": "heads",
+      "slug": "heads",
+      "category": null,
+      "created_at": "2026-10-10T06:38:34.540Z",
+      "updated_at": "2026-10-10T06:38:34.540Z"
+    },
+    {
+      "stable_id": "59f8fea3-0416-4125-bee3-5e1da4cfdbac",
+      "name": "chainplates",
+      "slug": "chainplates",
+      "category": null,
+      "created_at": "2026-10-09T21:36:03.088Z",
+      "updated_at": "2026-10-09T21:36:03.088Z"
+    },
+    {
+      "stable_id": "bf4e019d-8f37-4252-a58a-12714c991c28",
+      "name": "mast partner",
+      "slug": "mast-partner",
+      "category": null,
+      "created_at": "2026-10-10T18:40:40.351Z",
+      "updated_at": "2026-10-10T18:41:09.650Z"
+    }
+  ]
+}
