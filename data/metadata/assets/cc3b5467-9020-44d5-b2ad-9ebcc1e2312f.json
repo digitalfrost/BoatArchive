@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assetId": "cc3b5467-9020-44d5-b2ad-9ebcc1e2312f",
+  "assetRole": "boat-reference",
+  "associationOverride": false,
+  "contentHash": "63dbab8b92e89fe2e9a75d65aa6a427df5cf146b5f13aa0dec1f150a4286fcb0",
+  "currentPath": "Sailboats/Dories/17ft Handline Dory/17ft-handline-dory-011.webp",
+  "originalFilename": "17ft-handline-dory-011.webp",
+  "pathHistory": [
+    "Sailboats/Dories/17ft Handline Dory/17ft-handline-dory-011.webp"
+  ],
+  "status": "present",
+  "sizeBytes": 279244,
+  "modifiedAt": "2026-10-11T17:44:01.221Z",
+  "classId": "b9c13a17-8068-4f75-9eab-e60e943d66bf",
+  "boatId": null,
+  "metadata": "{\"format\":\"webp\"}",
+  "tags": [],
+  "notes": ""
+}

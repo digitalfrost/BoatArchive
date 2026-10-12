@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assetId": "fe71ac9f-6b5d-42f8-8502-9f5f98705e83",
+  "assetRole": "boat-reference",
+  "associationOverride": false,
+  "contentHash": "4af288ce7ea46a8b715123a8e67efe39bb2ae29b52289d0ee281dc44c19ab3e7",
+  "currentPath": "Powerboats/Curtis and Pape Motor Launch/Curtis-and-Pape-Motor-Launch-transom.jpeg",
+  "originalFilename": "Curtis-and-Pape-Motor-Launch-transom.jpeg",
+  "pathHistory": [
+    "Powerboats/Curtis and Pape Motor Launch/Curtis-and-Pape-Motor-Launch-transom.jpeg"
+  ],
+  "status": "present",
+  "sizeBytes": 1066768,
+  "modifiedAt": "2026-10-12T20:18:22.333Z",
+  "classId": null,
+  "boatId": "07a3f179-5471-4188-84f1-76ada46dccfc",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": ""
+}

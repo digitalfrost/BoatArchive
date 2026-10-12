@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "entityId": "c135c48e-e28d-40b5-a3e2-61ece884ab75",
+  "kind": "boats",
+  "currentPath": "Sailboats/Phil Bolger Designs/Chebaco 20/Lily Catchpole",
+  "name": "Lily Catchpole",
+  "metadata": null,
+  "classId": "0666d2b4-2899-40d2-8def-542bd170d150",
+  "sailNumber": null,
+  "pathHistory": [
+    "Sailboats/Phil Bolger Designs/Chebaco 20/Lily Catchpole"
+  ],
+  "status": "present",
+  "assetIds": [
+    "c71df060-af06-43fa-b297-50d166ad3e06"
+  ]
+}

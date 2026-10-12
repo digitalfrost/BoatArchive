@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "2a20e29d-43b7-41d7-b50a-f53489630eea",
+  "assetRole": "standalone-reference",
+  "associationOverride": false,
+  "contentHash": "e2525ce13ea1deb4a477490149dda9b91df5bdcb2a2e31952f40360a0cf21981",
+  "currentPath": "References/motor-well-002.jpg",
+  "originalFilename": "motor-well-002.jpg",
+  "pathHistory": [
+    "References/motor-well-002.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 50072,
+  "modifiedAt": "2025-06-08T20:24:37.511Z",
+  "classId": null,
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [
+    "a544ac77-a641-4534-aa49-3989675fb5b7"
+  ],
+  "notes": ""
+}

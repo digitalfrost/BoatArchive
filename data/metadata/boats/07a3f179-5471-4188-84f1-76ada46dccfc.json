@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "entityId": "07a3f179-5471-4188-84f1-76ada46dccfc",
+  "kind": "boats",
+  "currentPath": "Powerboats/Curtis and Pape Motor Launch",
+  "name": "Curtis and Pape Motor Launch",
+  "metadata": null,
+  "classId": null,
+  "sailNumber": null,
+  "pathHistory": [
+    "Powerboats/Curtis and Pape Motor Launch"
+  ],
+  "status": "present",
+  "assetIds": [
+    "0268eca9-0543-42c5-9291-5b5a93404921",
+    "089f4a3b-2768-43d1-a7eb-cf0e2b83bc26",
+    "0a4f179f-2e26-4884-a792-f9911fc7e330",
+    "0f265a69-7328-4e5b-b9ee-2fc59b9f4edf",
+    "20c9a544-04ba-4ae8-a2b4-bcc68bbbc6c1",
+    "28c45f28-a848-4dba-9d8d-1176ac955778",
+    "32dc7316-14e8-4248-80ca-22bb6f2544be",
+    "738ce623-8ccf-447c-bd2e-4af3906e9860",
+    "8d87e36a-665f-491c-aa94-c17ac6bc639b",
+    "8e09d15c-b318-4ecf-91f7-a79972e2fdfb",
+    "920c4fda-7d54-4462-aaa1-dad85a4b7d58",
+    "951b13b7-53d4-4115-8eef-bc55d71eb3e2",
+    "c1f5b49e-ea54-4ae3-89cb-ccf337476ad8",
+    "c3d35f90-5e5f-4edb-aec2-4dfb8d8a9268",
+    "db3c3cdb-feca-4aef-90c9-6f0254c88703",
+    "e0cc1326-8dfe-4268-b8ed-5a9db1549012",
+    "e2b02a2b-bf4e-4d34-acf7-fb9e019b91fd",
+    "e65a7c79-b59c-4bfb-b946-1535a3b252f5",
+    "fe71ac9f-6b5d-42f8-8502-9f5f98705e83"
+  ]
+}

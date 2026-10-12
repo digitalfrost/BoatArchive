@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assetId": "192d184b-b28d-464d-a377-0a9e23da20ac",
+  "assetRole": "boat-reference",
+  "associationOverride": false,
+  "contentHash": "dac15e2b7c85a36e2db946d3091133f9a072e33e2f0d42600dfde1833b813c2a",
+  "currentPath": "Sailboats/Francois Vivier Designs/Laita/laita-001.jpg",
+  "originalFilename": "laita-001.jpg",
+  "pathHistory": [
+    "Sailboats/Francois Vivier Designs/Laita/laita-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 201420,
+  "modifiedAt": "2026-10-11T20:18:00.719Z",
+  "classId": "14d8cb16-1973-4044-8ac9-de5fee037422",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": ""
+}

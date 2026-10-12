@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "entityId": "b9c13a17-8068-4f75-9eab-e60e943d66bf",
+  "kind": "classes",
+  "currentPath": "Sailboats/Dories/17ft Handline Dory",
+  "name": "17ft Handline Dory",
+  "metadata": null,
+  "slug": "c832dbfa-c0fc-4a04-b3fe-09944fc93b2d",
+  "pathHistory": [
+    "Sailboats/Dories/17ft Handline Dory"
+  ],
+  "status": "present",
+  "assetIds": [
+    "313ebde1-35e5-4464-88f8-1283fb82cd6f",
+    "3fb6aac5-cf0d-4731-8e6b-4c1bd4c97e56",
+    "960828b6-2473-4f74-adbd-8944a55cb041",
+    "98f88fc4-f1a0-4e3a-b297-d3d0b4bed252",
+    "9c1b89ad-02cd-40a4-ab22-a35839cd0d01",
+    "b2ad8064-ec61-4423-9b57-1d7075f25279",
+    "cc3b5467-9020-44d5-b2ad-9ebcc1e2312f",
+    "cea64f3b-c320-42c3-af50-4bb194dfdceb",
+    "e466dc30-9147-43f0-bf7b-7bb6b96518ee",
+    "e67cd33d-ed6c-4986-8dab-5f7a98c03559",
+    "ec894e30-8405-42bd-b7d1-6681078f695e",
+    "f92139b9-08dc-469d-81a1-7d29c82fc10d"
+  ]
+}

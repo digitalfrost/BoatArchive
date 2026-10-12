@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "entityId": "853b5bf1-5b55-4839-891a-06ca63145c79",
+  "kind": "boats",
+  "currentPath": "Sailboats/Gaffers/Centreboard-Bermudan-Cutter",
+  "name": "Centreboard-Bermudan-Cutter",
+  "metadata": null,
+  "classId": null,
+  "sailNumber": null,
+  "pathHistory": [
+    "Sailboats/Gaffers/Centreboard-Bermudan-Cutter"
+  ],
+  "status": "present",
+  "assetIds": [
+    "0003a3d9-4867-42eb-b7f5-e697254cb065",
+    "12aedf0d-3a2b-450d-8f87-dadcb775cbf0",
+    "1a176cbb-062a-4b33-aff9-3f024e328d75",
+    "1acf3888-a8e4-4a11-8948-fd8e90128dff",
+    "3a51c897-8815-49e5-87aa-b17544d0d6c6",
+    "463fc908-343f-4512-bbe3-ce609d854d68",
+    "500bc784-4654-46e4-bb61-f5f689bcf647",
+    "7007b084-ac24-4714-aa4e-b8c07d49aff7",
+    "78b22e7c-f7b1-4e89-b835-3051fce9b742",
+    "7a39ef59-b8f0-4567-8eb8-226baca918fb",
+    "839effd3-2d7c-4cb8-853a-694a91e24a22",
+    "89104000-807f-4ca8-bfe0-0b30713b6bcc",
+    "9e29143f-16c7-4b7a-959f-e9e11f40f297",
+    "a31929b0-6412-43df-8c41-6dd16ed02338",
+    "ace92e37-c3ca-4553-a501-adad3679d3e4",
+    "b98a3d44-c9d5-4a46-a70b-529dec8bc83a",
+    "bb728ce3-24da-4e3e-a046-08694e9670f3",
+    "c8230d62-ffdf-4b23-893b-3144a867e361",
+    "f63900c4-9f56-43b6-a2f2-6321a78f280f",
+    "fe3e7876-e800-40f3-b51b-0cb2c4137489"
+  ]
+}

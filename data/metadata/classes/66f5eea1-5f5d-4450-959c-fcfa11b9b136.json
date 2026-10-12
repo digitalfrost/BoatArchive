@@ -2,13 +2,14 @@
   "version": 1,
   "entityId": "66f5eea1-5f5d-4450-959c-fcfa11b9b136",
   "kind": "classes",
-  "currentPath": "Powerboats/John Atkins 22' Ninigret",
-  "name": "John Atkins 22' Ninigret",
+  "currentPath": "Powerboats/22ft John Atkins Ninigret",
+  "name": "22ft John Atkins Ninigret",
   "metadata": null,
   "slug": "john-atkins-22-ninigret-f4938f1671e5",
   "pathHistory": [
     "Power Boats/John Atkins 22' Ninigret",
-    "Powerboats/John Atkins 22' Ninigret"
+    "Powerboats/John Atkins 22' Ninigret",
+    "Powerboats/22ft John Atkins Ninigret"
   ],
   "status": "present",
   "assetIds": [

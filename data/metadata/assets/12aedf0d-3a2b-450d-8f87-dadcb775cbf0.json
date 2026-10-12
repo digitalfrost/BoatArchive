@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assetId": "12aedf0d-3a2b-450d-8f87-dadcb775cbf0",
+  "assetRole": "boat-reference",
+  "associationOverride": false,
+  "contentHash": "67d36dbd6525f0f73ec29c70019f1357dd848fae1908c7771fe56e3ab11a921a",
+  "currentPath": "Sailboats/Gaffers/Centreboard-Bermudan-Cutter/Centreboard-Bermudan-Cutter-1.jpeg",
+  "originalFilename": "Centreboard-Bermudan-Cutter-1.jpeg",
+  "pathHistory": [
+    "Sailboats/Gaffers/Centreboard-Bermudan-Cutter/Centreboard-Bermudan-Cutter-1.jpeg"
+  ],
+  "status": "present",
+  "sizeBytes": 806306,
+  "modifiedAt": "2026-10-12T20:11:23.351Z",
+  "classId": null,
+  "boatId": "853b5bf1-5b55-4839-891a-06ca63145c79",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": ""
+}

@@ -12,7 +12,15 @@
   ],
   "status": "present",
   "assetIds": [
+    "2cdb6071-5dbf-4f64-aa59-391564d717b0",
+    "3b8361d0-9509-4342-b292-2dbd16195da3",
     "42905644-0a88-4461-a83d-736ad7413ab5",
-    "57e0ed26-f0ae-444f-a6cf-ad16aa384148"
+    "484eaa44-9ebd-4b27-9d80-5deba33355f4",
+    "57e0ed26-f0ae-444f-a6cf-ad16aa384148",
+    "7dcf56bc-18ca-4693-a2eb-371f5647110a",
+    "9fa83460-9964-498f-9b2c-4fd8139a03e4",
+    "c3a3aac8-1b5a-4ad2-863a-eff90cbcdbc1",
+    "c71df060-af06-43fa-b297-50d166ad3e06",
+    "fe6679a1-a1c2-4de4-bce6-688c67069d56"
   ]
 }

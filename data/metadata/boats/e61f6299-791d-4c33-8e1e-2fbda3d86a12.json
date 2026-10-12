@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "entityId": "e61f6299-791d-4c33-8e1e-2fbda3d86a12",
+  "kind": "boats",
+  "currentPath": "Sailboats/Sharpies/Egrets/Haiku Egret/Idyl",
+  "name": "Idyl",
+  "metadata": null,
+  "classId": "c32233f8-a01a-49e2-9e5f-ef7c3e77d5cf",
+  "sailNumber": null,
+  "pathHistory": [
+    "Sailboats/Sharpies/Egrets/Haiku Egret/Idyl"
+  ],
+  "status": "present",
+  "assetIds": [
+    "576d8850-d0bf-4486-b988-48c395eb2933",
+    "8226fb1d-79de-463b-8204-18c062584d0e",
+    "c4b6d378-4489-4e4e-8521-767e3a2f82ec",
+    "fe2b4436-c8df-47c0-95bd-916cb03ba723"
+  ]
+}

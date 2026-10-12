@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "entityId": "32cbe74b-526b-4e2d-972e-e084bc648e50",
+  "kind": "classes",
+  "currentPath": "Sailboats/First Class 8",
+  "name": "First Class 8",
+  "metadata": null,
+  "slug": "97785fa1-ac18-4973-a075-e82f8c8392be",
+  "pathHistory": [
+    "Sailboats/First Class 8"
+  ],
+  "status": "present",
+  "assetIds": [
+    "17e323b6-abbc-4a51-9b67-5df8cbcb2c80",
+    "205505dd-0471-4b15-bd11-d732f4607701",
+    "25b78bc3-60ff-478c-ba29-80df24cfda89",
+    "25c6ac68-73c3-4f44-a244-62c6d7beffbc",
+    "2f206bc5-35e8-4fb8-8dab-3c47152dcc85",
+    "41335ac2-33c9-4ceb-8393-a7f8231f651d",
+    "575de251-0687-44d1-9430-efb258237a5b",
+    "697b5d81-8e37-41e8-bbbb-eb233d6d7ea1",
+    "74cb2edc-4f37-4db2-a0aa-7567a011bf32",
+    "7648e365-0912-4b3a-8fce-105adb0c4f4e",
+    "bb3e48ab-8249-480e-8493-e81c75856c49",
+    "c4dc023c-0cc5-46be-a20f-1aec717cf8a6",
+    "eb997ad8-2742-4c6b-ae55-57fc39d8ff8a",
+    "f5233461-496f-4148-9669-7479b9d28bce",
+    "f67820d4-ae0e-4e08-ac76-19b8ca6aa672"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assetId": "28c45f28-a848-4dba-9d8d-1176ac955778",
+  "assetRole": "boat-reference",
+  "associationOverride": false,
+  "contentHash": "343945042b4d1f0c61aec0b2225d0d2effa707511da9222b8a1e75775b0bcb58",
+  "currentPath": "Powerboats/Curtis and Pape Motor Launch/Curtis-and-Pape-Motor-Launch-cockpit-forward.jpeg",
+  "originalFilename": "Curtis-and-Pape-Motor-Launch-cockpit-forward.jpeg",
+  "pathHistory": [
+    "Powerboats/Curtis and Pape Motor Launch/Curtis-and-Pape-Motor-Launch-cockpit-forward.jpeg"
+  ],
+  "status": "present",
+  "sizeBytes": 1106018,
+  "modifiedAt": "2026-10-12T20:17:33.732Z",
+  "classId": null,
+  "boatId": "07a3f179-5471-4188-84f1-76ada46dccfc",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": ""
+}

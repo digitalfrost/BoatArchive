@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "entityId": "89621cfa-82e0-4cb4-821f-13a34fe453d9",
+  "kind": "classes",
+  "currentPath": "Sailboats/Dories/26ft Seine Dory",
+  "name": "26ft Seine Dory",
+  "metadata": null,
+  "slug": "6529b163-0814-47ab-a6da-ed103dbbc6bf",
+  "pathHistory": [
+    "Sailboats/Dories/26ft Seine Dory"
+  ],
+  "status": "present",
+  "assetIds": [
+    "2befc9b8-1e5c-468e-8648-6b533075d8f8",
+    "37d94da6-0fdf-4ef1-ab2f-508daf174059",
+    "3b346ec6-d198-465d-a245-c5125133b931",
+    "5f45fcb5-59c1-41e8-8f36-4f09c4a96f47",
+    "af7b8997-838d-48ad-b3de-898ab44623f1",
+    "bd2daea5-e51b-405c-ad8d-7a32ae103ab0",
+    "fa309e97-7f5c-4cb8-b193-da935b98da34"
+  ]
+}

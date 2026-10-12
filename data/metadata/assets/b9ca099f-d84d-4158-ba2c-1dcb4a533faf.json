@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "b9ca099f-d84d-4158-ba2c-1dcb4a533faf",
+  "assetRole": "standalone-reference",
+  "associationOverride": false,
+  "contentHash": "5aaecaaec7849733af1f46041f8d00e7349e894a1d4f3e0b9139bbbe05742f6b",
+  "currentPath": "References/pintle-001.jpg",
+  "originalFilename": "pintle-001.jpg",
+  "pathHistory": [
+    "References/pintle-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 64084,
+  "modifiedAt": "2024-06-29T15:17:55.755Z",
+  "classId": null,
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [
+    "e28d0262-5c1f-4b12-a426-b49de7ba8c5e"
+  ],
+  "notes": ""
+}

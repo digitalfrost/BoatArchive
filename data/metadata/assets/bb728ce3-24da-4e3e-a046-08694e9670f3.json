@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assetId": "bb728ce3-24da-4e3e-a046-08694e9670f3",
+  "assetRole": "boat-reference",
+  "associationOverride": false,
+  "contentHash": "8abc9edbbeb17de13efb93d19b54a1ef133cc14f45e77fd832aa860589c479aa",
+  "currentPath": "Sailboats/Gaffers/Centreboard-Bermudan-Cutter/Centreboard-Bermudan-Cutter-cockpit-aft.jpeg",
+  "originalFilename": "Centreboard-Bermudan-Cutter-cockpit-aft.jpeg",
+  "pathHistory": [
+    "Sailboats/Gaffers/Centreboard-Bermudan-Cutter/Centreboard-Bermudan-Cutter-cockpit-aft.jpeg"
+  ],
+  "status": "present",
+  "sizeBytes": 925402,
+  "modifiedAt": "2026-10-12T20:12:21.857Z",
+  "classId": null,
+  "boatId": "853b5bf1-5b55-4839-891a-06ca63145c79",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": ""
+}

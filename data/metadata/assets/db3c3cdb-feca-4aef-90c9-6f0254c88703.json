@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assetId": "db3c3cdb-feca-4aef-90c9-6f0254c88703",
+  "assetRole": "boat-reference",
+  "associationOverride": false,
+  "contentHash": "3e597daee0988bef063fe8c98b9d50aec8e6c559a526305c36308e753a3adda9",
+  "currentPath": "Powerboats/Curtis and Pape Motor Launch/Curtis-and-Pape-Motor-Launch-cover-stern.jpeg",
+  "originalFilename": "Curtis-and-Pape-Motor-Launch-cover-stern.jpeg",
+  "pathHistory": [
+    "Powerboats/Curtis and Pape Motor Launch/Curtis-and-Pape-Motor-Launch-cover-stern.jpeg"
+  ],
+  "status": "present",
+  "sizeBytes": 1110635,
+  "modifiedAt": "2026-10-12T20:18:52.580Z",
+  "classId": null,
+  "boatId": "07a3f179-5471-4188-84f1-76ada46dccfc",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": ""
+}

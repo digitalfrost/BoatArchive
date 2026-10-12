@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assetId": "697b5d81-8e37-41e8-bbbb-eb233d6d7ea1",
+  "assetRole": "boat-reference",
+  "associationOverride": false,
+  "contentHash": "0c00faafd9d6e0f5f86d101b041fd2d2f0b942c4bff4f3e3ff65f0f116d12802",
+  "currentPath": "Sailboats/First Class 8/first-class-8-011.webp",
+  "originalFilename": "first-class-8-011.webp",
+  "pathHistory": [
+    "Sailboats/First Class 8/first-class-8-011.webp"
+  ],
+  "status": "present",
+  "sizeBytes": 146108,
+  "modifiedAt": "2026-10-11T12:48:08.623Z",
+  "classId": "32cbe74b-526b-4e2d-972e-e084bc648e50",
+  "boatId": null,
+  "metadata": "{\"format\":\"webp\"}",
+  "tags": [],
+  "notes": ""
+}

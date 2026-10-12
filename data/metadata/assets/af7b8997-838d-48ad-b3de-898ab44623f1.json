@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assetId": "af7b8997-838d-48ad-b3de-898ab44623f1",
+  "assetRole": "boat-reference",
+  "associationOverride": false,
+  "contentHash": "71d6437884eaecbafc7f3782b818b5b07a19d59d164318603c027e632f100b62",
+  "currentPath": "Sailboats/Dories/26ft Seine Dory/26ft-seine-dory-002.webp",
+  "originalFilename": "26ft-seine-dory-002.webp",
+  "pathHistory": [
+    "Sailboats/Dories/26ft Seine Dory/26ft-seine-dory-002.webp"
+  ],
+  "status": "present",
+  "sizeBytes": 157568,
+  "modifiedAt": "2026-10-11T17:52:28.882Z",
+  "classId": "89621cfa-82e0-4cb4-821f-13a34fe453d9",
+  "boatId": null,
+  "metadata": "{\"format\":\"webp\"}",
+  "tags": [],
+  "notes": ""
+}

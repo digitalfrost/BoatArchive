@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assetId": "f5233461-496f-4148-9669-7479b9d28bce",
+  "assetRole": "boat-reference",
+  "associationOverride": false,
+  "contentHash": "c68b521e62087106066311b621e123a0775b3aabe191eb652c505f45f435febb",
+  "currentPath": "Sailboats/First Class 8/first-class-8-polaire.jpg",
+  "originalFilename": "first-class-8-polaire.jpg",
+  "pathHistory": [
+    "Sailboats/First Class 8/first-class-8-polaire.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 76242,
+  "modifiedAt": "2026-10-11T12:47:51.503Z",
+  "classId": "32cbe74b-526b-4e2d-972e-e084bc648e50",
+  "boatId": null,
+  "metadata": "{\"format\":\"webp\"}",
+  "tags": [],
+  "notes": ""
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "assetId": "8c247e43-f1d2-4f8d-8945-276eeb078789",
+  "assetRole": "standalone-reference",
+  "associationOverride": false,
+  "contentHash": "e0269c8feb5f5aaa955807f47528c5940ddde6039474afacfbce6ef0b0a6aca3",
+  "currentPath": "References/centreboard-trunk-002.jpeg",
+  "originalFilename": "centreboard-trunk-002.jpeg",
+  "pathHistory": [
+    "References/centreboard-trunk-002.jpeg"
+  ],
+  "status": "present",
+  "sizeBytes": 1149818,
+  "modifiedAt": "2026-10-12T18:29:41.486Z",
+  "classId": null,
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [
+    "c7e8fc64-7bac-4831-9b90-8af7cb18641e",
+    "e8c1c740-727d-48c4-b27f-5c6148b5ccf0"
+  ],
+  "notes": ""
+}

@@ -2,13 +2,14 @@
   "version": 1,
   "entityId": "d9324885-e7d0-4765-910f-181d58fef2f0",
   "kind": "classes",
-  "currentPath": "Sailboats/Dories/19’6” Modified Banks Dory",
-  "name": "19’6” Modified Banks Dory",
+  "currentPath": "Sailboats/Dories/19ft6 Modified Banks Dory",
+  "name": "19ft6 Modified Banks Dory",
   "metadata": null,
   "slug": "19-6-modified-banks-dory-d20a883b304f",
   "pathHistory": [
     "Dories/19’6” Modified Banks Dory",
-    "Sailboats/Dories/19’6” Modified Banks Dory"
+    "Sailboats/Dories/19’6” Modified Banks Dory",
+    "Sailboats/Dories/19ft6 Modified Banks Dory"
   ],
   "status": "present",
   "assetIds": [

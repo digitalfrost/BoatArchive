@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "entityId": "b23bfd80-bf57-40ed-bc46-2287a9a60717",
+  "kind": "classes",
+  "currentPath": "Sailboats/Ian Oughtred Designs/Acorn 15",
+  "name": "Acorn 15",
+  "metadata": null,
+  "slug": "c53d96b2-2c18-4afc-acb5-dfc255a92c55",
+  "pathHistory": [
+    "Sailboats/Ian Oughtred Designs/Acorn 15"
+  ],
+  "status": "present",
+  "assetIds": [
+    "118274bb-3a64-4bcd-abe4-5a50c75e416d",
+    "3c3890ce-a978-4876-94c2-c8d6b3a5e972",
+    "544ffc7d-65c2-4e85-80ed-23fbdafc10e4",
+    "5b647369-f26d-4fac-84a9-5d0f66c0c071",
+    "6270cd3f-1956-43bf-89b2-aa62207c5326",
+    "6cccd260-3e2e-4fcf-9842-b2a0e576aa97",
+    "6ccde9dd-08c5-4576-bb33-9d1af8fddadd",
+    "7b332bc2-9b86-4ef2-b6ea-70a2e3ce5c2c",
+    "a3495749-ed20-4680-ad8b-de313261ef3d",
+    "a54228ec-e460-428e-a094-bbf31adc8e0e",
+    "c2c38128-ab6f-4111-9554-d1721462da2e",
+    "d3468f21-3bf9-4ce6-8d88-e8926a21ab59",
+    "d9e2f292-5f7c-4928-aa77-9030d6003dbd"
+  ]
+}

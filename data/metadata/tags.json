@@ -18,12 +18,44 @@
       "updated_at": "2026-10-09T21:36:03.088Z"
     },
     {
+      "stable_id": "a544ac77-a641-4534-aa49-3989675fb5b7",
+      "name": "motor-well",
+      "slug": "motor-well",
+      "category": null,
+      "created_at": "2026-10-12T11:10:05.841Z",
+      "updated_at": "2026-10-12T11:10:05.841Z"
+    },
+    {
       "stable_id": "bf4e019d-8f37-4252-a58a-12714c991c28",
       "name": "mast partner",
       "slug": "mast-partner",
       "category": null,
       "created_at": "2026-10-10T18:40:40.351Z",
       "updated_at": "2026-10-10T18:41:09.650Z"
+    },
+    {
+      "stable_id": "c7e8fc64-7bac-4831-9b90-8af7cb18641e",
+      "name": "centreboard-trunk",
+      "slug": "centreboard-trunk",
+      "category": null,
+      "created_at": "2026-10-12T18:09:11.018Z",
+      "updated_at": "2026-10-12T18:09:11.018Z"
+    },
+    {
+      "stable_id": "e28d0262-5c1f-4b12-a426-b49de7ba8c5e",
+      "name": "pintle",
+      "slug": "pintle",
+      "category": null,
+      "created_at": "2026-10-12T11:09:36.556Z",
+      "updated_at": "2026-10-12T11:09:36.556Z"
+    },
+    {
+      "stable_id": "e8c1c740-727d-48c4-b27f-5c6148b5ccf0",
+      "name": "thwart-riser",
+      "slug": "thwart-riser",
+      "category": null,
+      "created_at": "2026-10-12T20:27:31.049Z",
+      "updated_at": "2026-10-12T20:27:31.049Z"
     }
   ]
 }

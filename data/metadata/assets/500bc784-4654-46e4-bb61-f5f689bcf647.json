@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assetId": "500bc784-4654-46e4-bb61-f5f689bcf647",
+  "assetRole": "boat-reference",
+  "associationOverride": false,
+  "contentHash": "877b103152abb85f0e3a7eef666a2c8e59687380c3f1934258728967cf23d2a5",
+  "currentPath": "Sailboats/Gaffers/Centreboard-Bermudan-Cutter/Centreboard-Bermudan-Cutter-battery.jpeg",
+  "originalFilename": "Centreboard-Bermudan-Cutter-battery.jpeg",
+  "pathHistory": [
+    "Sailboats/Gaffers/Centreboard-Bermudan-Cutter/Centreboard-Bermudan-Cutter-battery.jpeg"
+  ],
+  "status": "present",
+  "sizeBytes": 852265,
+  "modifiedAt": "2026-10-12T20:12:39.517Z",
+  "classId": null,
+  "boatId": "853b5bf1-5b55-4839-891a-06ca63145c79",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": ""
+}

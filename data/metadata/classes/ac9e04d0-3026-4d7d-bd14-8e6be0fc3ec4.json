@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "entityId": "ac9e04d0-3026-4d7d-bd14-8e6be0fc3ec4",
+  "kind": "classes",
+  "currentPath": "Sailboats/Ian Oughtred Designs/Guillemot",
+  "name": "Guillemot",
+  "metadata": null,
+  "slug": "756ded4a-80bc-4e57-93bc-1e678de542cb",
+  "pathHistory": [
+    "Sailboats/Ian Oughtred Designs/Guillemot"
+  ],
+  "status": "present",
+  "assetIds": [
+    "14a14bc4-1df8-47e5-a64c-ecf1fdb62fab",
+    "2c9896e0-d764-4ac2-b9a4-1218b3bd2e59",
+    "3b37e6c4-00b8-457a-bbed-22ad5a79651b",
+    "40aa755d-e33a-4775-8e5f-19d085349d56",
+    "4de0531f-9c90-4d4c-b55b-0db8f53581ad",
+    "759bcd6e-da24-4364-9ebe-28b66d123cca",
+    "78a73628-2d09-4c85-87a2-424e0d5667da",
+    "83ee3a2d-efe8-4adf-8b3f-96c2298a5be2",
+    "87cc669d-63b7-4e37-8048-25422e6f8324",
+    "b724be47-3287-4ffc-8007-245d2549e0e5",
+    "c1d2ce4b-c7a5-4c3a-a2e4-a1b89a4a3580",
+    "dc232496-9ccd-414f-a4e5-2f38ff364007"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assetId": "f67820d4-ae0e-4e08-ac76-19b8ca6aa672",
+  "assetRole": "boat-reference",
+  "associationOverride": false,
+  "contentHash": "45d88fdc68e693855e29cd72b1919754995d8f57f87e52f8eac3f0c0fe29f939",
+  "currentPath": "Sailboats/First Class 8/first-class-8-interior-001.webp",
+  "originalFilename": "first-class-8-interior-001.webp",
+  "pathHistory": [
+    "Sailboats/First Class 8/first-class-8-interior-001.webp"
+  ],
+  "status": "present",
+  "sizeBytes": 45820,
+  "modifiedAt": "2026-10-11T12:44:51.482Z",
+  "classId": "32cbe74b-526b-4e2d-972e-e084bc648e50",
+  "boatId": null,
+  "metadata": "{\"format\":\"webp\"}",
+  "tags": [],
+  "notes": ""
+}

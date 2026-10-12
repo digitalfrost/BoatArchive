@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assetId": "c3d35f90-5e5f-4edb-aec2-4dfb8d8a9268",
+  "assetRole": "boat-reference",
+  "associationOverride": false,
+  "contentHash": "5519b89f0e82c22ca96a066557f388edb3057b386a268373fc979cff8796e4e1",
+  "currentPath": "Powerboats/Curtis and Pape Motor Launch/Curtis-and-Pape-Motor-Launch-helm.jpeg",
+  "originalFilename": "Curtis-and-Pape-Motor-Launch-helm.jpeg",
+  "pathHistory": [
+    "Powerboats/Curtis and Pape Motor Launch/Curtis-and-Pape-Motor-Launch-helm.jpeg"
+  ],
+  "status": "present",
+  "sizeBytes": 1174319,
+  "modifiedAt": "2026-10-12T20:17:39.405Z",
+  "classId": null,
+  "boatId": "07a3f179-5471-4188-84f1-76ada46dccfc",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": ""
+}

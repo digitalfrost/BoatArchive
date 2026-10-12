@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assetId": "7dac495b-00c6-49ab-badc-4bf91de33bb0",
+  "assetRole": "standalone-reference",
+  "associationOverride": false,
+  "contentHash": "961e0c687d7becacc6a675175144f27710d0fdda83e7585d5426dd9b09a84efc",
+  "currentPath": "References/thwart-001.jpeg",
+  "originalFilename": "thwart-001.jpeg",
+  "pathHistory": [
+    "References/thwart-001.jpeg"
+  ],
+  "status": "present",
+  "sizeBytes": 196140,
+  "modifiedAt": "2026-10-12T18:30:10.349Z",
+  "classId": null,
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [
+    "e8c1c740-727d-48c4-b27f-5c6148b5ccf0"
+  ],
+  "notes": ""
+}
