@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assetId": "a17719f4-7a40-4f34-9125-a30aea69a3eb",
+  "assetRole": "boat-reference",
+  "associationOverride": false,
+  "contentHash": "2439a3700f209e59288f8009141c4c44814adceec7df873be3763ffded803309",
+  "currentPath": "Sailboats/Quarter Tonners/Purple Haze/Purple-Haze-005.jpg",
+  "originalFilename": "Purple-Haze-005.jpg",
+  "pathHistory": [
+    "Sailboats/Quarter Tonners/Purple Haze/Purple-Haze-005.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 61511,
+  "modifiedAt": "2026-10-17T09:21:45.756Z",
+  "classId": null,
+  "boatId": "1138c8bb-f76a-45fb-bcb9-87a32eea1852",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": ""
+}

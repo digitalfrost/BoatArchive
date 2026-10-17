@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "entityId": "1748f831-7861-449b-84ee-bf56ee078531",
+  "kind": "boats",
+  "currentPath": "Sailboats/Quarter Tonners/David Thomas Bob Hoare Quarter Tonner",
+  "name": "David Thomas Bob Hoare Quarter Tonner",
+  "metadata": null,
+  "classId": null,
+  "sailNumber": null,
+  "pathHistory": [
+    "Sailboats/Quarter Tonners/David Thomas Bob Hoare Quarter Tonner"
+  ],
+  "status": "present",
+  "assetIds": [
+    "059b67fe-4a24-4c11-890a-78c460f6de10",
+    "1cacdd38-742d-43d8-8cfc-4651fc52f796",
+    "27b16b58-0dfb-47a6-ba86-48d9b18e8516",
+    "329117c0-f8e8-4fa5-8712-70ff33ae3b6d",
+    "39b56974-1f1e-4352-ad63-2a120f960f05",
+    "424e2baa-a1aa-4a52-9e24-b697f321d50e",
+    "4933cb77-d9d4-4d77-ac47-01b3e7c3755d",
+    "5394f37a-8961-4dfc-931c-839c3d0f4c15",
+    "5d104ee1-53bf-4e5d-87bb-0f5a37281ccb",
+    "5e91645c-44f2-42a0-aa51-669581883268",
+    "6bf29642-cfe1-49fa-a80d-5dec07950ebc",
+    "a0c8d4de-e815-4fe6-a6b7-403631a46552",
+    "b936a3fe-cc17-47e3-9d91-edad082f1fb3",
+    "bc9a5710-a308-4dbc-945d-d1d8441a9617",
+    "cc2462d6-2667-4063-9925-7cb36ec503f7",
+    "df3bd9e1-d00f-4851-84f4-f8546e1b9717",
+    "fee4c8a1-f970-4e07-a991-8d43709a699b"
+  ],
+  "tags": [
+    "bb3cd80d-2d4d-4ef6-bc55-c5ee0850892d"
+  ]
+}

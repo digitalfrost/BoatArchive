@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assetId": "4933cb77-d9d4-4d77-ac47-01b3e7c3755d",
+  "assetRole": "boat-reference",
+  "associationOverride": false,
+  "contentHash": "69c4e586c62f2e809e54771c6bfc7ae242e56319ece57220ed59ed91317e8ba6",
+  "currentPath": "Sailboats/Quarter Tonners/David Thomas Bob Hoare Quarter Tonner/David-Thomas-Bob-Hoare-Quarter-Tonner014.jpeg",
+  "originalFilename": "David-Thomas-Bob-Hoare-Quarter-Tonner014.jpeg",
+  "pathHistory": [
+    "Sailboats/Quarter Tonners/David Thomas Bob Hoare Quarter Tonner/David-Thomas-Bob-Hoare-Quarter-Tonner014.jpeg"
+  ],
+  "status": "present",
+  "sizeBytes": 603710,
+  "modifiedAt": "2026-10-17T09:43:19.744Z",
+  "classId": null,
+  "boatId": "1748f831-7861-449b-84ee-bf56ee078531",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": ""
+}
