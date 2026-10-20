@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "entityId": "2e5ac219-1606-40c9-9b2c-633d0d8d4e1f",
+  "kind": "classes",
+  "currentPath": "Houseboats/40-foot Drift-R-Cruz",
+  "name": "40-foot Drift-R-Cruz",
+  "metadata": null,
+  "slug": "1c43b6de-deac-4cc3-abc7-d29ce3d49074",
+  "pathHistory": [
+    "Houseboats/40-foot Drift-R-Cruz"
+  ],
+  "status": "present",
+  "assetIds": [
+    "47e9d3b4-23db-4ca8-a47e-0b5921ab59ed",
+    "50f4fc81-b113-4ea2-a2a3-d097bb880e20"
+  ]
+}

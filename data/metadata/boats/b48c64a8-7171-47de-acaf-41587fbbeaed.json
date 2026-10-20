@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "entityId": "b48c64a8-7171-47de-acaf-41587fbbeaed",
+  "kind": "boats",
+  "currentPath": "Sailboats/Moure de Pouar/Galineto",
+  "name": "Galineto",
+  "metadata": null,
+  "classId": "021a235c-4b29-43bd-a0ef-1efccbc4b251",
+  "sailNumber": null,
+  "pathHistory": [
+    "Sailboats/Moure de Pouar/Galineto"
+  ],
+  "status": "present",
+  "assetIds": [
+    "2588f18c-4bf9-4830-838f-0b3af7d0c9fa"
+  ]
+}

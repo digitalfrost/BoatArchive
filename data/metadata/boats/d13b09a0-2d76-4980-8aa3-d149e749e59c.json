@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "entityId": "d13b09a0-2d76-4980-8aa3-d149e749e59c",
+  "kind": "boats",
+  "currentPath": "Sailboats/Moure de Pouar/Lisieux",
+  "name": "Lisieux",
+  "metadata": null,
+  "classId": "021a235c-4b29-43bd-a0ef-1efccbc4b251",
+  "sailNumber": null,
+  "pathHistory": [
+    "Sailboats/Moure de Pouar/Lisieux"
+  ],
+  "status": "present",
+  "assetIds": [
+    "2f2da24a-6c52-464b-bc72-4e07e767ae44",
+    "97be8ecc-6dff-42d4-b780-b38fb486a9cf",
+    "a60047f7-5df1-46ce-8bb6-1236bdbe33af",
+    "bdd56ce5-0251-44cb-9cab-821eb0214b72",
+    "f39b797c-9c03-4738-bcde-f767557c8a04"
+  ]
+}

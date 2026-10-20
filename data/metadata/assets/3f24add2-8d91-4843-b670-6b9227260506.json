@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assetId": "3f24add2-8d91-4843-b670-6b9227260506",
+  "assetRole": "boat-reference",
+  "associationOverride": false,
+  "contentHash": "57a1222401c772525d864c945829a9fce0c625ef52ae4a58e153e3d376f1b80c",
+  "currentPath": "Kayaks/Vember/vember-005.png",
+  "originalFilename": "vember-005.png",
+  "pathHistory": [
+    "Kayaks/Vember/vember-005.png"
+  ],
+  "status": "present",
+  "sizeBytes": 165073,
+  "modifiedAt": "2026-10-20T10:01:47.606Z",
+  "classId": "02bfaa5e-6cb6-49ee-85b1-8ecd13fdb867",
+  "boatId": null,
+  "metadata": "{\"format\":\"png\"}",
+  "tags": [],
+  "notes": ""
+}

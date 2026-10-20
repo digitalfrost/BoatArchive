@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "entityId": "02bfaa5e-6cb6-49ee-85b1-8ecd13fdb867",
+  "kind": "classes",
+  "currentPath": "Kayaks/Vember",
+  "name": "Vember",
+  "metadata": null,
+  "slug": "3ff5ee2a-0430-4688-89dc-a1df2675cc30",
+  "pathHistory": [
+    "Kayaks/Vember"
+  ],
+  "status": "present",
+  "assetIds": [
+    "01711ac9-b676-4313-b7ea-47097df36166",
+    "23846615-0b16-4a2b-a5da-979395783ca0",
+    "398a2340-7038-4c78-95d5-402ac55e2921",
+    "3f24add2-8d91-4843-b670-6b9227260506",
+    "3fbe12bc-980e-43f8-9869-ff2ca0b7fb9e",
+    "5a6bb505-590d-41aa-94b2-e09c594cb2b7",
+    "d29d8a34-bd3e-4ebf-8b66-d3ce78895544",
+    "d9d33b0c-1630-49ee-8847-01133375be46"
+  ]
+}

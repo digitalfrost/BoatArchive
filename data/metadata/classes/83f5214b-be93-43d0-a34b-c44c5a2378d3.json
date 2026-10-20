@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "entityId": "83f5214b-be93-43d0-a34b-c44c5a2378d3",
+  "kind": "classes",
+  "currentPath": "Sailboats/Secret 20",
+  "name": "Secret 20",
+  "metadata": null,
+  "slug": "892fced4-a4eb-47b2-b23b-91c83d2dbc61",
+  "pathHistory": [
+    "Sailboats/Secret 20"
+  ],
+  "status": "present",
+  "assetIds": [
+    "0ea8b69f-bffe-459f-8a35-ec92d46ede27",
+    "116ee781-76f6-4add-96cc-6f1d67e0a78a",
+    "20fc95be-bd02-4426-9599-654b82057577",
+    "25b86580-1fc6-45be-aac0-4220fc5a2c65",
+    "260cf0f8-5cb4-4bf0-ac36-638466ce8951",
+    "2c45cb99-f393-4189-9c63-d79380e170cd",
+    "2e5696e2-50ce-44bd-a058-d0c7804e9c47",
+    "39fd961d-f7c4-4e02-9e75-504165e5d4f5",
+    "484cb690-3e29-4d2f-bc0a-f9c34f66f654",
+    "5ea10106-0440-461a-9db8-45ed1b3d920d",
+    "61094377-be7a-4613-be90-c326f843dd20",
+    "64e25f05-afe5-4e39-b369-803cc40d17d0",
+    "764cec8f-5559-464f-ba35-443d67878e80",
+    "7805532f-a9be-4a66-a68e-0769528db406",
+    "8493b200-0f4a-4542-8d04-d2a404e88dd4",
+    "9b5ffde0-a696-4aff-95cc-91aa4fde9853",
+    "ab3ca1d7-5af1-4e87-8c29-1cb249bb73f5",
+    "af668b24-2911-4826-9fbe-9a9e466e997c",
+    "b07efe53-3acc-47e6-80e0-975ded90bec7",
+    "bc5b9eca-ee90-42e6-a974-817707085898",
+    "bc78fbec-4d09-4285-8e5d-eef324703aa5",
+    "c04c7605-85d7-4443-a319-854360884e4c",
+    "c8d78af8-77cf-4ec4-a77f-2b8d02a8ce52",
+    "d2f53685-87dd-43a9-8182-a4f53042b2a7",
+    "e714c5de-c27f-4e3e-8077-4c6c629e11e9",
+    "e9712ba7-cb95-4cd0-b027-59bc5d691fcd",
+    "f322c24d-4fe6-46e1-a55b-2afdc50285d1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assetId": "97be8ecc-6dff-42d4-b780-b38fb486a9cf",
+  "assetRole": "boat-reference",
+  "associationOverride": false,
+  "contentHash": "4e89c8e52583f602a4d8cc0ab72471e197ff945f42a89747eba806e03eb8daab",
+  "currentPath": "Sailboats/Moure de Pouar/Lisieux/Lisieux-003.jpeg",
+  "originalFilename": "Lisieux-003.jpeg",
+  "pathHistory": [
+    "Sailboats/Moure de Pouar/Lisieux/Lisieux-003.jpeg"
+  ],
+  "status": "present",
+  "sizeBytes": 497341,
+  "modifiedAt": "2026-10-20T08:02:38.309Z",
+  "classId": "021a235c-4b29-43bd-a0ef-1efccbc4b251",
+  "boatId": "d13b09a0-2d76-4980-8aa3-d149e749e59c",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": ""
+}

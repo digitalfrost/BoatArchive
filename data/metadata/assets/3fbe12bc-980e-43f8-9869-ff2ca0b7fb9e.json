@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assetId": "3fbe12bc-980e-43f8-9869-ff2ca0b7fb9e",
+  "assetRole": "boat-reference",
+  "associationOverride": false,
+  "contentHash": "71add0a91c1cccfd3610eaded445e97f6847b6deef1ec0ab401c6eec1b16da51",
+  "currentPath": "Kayaks/Vember/VemberPlans_v8.zip",
+  "originalFilename": "VemberPlans_v8.zip",
+  "pathHistory": [
+    "Kayaks/Vember/VemberPlans_v8.zip"
+  ],
+  "status": "present",
+  "sizeBytes": 15330267,
+  "modifiedAt": "2024-04-17T17:38:26.390Z",
+  "classId": "02bfaa5e-6cb6-49ee-85b1-8ecd13fdb867",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": ""
+}

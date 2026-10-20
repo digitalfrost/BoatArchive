@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assetId": "8493b200-0f4a-4542-8d04-d2a404e88dd4",
+  "assetRole": "boat-reference",
+  "associationOverride": false,
+  "contentHash": "99c179825dcdd7a19994c907e67fabfa119be5d2ac37a7babed2e17146457814",
+  "currentPath": "Sailboats/Secret 20/Secret-20-012.webp",
+  "originalFilename": "Secret-20-012.webp",
+  "pathHistory": [
+    "Sailboats/Secret 20/Secret-20-012.webp"
+  ],
+  "status": "present",
+  "sizeBytes": 110586,
+  "modifiedAt": "2026-10-20T08:49:43.443Z",
+  "classId": "83f5214b-be93-43d0-a34b-c44c5a2378d3",
+  "boatId": null,
+  "metadata": "{\"format\":\"webp\"}",
+  "tags": [],
+  "notes": ""
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assetId": "9b5ffde0-a696-4aff-95cc-91aa4fde9853",
+  "assetRole": "boat-reference",
+  "associationOverride": false,
+  "contentHash": "2e7e2afd15646342e9d0054e7950e0690824b80cc40b78f4cfe10c1c7dde60cb",
+  "currentPath": "Sailboats/Secret 20/Secret-20-010.jpg",
+  "originalFilename": "Secret-20-010.jpg",
+  "pathHistory": [
+    "Sailboats/Secret 20/Secret-20-010.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 114628,
+  "modifiedAt": "2026-10-20T09:36:32.687Z",
+  "classId": "83f5214b-be93-43d0-a34b-c44c5a2378d3",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": ""
+}
