@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assetId": "8fc44281-7092-4f51-9ed7-57644ea972e9",
+  "assetRole": "boat-reference",
+  "associationOverride": false,
+  "contentHash": "1e9d6c7f79d642a8f1157c2385c970b3d17385305535ccdbe2365472e6ca1ffd",
+  "currentPath": "Sailboats/Sneak Box/12ft Barnegat Bay Sneak Box/12ft-sneak-box-009.jpg",
+  "originalFilename": "12ft-sneak-box-009.jpg",
+  "pathHistory": [
+    "Sailboats/Sneak Box/12ft Barnegat Bay Sneak Box/12ft-sneak-box-009.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 92156,
+  "modifiedAt": "2026-11-01T11:25:22.874Z",
+  "classId": null,
+  "boatId": "b91f62c6-6f29-4556-b08d-6ed04f455aa1",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": ""
+}

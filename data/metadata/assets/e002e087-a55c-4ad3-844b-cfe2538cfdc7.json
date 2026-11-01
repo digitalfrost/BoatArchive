@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assetId": "e002e087-a55c-4ad3-844b-cfe2538cfdc7",
+  "assetRole": "boat-reference",
+  "associationOverride": false,
+  "contentHash": "75f8fdafb5bede64cd820e5f35726305d63c82f69e843f42f451b7487cd648ee",
+  "currentPath": "Sailboats/Delaware Ducker/Restored Delaware Ducker/restored-delaware-ducker-003.jpg",
+  "originalFilename": "restored-delaware-ducker-003.jpg",
+  "pathHistory": [
+    "Sailboats/Delaware Ducker/Restored Delaware Ducker/restored-delaware-ducker-003.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 3941456,
+  "modifiedAt": "2026-11-01T10:53:52.909Z",
+  "classId": null,
+  "boatId": "1e56b29a-2eb8-425e-b77d-d9d3efa3b1f9",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": ""
+}

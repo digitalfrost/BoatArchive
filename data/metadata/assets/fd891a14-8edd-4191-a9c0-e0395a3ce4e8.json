@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assetId": "fd891a14-8edd-4191-a9c0-e0395a3ce4e8",
+  "assetRole": "standalone-reference",
+  "associationOverride": false,
+  "contentHash": "268324c1c448ef14883ce649947749cf7b30978c530bddbca7604e5df6012381",
+  "currentPath": "References/marsh-layout-boat.webp",
+  "originalFilename": "marsh-layout-boat.webp",
+  "pathHistory": [
+    "References/marsh-layout-boat.webp"
+  ],
+  "status": "present",
+  "sizeBytes": 210338,
+  "modifiedAt": "2026-11-01T11:38:49.944Z",
+  "classId": null,
+  "boatId": null,
+  "metadata": "{\"format\":\"webp\"}",
+  "tags": [],
+  "notes": ""
+}

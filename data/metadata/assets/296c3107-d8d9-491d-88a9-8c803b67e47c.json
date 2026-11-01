@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assetId": "296c3107-d8d9-491d-88a9-8c803b67e47c",
+  "assetRole": "boat-reference",
+  "associationOverride": false,
+  "contentHash": "24052b4f83f96ad3dd92d872654a5955de02dc2e93da0e437fc199cc70780f62",
+  "currentPath": "Sailboats/Enez 780/enez-780-006.jpg",
+  "originalFilename": "enez-780-006.jpg",
+  "pathHistory": [
+    "Sailboats/Enez 780/enez-780-006.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 39683,
+  "modifiedAt": "2026-10-20T10:19:28.262Z",
+  "classId": "40f0b91c-1d8f-4e09-b79a-e4b8b071a9d0",
+  "boatId": null,
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": ""
+}

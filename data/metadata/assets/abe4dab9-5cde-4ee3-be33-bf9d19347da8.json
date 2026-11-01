@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assetId": "abe4dab9-5cde-4ee3-be33-bf9d19347da8",
+  "assetRole": "boat-reference",
+  "associationOverride": false,
+  "contentHash": "73286db94a4d4d791938d5162de2513cdd46e293e42c434a2cd9fd79573c8c8c",
+  "currentPath": "Sailboats/First Class 8/_videos/videos.txt.txt",
+  "originalFilename": "videos.txt.txt",
+  "pathHistory": [
+    "Sailboats/First Class 8/_videos/videos.txt.txt"
+  ],
+  "status": "present",
+  "sizeBytes": 264,
+  "modifiedAt": "2026-10-20T14:51:09.342Z",
+  "classId": "32cbe74b-526b-4e2d-972e-e084bc648e50",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": ""
+}

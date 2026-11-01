@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "entityId": "40f0b91c-1d8f-4e09-b79a-e4b8b071a9d0",
+  "kind": "classes",
+  "currentPath": "Sailboats/Enez 780",
+  "name": "Enez 780",
+  "metadata": null,
+  "slug": "b458de65-bf8e-4e39-ad14-8000fc4864f6",
+  "pathHistory": [
+    "Sailboats/Enez 780"
+  ],
+  "status": "present",
+  "assetIds": [
+    "1cd283b7-2dff-4c05-855e-116ae7548453",
+    "296c3107-d8d9-491d-88a9-8c803b67e47c",
+    "66b2d296-4fb8-43de-b0b3-c52131f35d93",
+    "b065e996-1980-4aab-a775-c515f08586ff",
+    "b95f6840-d9a5-49d2-bb6b-1d7be4bf8482",
+    "c402c9f4-71f9-4981-b51a-11181d5ac03e",
+    "d23123a9-a28c-4ae1-8242-bf8dbe49c025",
+    "efbd1f85-25d9-4ef3-8d0f-973ebb1b9a0d",
+    "f1409c51-3fa4-4db8-a175-a4bf27eaea12"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assetId": "472a75a3-25d4-4930-a5ec-fe2b42f8a2cc",
+  "assetRole": "boat-reference",
+  "associationOverride": false,
+  "contentHash": "9326278efd9fbad882ca4eda4257357c37135ee24d258c1cf82faf3b6a345fc4",
+  "currentPath": "Sailboats/Sneak Box/Old Sneak Box/old-sneak-box-005.jpg",
+  "originalFilename": "old-sneak-box-005.jpg",
+  "pathHistory": [
+    "Sailboats/Sneak Box/Old Sneak Box/old-sneak-box-005.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 796403,
+  "modifiedAt": "2026-11-01T11:13:57.037Z",
+  "classId": null,
+  "boatId": "f1d4f58d-9255-47d8-b622-cfd65a2ff9eb",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": ""
+}

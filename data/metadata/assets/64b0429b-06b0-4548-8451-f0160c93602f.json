@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assetId": "64b0429b-06b0-4548-8451-f0160c93602f",
+  "assetRole": "boat-reference",
+  "associationOverride": false,
+  "contentHash": "18b6ad6d0512a80ad4e23df43eb24589c82822ecfc2c5c166d3307c7ee5a05e6",
+  "currentPath": "Sailboats/Sneak Box/16ft Perrine Boatworks Barnegat Bay Sailing Sneakbox/16ft-perrine-boatworks-sneak-box-014.jpg",
+  "originalFilename": "16ft-perrine-boatworks-sneak-box-014.jpg",
+  "pathHistory": [
+    "Sailboats/Sneak Box/16ft Perrine Boatworks Barnegat Bay Sailing Sneakbox/16ft-perrine-boatworks-sneak-box-014.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 26215,
+  "modifiedAt": "2026-11-01T11:12:09.065Z",
+  "classId": null,
+  "boatId": "627c5a53-9607-4bad-8a82-67b553645340",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": ""
+}

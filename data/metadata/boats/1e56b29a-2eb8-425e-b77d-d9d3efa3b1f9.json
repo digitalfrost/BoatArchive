@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "entityId": "1e56b29a-2eb8-425e-b77d-d9d3efa3b1f9",
+  "kind": "boats",
+  "currentPath": "Sailboats/Delaware Ducker/Restored Delaware Ducker",
+  "name": "Restored Delaware Ducker",
+  "metadata": null,
+  "classId": null,
+  "sailNumber": null,
+  "pathHistory": [
+    "Sailboats/Delaware Ducker/Restored Delaware Ducker"
+  ],
+  "status": "present",
+  "assetIds": [
+    "048cff33-f233-48c4-9930-2f30685290c1",
+    "7f1975d5-3438-428c-8d00-a8e435014205",
+    "92a943b9-7e26-41c0-a61e-ad666bf93a96",
+    "9bf3418b-e74b-4c0e-ae1c-ed0faa7ff4d5",
+    "be270077-e874-4f53-aae3-267f1386422a",
+    "dc90a6da-8962-492d-bc21-4dd5ce90df29",
+    "e002e087-a55c-4ad3-844b-cfe2538cfdc7",
+    "ec090087-f7dc-45b7-b33e-bdb1024023ee"
+  ]
+}

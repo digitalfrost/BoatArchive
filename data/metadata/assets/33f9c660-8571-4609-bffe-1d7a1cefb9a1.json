@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assetId": "33f9c660-8571-4609-bffe-1d7a1cefb9a1",
+  "assetRole": "boat-reference",
+  "associationOverride": false,
+  "contentHash": "a74946e997bcf67aac7515cbb49b27b07a33f5e1b1f327ed44a3a7646519fa2b",
+  "currentPath": "Sailboats/Sneak Box/Luna/luna-001.jpg",
+  "originalFilename": "luna-001.jpg",
+  "pathHistory": [
+    "Sailboats/Sneak Box/Luna/luna-001.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 157220,
+  "modifiedAt": "2026-11-01T11:22:06.307Z",
+  "classId": null,
+  "boatId": "342bd540-4974-4166-8c68-f161e6a33c1b",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": ""
+}

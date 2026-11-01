@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "entityId": "627c5a53-9607-4bad-8a82-67b553645340",
+  "kind": "boats",
+  "currentPath": "Sailboats/Sneak Box/16ft Perrine Boatworks Barnegat Bay Sailing Sneakbox",
+  "name": "16ft Perrine Boatworks Barnegat Bay Sailing Sneakbox",
+  "metadata": null,
+  "classId": null,
+  "sailNumber": null,
+  "pathHistory": [
+    "Sailboats/Sneak Box/16ft Perrine Boatworks Barnegat Bay Sailing Sneakbox"
+  ],
+  "status": "present",
+  "assetIds": [
+    "0dff1e40-c9a1-420a-9215-e74b6ea4a17c",
+    "132e91b5-31db-42f3-b3d7-b5b5e7aadeb3",
+    "1374ad29-8b00-411d-9e5a-825bc9aa4904",
+    "288cf551-b7e6-48f5-beb5-63bbad12c9f7",
+    "2f8789bb-f330-452e-99e5-9cf215eef1a2",
+    "39c87750-1bcd-405f-9793-6d9f7ff2aa49",
+    "3c8667ab-99cb-481c-bccf-7221158a2aba",
+    "3d66b86b-5c79-4d71-bd40-e58a55d59dfe",
+    "59427d32-5e8e-4cb9-8a28-a6f88347f20c",
+    "64b0429b-06b0-4548-8451-f0160c93602f",
+    "6574b836-29c7-47e3-8dc1-589f8b5e5320",
+    "7e15272e-b3da-439d-8080-2aacd69c1083",
+    "95e1ea05-bc41-4c20-a795-ee05de548bff",
+    "bb532d28-5e9d-42c3-a886-a47396637664",
+    "bdd9cd50-79b7-4b9e-8691-986369f17cb7",
+    "cfc572a6-8016-4396-a7fc-f602ab58b0b3",
+    "d7690ca2-2e70-4456-93b1-b2b3915a7c59"
+  ]
+}

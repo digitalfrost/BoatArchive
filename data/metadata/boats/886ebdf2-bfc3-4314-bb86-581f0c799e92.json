@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "entityId": "886ebdf2-bfc3-4314-bb86-581f0c799e92",
+  "kind": "boats",
+  "currentPath": "Sailboats/Sneak Box/Old Sneak Box 2",
+  "name": "Old Sneak Box 2",
+  "metadata": null,
+  "classId": null,
+  "sailNumber": null,
+  "pathHistory": [
+    "Sailboats/Sneak Box/Old Sneak Box 2"
+  ],
+  "status": "present",
+  "assetIds": [
+    "22c99966-1cb4-47eb-968b-58cb327a48bd",
+    "39056295-2151-46d9-8f9c-e7e6ebfc89dc",
+    "8b7a366b-cde6-454b-a136-cc430325ca21",
+    "8f5c39ca-f045-437d-9c71-04d1d7c53a2f",
+    "a91044de-3c4b-438c-b642-9126ed0b9eba"
+  ]
+}

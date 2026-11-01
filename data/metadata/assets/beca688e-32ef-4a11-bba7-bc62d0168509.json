@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assetId": "beca688e-32ef-4a11-bba7-bc62d0168509",
+  "assetRole": "boat-reference",
+  "associationOverride": false,
+  "contentHash": "dec44adb98e255ead76ac39545693584563ac111babebfda9a7993daf69d4494",
+  "currentPath": "Sailboats/Sneak Box/Adagio/adagio-003.jpg",
+  "originalFilename": "adagio-003.jpg",
+  "pathHistory": [
+    "Sailboats/Sneak Box/Adagio/adagio-003.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 121347,
+  "modifiedAt": "2026-11-01T11:19:08.181Z",
+  "classId": null,
+  "boatId": "ae26a2a7-2bb2-4dc5-ad9c-964ee13ce34e",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": ""
+}

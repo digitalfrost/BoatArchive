@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "entityId": "342bd540-4974-4166-8c68-f161e6a33c1b",
+  "kind": "boats",
+  "currentPath": "Sailboats/Sneak Box/Luna",
+  "name": "Luna",
+  "metadata": null,
+  "classId": null,
+  "sailNumber": null,
+  "pathHistory": [
+    "Sailboats/Sneak Box/Luna"
+  ],
+  "status": "present",
+  "assetIds": [
+    "082a3d8b-bb65-4b51-8286-6a4d774069c3",
+    "33f9c660-8571-4609-bffe-1d7a1cefb9a1",
+    "42dd80ae-fda6-416f-b61c-944f750fba31",
+    "438234ec-80fc-4022-9eb5-6870c0e84ab4",
+    "43f19cad-b740-4fd9-ba19-dbec62aa9a67",
+    "c40f7f32-971e-4823-b6f9-ba1cadd569b5",
+    "ddfe9057-569c-4ba4-9f1a-9c716827377f"
+  ]
+}

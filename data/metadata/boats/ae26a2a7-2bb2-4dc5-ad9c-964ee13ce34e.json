@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "entityId": "ae26a2a7-2bb2-4dc5-ad9c-964ee13ce34e",
+  "kind": "boats",
+  "currentPath": "Sailboats/Sneak Box/Adagio",
+  "name": "Adagio",
+  "metadata": null,
+  "classId": null,
+  "sailNumber": null,
+  "pathHistory": [
+    "Sailboats/Sneak Box/Adagio"
+  ],
+  "status": "present",
+  "assetIds": [
+    "13545391-c4f5-44b6-a8d5-5eacf07db043",
+    "2617eddc-4fd8-43d5-90ff-4b9150c45db2",
+    "2968809e-72ab-4d92-b3c5-9200262a1d78",
+    "647946ba-4b46-4983-8887-876981af601b",
+    "665d4c1e-80b9-4fdd-9dc8-aab1ba422dea",
+    "69fa77fe-5965-4d23-bad9-a93b6ccd21a7",
+    "734016e5-ed80-49c2-8537-24fb42e1d9a2",
+    "7578d7ae-0148-4315-8699-0c3a5adb56f3",
+    "8621c869-f418-4a31-b01a-7d991346b617",
+    "b8fb80cc-9237-428c-b0ae-3b2c8573b66f",
+    "beca688e-32ef-4a11-bba7-bc62d0168509",
+    "c4b6a951-8dae-41ac-bc39-7d767e4f6bda",
+    "d7c3a2c7-5df8-4dbc-bad3-ddad4bac9d4a"
+  ]
+}

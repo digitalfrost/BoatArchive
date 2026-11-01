@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "entityId": "7f4cc8bd-cabc-449a-9433-516663053622",
+  "kind": "boats",
+  "currentPath": "Sailboats/Delaware Ducker/16ft Delaware Ducker",
+  "name": "16ft Delaware Ducker",
+  "metadata": null,
+  "classId": null,
+  "sailNumber": null,
+  "pathHistory": [
+    "Sailboats/Delaware Ducker/16ft Delaware Ducker"
+  ],
+  "status": "present",
+  "assetIds": [
+    "27e07a9f-00c6-4aee-be04-260c306316a0",
+    "3013687e-8290-4010-b5af-6e72cbc2cfe3",
+    "5dfacefb-3c3b-4cbb-82b0-ab324a53fe28",
+    "61245faa-3e0c-4edb-9823-d30a20171c1d",
+    "74a2eecf-de74-4e23-a0f3-08102dd6a0a1",
+    "d51c465e-301f-44e4-90c5-0c67e9c8d4c6",
+    "f24c0082-ad4c-4ee2-88f3-e0bb183d0d97"
+  ]
+}

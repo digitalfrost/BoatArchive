@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "entityId": "8a8d4542-0d5b-4555-ab83-8942cd3a04e1",
+  "kind": "boats",
+  "currentPath": "Powerboats/Semi-Dories/19ft Semi-Dory",
+  "name": "19ft Semi-Dory",
+  "metadata": null,
+  "classId": null,
+  "sailNumber": null,
+  "pathHistory": [
+    "Powerboats/Semi-Dories/19ft Semi-Dory"
+  ],
+  "status": "present",
+  "assetIds": [
+    "330344be-002c-4016-a7fd-4dd16acd2515",
+    "42379f12-da4f-4cca-b010-dae532cd931d",
+    "42527474-02ca-416b-a9d1-437fbe6ceade",
+    "55621945-e6bc-4bbe-90e4-6de367dde980",
+    "58b1077a-df95-423f-ae2e-a3ac2f15d75c",
+    "74a8c667-3d2b-4e22-9b85-d45d0f7640f7",
+    "8751608a-6637-4a95-8e7e-e081eb501340",
+    "9c25850b-9a94-43db-8fc3-a33797968e6d",
+    "9ddca00b-b7ee-4e4a-9fed-1da423339b11",
+    "a0d79ebb-71db-45cc-972d-dd19bfbc7e06",
+    "c8920d3b-2029-4735-9f87-91f6c95be8e6",
+    "d08678b4-355d-4b36-8cd9-b43cf442f307",
+    "df13b03d-6130-4a90-9ece-594e4c6f79f3",
+    "dfa90e9b-8182-476b-99df-365c8359d5f1"
+  ]
+}

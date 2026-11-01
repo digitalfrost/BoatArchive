@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assetId": "326a7080-372d-4a7c-8b22-9e709ffe0bec",
+  "assetRole": "boat-reference",
+  "associationOverride": false,
+  "contentHash": "d292828cb5cec98693a5c025e8d94febcf6d22a5df3e791df0b29dadfb2f5483",
+  "currentPath": "Sailboats/Secret 20/_videos/videos.txt",
+  "originalFilename": "videos.txt",
+  "pathHistory": [
+    "Sailboats/Secret 20/_videos/videos.txt"
+  ],
+  "status": "present",
+  "sizeBytes": 64,
+  "modifiedAt": "2026-10-20T10:05:17.573Z",
+  "classId": "83f5214b-be93-43d0-a34b-c44c5a2378d3",
+  "boatId": null,
+  "metadata": null,
+  "tags": [],
+  "notes": ""
+}

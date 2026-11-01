@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "entityId": "a2ac0bf0-9424-4a9f-a91a-1afc725d9183",
+  "kind": "boats",
+  "currentPath": "Sailboats/Sneak Box/Lady Jane",
+  "name": "Lady Jane",
+  "metadata": null,
+  "classId": null,
+  "sailNumber": null,
+  "pathHistory": [
+    "Sailboats/Sneak Box/Lady Jane"
+  ],
+  "status": "present",
+  "assetIds": [
+    "271b347b-6903-413d-af77-4a9da499c70b",
+    "5c901777-d362-4117-adeb-ed8f60ddc481",
+    "68ff3d68-d7f5-4015-8210-14fb78f238e7",
+    "81268b15-caeb-4c7d-83c2-b03a06795d1d",
+    "9dba3283-e539-4ad0-a149-a3010a027c10",
+    "bd016cf8-3b66-460e-8a70-6677ae92f0ae",
+    "d0c638c3-df30-4c8f-b733-ec951b9b3004"
+  ]
+}

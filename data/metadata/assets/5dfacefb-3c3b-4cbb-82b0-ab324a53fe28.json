@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assetId": "5dfacefb-3c3b-4cbb-82b0-ab324a53fe28",
+  "assetRole": "boat-reference",
+  "associationOverride": false,
+  "contentHash": "b57ea5a0c6a8ab66b94072523f13776d0db072ff7d4b6e1cb16d937851c4c907",
+  "currentPath": "Sailboats/Delaware Ducker/16ft Delaware Ducker/16ft-delaware-ducker-004.jpg",
+  "originalFilename": "16ft-delaware-ducker-004.jpg",
+  "pathHistory": [
+    "Sailboats/Delaware Ducker/16ft Delaware Ducker/16ft-delaware-ducker-004.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 291039,
+  "modifiedAt": "2026-11-01T11:03:39.192Z",
+  "classId": null,
+  "boatId": "7f4cc8bd-cabc-449a-9433-516663053622",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": ""
+}

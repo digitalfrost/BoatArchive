@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assetId": "271b347b-6903-413d-af77-4a9da499c70b",
+  "assetRole": "boat-reference",
+  "associationOverride": false,
+  "contentHash": "f8cea6812accc76548d216dc89340f8de122062d28a2c8c8ff21adee11195983",
+  "currentPath": "Sailboats/Sneak Box/Lady Jane/lady-jane-004.jpg",
+  "originalFilename": "lady-jane-004.jpg",
+  "pathHistory": [
+    "Sailboats/Sneak Box/Lady Jane/lady-jane-004.jpg"
+  ],
+  "status": "present",
+  "sizeBytes": 360058,
+  "modifiedAt": "2026-11-01T11:28:44.379Z",
+  "classId": null,
+  "boatId": "a2ac0bf0-9424-4a9f-a91a-1afc725d9183",
+  "metadata": "{\"format\":\"jpeg\"}",
+  "tags": [],
+  "notes": ""
+}

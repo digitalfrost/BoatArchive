@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assetId": "bba0002e-cfcd-4ca1-a751-44cd1442e0e9",
+  "assetRole": "boat-reference",
+  "associationOverride": false,
+  "contentHash": "2b03af7304ebb0467f93574e6ecbd272c04d1e1f62944ada6306c28b65aa87a6",
+  "currentPath": "Powerboats/Semi-Dories/18ft Gardner Semi-Dory/18ft-semi-dory-008.webp",
+  "originalFilename": "18ft-semi-dory-008.webp",
+  "pathHistory": [
+    "Powerboats/Semi-Dories/18ft Gardner Semi-Dory/18ft-semi-dory-008.webp"
+  ],
+  "status": "present",
+  "sizeBytes": 83336,
+  "modifiedAt": "2026-10-23T13:54:17.545Z",
+  "classId": null,
+  "boatId": "2d80e72b-9276-450b-96e9-af5e1b7cccf0",
+  "metadata": "{\"format\":\"webp\"}",
+  "tags": [],
+  "notes": ""
+}
